@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>∙</string>
+		<key>Description</key>
+		<string>Bullet Operator</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>•</string>
+		<key>Description</key>
+		<string>Bullet</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>・</string>
+		<key>Description</key>
+		<string>Katakana Middle Dot</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>◦</string>
+        <key>Description</key>
+        <string>White Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>●</string>
+        <key>Description</key>
+        <string>Black Circle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>○</string>
+        <key>Description</key>
+        <string>White Circle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◎</string>
+        <key>Description</key>
+        <string>Bullseye</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◉</string>
+        <key>Description</key>
+        <string>Fisheye</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦿</string>
+        <key>Description</key>
+        <string>Circled Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁌</string>
+        <key>Description</key>
+        <string>Black Leftwards Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁍</string>
+        <key>Description</key>
+        <string>Black Rightwards Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁃</string>
+        <key>Description</key>
+        <string>Hyphen Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>-</string>
+        <key>Description</key>
+        <string>Hyphen Minus</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>■</string>
+        <key>Description</key>
+        <string>Black Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>□</string>
+        <key>Description</key>
+        <string>White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☐</string>
+        <key>Description</key>
+        <string>Ballot Box</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☑︎</string>
+        <key>Description</key>
+        <string>Ballot Box With Check</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☒</string>
+        <key>Description</key>
+        <string>Ballot Box With X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▪︎</string>
+        <key>Description</key>
+        <string>Black Small Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▫︎</string>
+        <key>Description</key>
+        <string>White Small Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◻︎</string>
+        <key>Description</key>
+        <string>White Medium Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◼︎</string>
+        <key>Description</key>
+        <string>Black Medium Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◘</string>
+        <key>Description</key>
+        <string>Inverse Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◆</string>
+        <key>Description</key>
+        <string>Black Diamond</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◇</string>
+        <key>Description</key>
+        <string>White Diamond</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❖</string>
+        <key>Description</key>
+        <string>Black Diamond Minus White X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▶︎</string>
+        <key>Description</key>
+        <string>Black Right Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▷</string>
+        <key>Description</key>
+        <string>White Right Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‣</string>
+        <key>Description</key>
+        <string>Triangular Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▸</string>
+        <key>Description</key>
+        <string>Black Right Pointing Small Triangular</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▹</string>
+        <key>Description</key>
+        <string>White Right Pointing Small Triangular</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>►</string>
+        <key>Description</key>
+        <string>Black Right Pointing Pointer</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▻</string>
+        <key>Description</key>
+        <string>White Right Pointing Pointer</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◀︎</string>
+        <key>Description</key>
+        <string>Black Left Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◁</string>
+        <key>Description</key>
+        <string>White Left Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▼</string>
+        <key>Description</key>
+        <string>Black Down Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▽</string>
+        <key>Description</key>
+        <string>White Down Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▾</string>
+        <key>Description</key>
+        <string>Black Down Pointing Small Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▿</string>
+        <key>Description</key>
+        <string>White Down Pointing Small Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▴</string>
+        <key>Description</key>
+        <string>Black Up Pointing Small Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▵</string>
+        <key>Description</key>
+        <string>White Up Pointing Small Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▲</string>
+        <key>Description</key>
+        <string>Black Up Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>△</string>
+        <key>Description</key>
+        <string>White Up Pointing Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☞</string>
+        <key>Description</key>
+        <string>White Right Pointing Index</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☛</string>
+        <key>Description</key>
+        <string>Black Right Pointing Index</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☜</string>
+        <key>Description</key>
+        <string>White Left Pointing Index</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☚</string>
+        <key>Description</key>
+        <string>Black Left Pointing Index</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☝︎</string>
+        <key>Description</key>
+        <string>White Up Pointing Index</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☟</string>
+        <key>Description</key>
+        <string>Black Down Pointing Index</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➢</string>
+        <key>Description</key>
+        <string>Three-D Top Lighted Rightwards Arrowhead</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➣</string>
+        <key>Description</key>
+        <string>Three-D Bottom Lighted Rightwards Arrowhead</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➤</string>
+        <key>Description</key>
+        <string>Black Rightwards Arrowhead</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✢</string>
+        <key>Description</key>
+        <string>Four Teardrop Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✣</string>
+        <key>Description</key>
+        <string>Four Balloon Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✤</string>
+        <key>Description</key>
+        <string>Heavy Four Balloon Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✥</string>
+        <key>Description</key>
+        <string>Four Club Spoked Asterisk</string>
+    </dict>
+    
+</array>
+</plist>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>+</string>
+		<key>Description</key>
+		<string>Plus Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>−</string>
+		<key>Description</key>
+		<string>Minus Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>-</string>
+		<key>Description</key>
+		<string>Hyphen Minus</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>×</string>
+		<key>Description</key>
+		<string>Multiplication Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>÷</string>
+		<key>Description</key>
+		<string>Division Sign</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>±</string>
+        <key>Description</key>
+        <string>PLUS-MINUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∓</string>
+        <key>Description</key>
+        <string>MINUS-OR-PLUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∔</string>
+        <key>Description</key>
+        <string>DOT PLUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>=</string>
+        <key>Description</key>
+        <string>EQUALS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>¬</string>
+        <key>Description</key>
+        <string>NOT SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∩</string>
+        <key>Description</key>
+        <string>INTERSECTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∪</string>
+        <key>Description</key>
+        <string>UNION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∝</string>
+        <key>Description</key>
+        <string>PROPORTIONAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∞</string>
+        <key>Description</key>
+        <string>INFINITY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℵ</string>
+        <key>Description</key>
+        <string>ALEF SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℇ</string>
+        <key>Description</key>
+        <string>EULER CONSTANT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∀</string>
+        <key>Description</key>
+        <string>FOR ALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∁</string>
+        <key>Description</key>
+        <string>COMPLEMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∂</string>
+        <key>Description</key>
+        <string>PARTIAL DIFFERENTIAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∃</string>
+        <key>Description</key>
+        <string>THERE EXISTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∄</string>
+        <key>Description</key>
+        <string>THERE DOES NOT EXIST</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∅</string>
+        <key>Description</key>
+        <string>EMPTY SET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∆</string>
+        <key>Description</key>
+        <string>INCREMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∇</string>
+        <key>Description</key>
+        <string>NABLA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊂</string>
+        <key>Description</key>
+        <string>SUBSET OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊃</string>
+        <key>Description</key>
+        <string>SUPERSET OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊄</string>
+        <key>Description</key>
+        <string>NOT A SUBSET OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊅</string>
+        <key>Description</key>
+        <string>NOT A SUPERSET OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊆</string>
+        <key>Description</key>
+        <string>SUBSET OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊇</string>
+        <key>Description</key>
+        <string>SUPERSET OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊈</string>
+        <key>Description</key>
+        <string>NEITHER A SUBSET OF NOR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊉</string>
+        <key>Description</key>
+        <string>NEITHER A SUPERSET OF NOR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊊</string>
+        <key>Description</key>
+        <string>SUBSET OF WITH NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊋</string>
+        <key>Description</key>
+        <string>SUPERSET OF WITH NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∈</string>
+        <key>Description</key>
+        <string>ELEMENT OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∉</string>
+        <key>Description</key>
+        <string>NOT AN ELEMENT OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∊</string>
+        <key>Description</key>
+        <string>SMALL ELEMENT OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∋</string>
+        <key>Description</key>
+        <string>CONTAINS AS MEMBER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∌</string>
+        <key>Description</key>
+        <string>DOES NOT CONTAIN AS MEMBER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∍</string>
+        <key>Description</key>
+        <string>SMALL CONTAINS AS MEMBER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∧</string>
+        <key>Description</key>
+        <string>LOGICAL AND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∨</string>
+        <key>Description</key>
+        <string>LOGICAL OR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>&lt;</string>
+        <key>Description</key>
+        <string>LESS-THAN SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>&gt;</string>
+        <key>Description</key>
+        <string>GREATER-THAN SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≤</string>
+        <key>Description</key>
+        <string>LESS-THAN OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≥</string>
+        <key>Description</key>
+        <string>GREATER-THAN OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≦</string>
+        <key>Description</key>
+        <string>LESS-THAN OVER EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≧</string>
+        <key>Description</key>
+        <string>GREATER-THAN OVER EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≨</string>
+        <key>Description</key>
+        <string>LESS-THAN BUT NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≩</string>
+        <key>Description</key>
+        <string>GREATER-THAN BUT NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≪</string>
+        <key>Description</key>
+        <string>MUCH LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≫</string>
+        <key>Description</key>
+        <string>MUCH GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≭</string>
+        <key>Description</key>
+        <string>NOT EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≮</string>
+        <key>Description</key>
+        <string>NOT LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≯</string>
+        <key>Description</key>
+        <string>NOT GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≰</string>
+        <key>Description</key>
+        <string>NEITHER LESS-THAN NOR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≱</string>
+        <key>Description</key>
+        <string>NEITHER GREATER-THAN NOR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≲</string>
+        <key>Description</key>
+        <string>LESS-THAN OR EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≳</string>
+        <key>Description</key>
+        <string>GREATER-THAN OR EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≴</string>
+        <key>Description</key>
+        <string>NEITHER LESS-THAN NOR EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≶</string>
+        <key>Description</key>
+        <string>LESS-THAN OR GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≷</string>
+        <key>Description</key>
+        <string>GREATER-THAN OR LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≸</string>
+        <key>Description</key>
+        <string>NEITHER LESS-THAN NOR GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≹</string>
+        <key>Description</key>
+        <string>NEITHER GREATER-THAN NOR LESS-THAN</string>
+    </dict>
+    
+    
+    </array>
+</plist>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>⊢</string>
+        <key>Description</key>
+        <string>RIGHT TACK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊣</string>
+        <key>Description</key>
+        <string>LEFT TACK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊤</string>
+        <key>Description</key>
+        <string>DOWN TACK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊥</string>
+        <key>Description</key>
+        <string>UP TACK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊦</string>
+        <key>Description</key>
+        <string>ASSERTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊧</string>
+        <key>Description</key>
+        <string>MODELS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊨</string>
+        <key>Description</key>
+        <string>TRUE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊩</string>
+        <key>Description</key>
+        <string>FORCES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊪</string>
+        <key>Description</key>
+        <string>TRIPLE VERTICAL BAR RIGHT TURNSTILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊫</string>
+        <key>Description</key>
+        <string>DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊬</string>
+        <key>Description</key>
+        <string>DOES NOT PROVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊭</string>
+        <key>Description</key>
+        <string>NOT TRUE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊮</string>
+        <key>Description</key>
+        <string>DOES NOT FORCE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊯</string>
+        <key>Description</key>
+        <string>NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊰</string>
+        <key>Description</key>
+        <string>PRECEDES UNDER RELATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊱</string>
+        <key>Description</key>
+        <string>SUCCEEDS UNDER RELATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊲</string>
+        <key>Description</key>
+        <string>NORMAL SUBGROUP OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊳</string>
+        <key>Description</key>
+        <string>CONTAINS AS NORMAL SUBGROUP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊴</string>
+        <key>Description</key>
+        <string>NORMAL SUBGROUP OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊵</string>
+        <key>Description</key>
+        <string>CONTAINS AS NORMAL SUBGROUP OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊶</string>
+        <key>Description</key>
+        <string>ORIGINAL OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊷</string>
+        <key>Description</key>
+        <string>IMAGE OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊸</string>
+        <key>Description</key>
+        <string>MULTIMAP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊹</string>
+        <key>Description</key>
+        <string>HERMITIAN CONJUGATE MATRIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊺</string>
+        <key>Description</key>
+        <string>INTERCALATE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊻</string>
+        <key>Description</key>
+        <string>XOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊼</string>
+        <key>Description</key>
+        <string>NAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊽</string>
+        <key>Description</key>
+        <string>NOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊾</string>
+        <key>Description</key>
+        <string>RIGHT ANGLE WITH ARC</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊿</string>
+        <key>Description</key>
+        <string>RIGHT TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋀</string>
+        <key>Description</key>
+        <string>N-ARY LOGICAL AND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋁</string>
+        <key>Description</key>
+        <string>N-ARY LOGICAL OR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋂</string>
+        <key>Description</key>
+        <string>N-ARY INTERSECTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋃</string>
+        <key>Description</key>
+        <string>N-ARY UNION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋄</string>
+        <key>Description</key>
+        <string>DIAMOND OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋅</string>
+        <key>Description</key>
+        <string>DOT OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋆</string>
+        <key>Description</key>
+        <string>STAR OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋇</string>
+        <key>Description</key>
+        <string>DIVISION TIMES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋈</string>
+        <key>Description</key>
+        <string>BOWTIE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋉</string>
+        <key>Description</key>
+        <string>LEFT NORMAL FACTOR SEMIDIRECT PRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋊</string>
+        <key>Description</key>
+        <string>RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋋</string>
+        <key>Description</key>
+        <string>LEFT SEMIDIRECT PRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋌</string>
+        <key>Description</key>
+        <string>RIGHT SEMIDIRECT PRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋍</string>
+        <key>Description</key>
+        <string>REVERSED TILDE EQUALS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋎</string>
+        <key>Description</key>
+        <string>CURLY LOGICAL OR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋏</string>
+        <key>Description</key>
+        <string>CURLY LOGICAL AND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋐</string>
+        <key>Description</key>
+        <string>DOUBLE SUBSET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋑</string>
+        <key>Description</key>
+        <string>DOUBLE SUPERSET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋒</string>
+        <key>Description</key>
+        <string>DOUBLE INTERSECTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋓</string>
+        <key>Description</key>
+        <string>DOUBLE UNION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋔</string>
+        <key>Description</key>
+        <string>PITCHFORK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋕</string>
+        <key>Description</key>
+        <string>EQUAL AND PARALLEL TO</string>
+    </dict>
+    
+
+</array>
+</plist>

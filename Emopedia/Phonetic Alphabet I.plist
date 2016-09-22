@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>a</string>
+		<key>Description</key>
+		<string>LATIN SMALL LETTER A</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>ɑ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER A</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɐ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER TURNED A</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɒ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER TURNED ALPHA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>æ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER AE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>b</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER B</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʙ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL B</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɓ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER B WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>β</string>
+        <key>Description</key>
+        <string>GREEK SMALL LETTER BETA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>c</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER C</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ç</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER C WITH CEDILLA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ƈ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER C WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɕ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER C WITH CURL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>d</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER D</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ð</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER ETH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɗ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER D WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɖ</string>
+        <key>DesLATIN SMALL LETTER D WITH TAILcription</key>
+        <string></string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>e</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɛ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER OPEN E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɜ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER REVERSED OPEN E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ə</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER SCHWA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>f</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER F</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɡ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER SCRIPT G</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɢ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL G</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɠ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER G WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʛ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL G WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɣ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER GAMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɤ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER RAMS HORN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˠ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL GAMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>h</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʜ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɦ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER H WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ħ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER H WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʰ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɧ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER HENG WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɪ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL I</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɨ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER I WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ı</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER DOTLESS I</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>j</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER J</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɟ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER DOTLESS J WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʝ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER J WITH CROSSED-TAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʄ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᴊ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL J</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʲ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL J</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>k</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER K</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ƙ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER K WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>l</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ʟ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɬ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER L WITH BELT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɭ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER L WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɮ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER LEZH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɫ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER L WITH MIDDLE TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˡ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>m</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER M</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɰ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER TURNED M WITH LONG LEG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɯ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER TURNED M</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɱ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER M WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>n</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER N</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɴ</string>
+        <key>Description</key>
+        <string>LATIN LETTER SMALL CAPITAL N</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ŋ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER ENG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɲ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER N WITH LEFT HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ɳ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER N WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⁿ</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT LATIN SMALL LETTER N</string>
+    </dict>
+    
+</array>
+</plist>

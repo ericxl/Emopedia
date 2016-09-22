@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>©</string>
+		<key>Description</key>
+		<string>Copyright Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>℗</string>
+		<key>Description</key>
+		<string>Sound Recording Copyright</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>®</string>
+		<key>Description</key>
+		<string>Registered Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>℠</string>
+		<key>Description</key>
+		<string>Service Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>℡</string>
+		<key>Description</key>
+		<string>Telephone Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>™</string>
+		<key>Description</key>
+		<string>Trade Mark Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>℻</string>
+		<key>Description</key>
+		<string>Facsimile Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>№</string>
+		<key>Description</key>
+		<string>Numero Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>%</string>
+		<key>Description</key>
+		<string>Percent Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>٪</string>
+		<key>Description</key>
+		<string>Arabic Percent Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‰</string>
+		<key>Description</key>
+		<string>Per Mille Sign</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>‱</string>
+        <key>Description</key>
+        <string>PER TEN THOUSAND SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℃</string>
+        <key>Description</key>
+        <string>DEGREE CELSIUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℉</string>
+        <key>Description</key>
+        <string>DEGREE FAHRENHEIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>°</string>
+        <key>Description</key>
+        <string>DEGREE SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>@</string>
+        <key>Description</key>
+        <string>COMMERCIAL AT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ª</string>
+        <key>Description</key>
+        <string>FEMININE ORDINAL INDICATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>º</string>
+        <key>Description</key>
+        <string>MASCULINE ORDINAL INDICATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℄</string>
+        <key>Description</key>
+        <string>CENTRE LINE SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℀</string>
+        <key>Description</key>
+        <string>ACCOUNT OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℁</string>
+        <key>Description</key>
+        <string>ADDRESSED TO THE SUBJECT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℅</string>
+        <key>Description</key>
+        <string>CARE OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℆</string>
+        <key>Description</key>
+        <string>CADA UNA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℂ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL C</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℇ</string>
+        <key>Description</key>
+        <string>EULER CONSTANT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℈</string>
+        <key>Description</key>
+        <string>SCRUPLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℊ</string>
+        <key>Description</key>
+        <string>SCRIPT SMALL G</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℋ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℌ</string>
+        <key>Description</key>
+        <string>BLACK-LETTER CAPITAL H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℍ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℎ</string>
+        <key>Description</key>
+        <string>PLANCK CONSTANT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℏ</string>
+        <key>Description</key>
+        <string>PLANK CONSTANT OVER TWO PI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℐ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL I</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℑ</string>
+        <key>Description</key>
+        <string>BLACK-LETTER CAPITAL I</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℒ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℓ</string>
+        <key>Description</key>
+        <string>SCRIPT SMALL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℔</string>
+        <key>Description</key>
+        <string>L B BAR SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℕ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL N</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℘</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL P</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℙ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL P</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℚ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL Q</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℛ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL R</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℜ</string>
+        <key>Description</key>
+        <string>BLACK-LETTER CAPITAL R</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℝ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL R</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℞</string>
+        <key>Description</key>
+        <string>PRESCRIPTION TAKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℟</string>
+        <key>Description</key>
+        <string>RESPONSE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℣</string>
+        <key>Description</key>
+        <string>VERSICLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℤ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL Z</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℥</string>
+        <key>Description</key>
+        <string>OUNCE SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℨ</string>
+        <key>Description</key>
+        <string>BLACK-LETTER CAPITAL Z</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℩</string>
+        <key>Description</key>
+        <string>TURNED GREEK SMALL LETTER IOTA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>K</string>
+        <key>Description</key>
+        <string>LATIN CAPITAL LETTER K</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℬ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL B</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℭ</string>
+        <key>Description</key>
+        <string>BLACK-LETTER CAPITAL C</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℮</string>
+        <key>Description</key>
+        <string>ESTIMATED SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℯ</string>
+        <key>Description</key>
+        <string>SCRIPT SMALL E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℰ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℱ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL F</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅎ</string>
+        <key>Description</key>
+        <string>TURNED CAPITAL F</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℳ</string>
+        <key>Description</key>
+        <string>SCRIPT CAPITAL M</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℴ</string>
+        <key>Description</key>
+        <string>SCRIPT SMALL O</string>
+    </dict>
+    
+    </array>
+</plist>

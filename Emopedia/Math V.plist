@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>⋖</string>
+        <key>Description</key>
+        <string>LESS-THAN WITH DOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋗</string>
+        <key>Description</key>
+        <string>GREATER-THAN WITH DOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋘</string>
+        <key>Description</key>
+        <string>VERY MUCH LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋙</string>
+        <key>Description</key>
+        <string>VERY MUCH GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋚</string>
+        <key>Description</key>
+        <string>LESS-THAN EQUAL TO OR GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋛</string>
+        <key>Description</key>
+        <string>GREATER-THAN EQUAL TO OR LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋜</string>
+        <key>Description</key>
+        <string>EQUAL TO OR LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋝</string>
+        <key>Description</key>
+        <string>EQUAL TO OR GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋞</string>
+        <key>Description</key>
+        <string>EQUAL TO OR PRECEDES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋟</string>
+        <key>Description</key>
+        <string>EQUAL TO OR SUCCEEDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋠</string>
+        <key>Description</key>
+        <string>DOES NOT PRECEDE OR EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋡</string>
+        <key>Description</key>
+        <string>DOES NOT SUCCEED OR EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋢</string>
+        <key>Description</key>
+        <string>NOT SQUARE IMAGE OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋣</string>
+        <key>Description</key>
+        <string>NOT SQUARE ORIGINAL OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋤</string>
+        <key>Description</key>
+        <string>SQUARE IMAGE OF OR NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋥</string>
+        <key>Description</key>
+        <string>SQUARE ORIGINAL OF OR NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋦</string>
+        <key>Description</key>
+        <string>LESS-THAN BUT NOT EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋧</string>
+        <key>Description</key>
+        <string>GREATER-THAN BUT NOT EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋨</string>
+        <key>Description</key>
+        <string>PRECEDES BUT NOT EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋩</string>
+        <key>Description</key>
+        <string>SUCCEEDS BUT NOT EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋪</string>
+        <key>Description</key>
+        <string>NOT NORMAL SUBGROUP OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋫</string>
+        <key>Description</key>
+        <string>DOES NOT CONTAIN AS NORMAL SUBGROUP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋬</string>
+        <key>Description</key>
+        <string>NOT NORMAL SUBGROUP OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋭</string>
+        <key>Description</key>
+        <string>DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋮</string>
+        <key>Description</key>
+        <string>VERTICAL ELLIPSIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋯</string>
+        <key>Description</key>
+        <string>MIDLINE HORIZONTAL ELLIPSIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋰</string>
+        <key>Description</key>
+        <string>UP RIGHT DIAGONAL ELLIPSIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⋱</string>
+        <key>Description</key>
+        <string>DOWN RIGHT DIAGONAL ELLIPSIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⨀</string>
+        <key>Description</key>
+        <string>N-ARY CIRCLED DOT OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⨦</string>
+        <key>Description</key>
+        <string>PLUS SIGN WITH TILDE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⨯</string>
+        <key>Description</key>
+        <string>VECTOR OR CROSS PRPDUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⨸</string>
+        <key>Description</key>
+        <string>CIRCLED DIVISION SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⩲</string>
+        <key>Description</key>
+        <string>PLUS SIGN ABOVE EQUALS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⪋</string>
+        <key>Description</key>
+        <string>LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⪌</string>
+        <key>Description</key>
+        <string>GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⪑</string>
+        <key>Description</key>
+        <string>LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⪒</string>
+        <key>Description</key>
+        <string>GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⫅</string>
+        <key>Description</key>
+        <string>SUBSET OF ABOVE EQUALS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⫆</string>
+        <key>Description</key>
+        <string>SUPERSET OF ABOVE EQUALS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⫋</string>
+        <key>Description</key>
+        <string>SUBSET OF ABOVE NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⫌</string>
+        <key>Description</key>
+        <string>SUPERSET OF ABOVE NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⫨</string>
+        <key>Description</key>
+        <string>SHORT UP TACK WITH UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⟠</string>
+        <key>Description</key>
+        <string>LOZENGE DIVIDED BY HORIZONTAL RULE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦁</string>
+        <key>Description</key>
+        <string>Z NOTATION SPOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦣</string>
+        <key>Description</key>
+        <string>REVERSED ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦾</string>
+        <key>Description</key>
+        <string>CIRCLED WHITE BULLET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦿</string>
+        <key>Description</key>
+        <string>CIRCLED BULLET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⧈</string>
+        <key>Description</key>
+        <string>SQUARED SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⧫</string>
+        <key>Description</key>
+        <string>BLACK LOZENGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⧵</string>
+        <key>Description</key>
+        <string>REVERSE SOLIDUS OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⧺</string>
+        <key>Description</key>
+        <string>DOUBLE PLUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⧻</string>
+        <key>Description</key>
+        <string>TRIPLE PLUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁺</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT PLUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁻</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁼</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT EQUALS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁽</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT LEFT PARENTHESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁾</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT RIGHT PARENTHESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⁿ</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT LATIN SMALL LETTER N</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₊</string>
+        <key>Description</key>
+        <string>SUBSCRIPT PLUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₋</string>
+        <key>Description</key>
+        <string>SUBSCRIPT MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₌</string>
+        <key>Description</key>
+        <string>SUBSCRIPT EQUALS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₍</string>
+        <key>Description</key>
+        <string>SUBSCRIPT LEFT PARENTHESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₎</string>
+        <key>Description</key>
+        <string>SUBSCRIPT RIGHT PARENTHESIS</string>
+    </dict>
+</array>
+</plist>

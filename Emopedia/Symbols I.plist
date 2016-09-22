@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>💤</string>
+        <key>Description</key>
+        <string>SLEEPING SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚸</string>
+        <key>Description</key>
+        <string>CHILDREN CROSSING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚫</string>
+        <key>Description</key>
+        <string>NO ENTRY SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛔️</string>
+        <key>Description</key>
+        <string>NO ENTRY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📛</string>
+        <key>Description</key>
+        <string>NAME BADGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚷</string>
+        <key>Description</key>
+        <string>NO PEDESTRIANS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚯</string>
+        <key>Description</key>
+        <string>DO NOT LITTER SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚳</string>
+        <key>Description</key>
+        <string>NO BICYCLES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚱</string>
+        <key>Description</key>
+        <string>NON-POTABLE WATER SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📵</string>
+        <key>Description</key>
+        <string>NO MOBILE PHONES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔞</string>
+        <key>Description</key>
+        <string>NO ONE UNDER EIGHTEEN SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🉑</string>
+        <key>Description</key>
+        <string>CIRCLED IDEOGRAPH ACCEPT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🉐</string>
+        <key>Description</key>
+        <string>CIRCLED IDEOGRAPH ADVANTAGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💮</string>
+        <key>Description</key>
+        <string>WHITE FLOWER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊙️</string>
+        <key>Description</key>
+        <string>CIRCLED IDEOGRAPH SECRET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊗️</string>
+        <key>Description</key>
+        <string>CIRCLED IDEOGRAPH CONGRATULATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈴</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-5408</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈵</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-6E80</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈲</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-7981</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈶</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-6709</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈚️</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-7121</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈸</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-7533</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈺</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-55B6</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈷</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-6708</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈹</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-5272</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈳</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-7A7A</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈂</string>
+        <key>Description</key>
+        <string>SQUARED KATAKANA SA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈁</string>
+        <key>Description</key>
+        <string>SQUARED KATAKANA KOKO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🈯️</string>
+        <key>Description</key>
+        <string>SQUARED CJK UNIFIED IDEOGRAPH-6307</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💹</string>
+        <key>Description</key>
+        <string>CHART WITH UPWARDS TREND AND YEN SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❇️</string>
+        <key>Description</key>
+        <string>SPARKLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✳️</string>
+        <key>Description</key>
+        <string>EIGHT SPOKED ASTERISK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❎</string>
+        <key>Description</key>
+        <string>NEGATIVE SQUARED CROSS MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✅</string>
+        <key>Description</key>
+        <string>WHITE HEAVY CHECK MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✴️</string>
+        <key>Description</key>
+        <string>EIGHT POINTED BLACK STAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📳</string>
+        <key>Description</key>
+        <string>VIBRATION MODE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📴</string>
+        <key>Description</key>
+        <string>MOBILE PHONE OFF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆚</string>
+        <key>Description</key>
+        <string>SQUARED VS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🅰</string>
+        <key>Description</key>
+        <string>NEGATIVE SQUARED LATIN CAPITAL LETTER A</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🅱</string>
+        <key>Description</key>
+        <string>NEGATIVE SQUARED LATIN CAPITAL LETTER B</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆎</string>
+        <key>Description</key>
+        <string>NEGATIVE SQUARED AB</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆑</string>
+        <key>Description</key>
+        <string>SQUARED CL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🅾</string>
+        <key>Description</key>
+        <string>NEGATIVE SQUARED LATIN CAPITAL LETTER O</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆘</string>
+        <key>Description</key>
+        <string>SQUARED SOS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆔</string>
+        <key>Description</key>
+        <string>SQUARED ID</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🅿️</string>
+        <key>Description</key>
+        <string>NEGATIVE SQUARED LATIN CAPITAL LETTER P</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚾</string>
+        <key>Description</key>
+        <string>WATER CLOSET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆒</string>
+        <key>Description</key>
+        <string>SQUARED COOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆓</string>
+        <key>Description</key>
+        <string>SQUARED FREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆕</string>
+        <key>Description</key>
+        <string>SQUARED NEW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆖</string>
+        <key>Description</key>
+        <string>SQUARED NG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆗</string>
+        <key>Description</key>
+        <string>SQUARED OK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🆙</string>
+        <key>Description</key>
+        <string>SQUARED UP WITH EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏧</string>
+        <key>Description</key>
+        <string>AUTOMATED TELLER MACHINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♈️</string>
+        <key>Description</key>
+        <string>ARIES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♉️</string>
+        <key>Description</key>
+        <string>TAURUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♊️</string>
+        <key>Description</key>
+        <string>GEMINI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♋️</string>
+        <key>Description</key>
+        <string>CANCER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♌️</string>
+        <key>Description</key>
+        <string>LEO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♍️</string>
+        <key>Description</key>
+        <string>VIRGO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♎️</string>
+        <key>Description</key>
+        <string>LIBRA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♏️</string>
+        <key>Description</key>
+        <string>SCORPIUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♐️</string>
+        <key>Description</key>
+        <string>SAGITTARIUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♑️</string>
+        <key>Description</key>
+        <string>CAPRICORN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♒️</string>
+        <key>Description</key>
+        <string>AQUARIUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♓️</string>
+        <key>Description</key>
+        <string>PISCES</string>
+    </dict>
+</array>
+</plist>

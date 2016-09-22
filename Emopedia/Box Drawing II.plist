@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>╼</string>
+        <key>Description</key>
+        <string>Box Drawings Light Left And Heavy Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╾</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Left And Light Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╽</string>
+        <key>Description</key>
+        <string>Box Drawings Light Up And Heavy Down</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╿</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Up And Light Down</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╱</string>
+        <key>Description</key>
+        <string>Box Drawings Light Diagonal Upper Right To Lower Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╲</string>
+        <key>Description</key>
+        <string>Box Drawings Light Diagonal Upper Left To Lower Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╳</string>
+        <key>Description</key>
+        <string>Box Drawings Light Diagonal Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┮</string>
+        <key>Description</key>
+        <string>Box Drawings Right Heavy And Left Down Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┱</string>
+        <key>Description</key>
+        <string>Box Drawings Right Light And Left Down Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┲</string>
+        <key>Description</key>
+        <string>Box Drawings Light And Right Down Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┭</string>
+        <key>Description</key>
+        <string>Box Drawings Left Heavy And Right Down Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┡</string>
+        <key>Description</key>
+        <string>Box Drawings Down Light And Right Up Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┽</string>
+        <key>Description</key>
+        <string>Box Drawings Left Heavy And Right Vertical Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╀</string>
+        <key>Description</key>
+        <string>Box Drawings Up Heavy And Down Horizontal Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╁</string>
+        <key>Description</key>
+        <string>Box Drawings Down Heavy And Up Horizontal Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┾</string>
+        <key>Description</key>
+        <string>Box Drawings Right Heavy And Left Vertical Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┩</string>
+        <key>Description</key>
+        <string>Box Drawings Down Light And Left Up Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┟</string>
+        <key>Description</key>
+        <string>Box Drawings Down Heavy And Right Up Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╆</string>
+        <key>Description</key>
+        <string>Box Drawings Right Down Heavy And Left Up Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╈</string>
+        <key>Description</key>
+        <string>Box Drawings Up Light And Down Horizontal Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╇</string>
+        <key>Description</key>
+        <string>Box Drawings Down Light And Up Horizontal Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╅</string>
+        <key>Description</key>
+        <string>Box Drawings Left Down Heavy And Right Up Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┧</string>
+        <key>Description</key>
+        <string>Box Drawings Down Heavy And Left Up Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┞</string>
+        <key>Description</key>
+        <string>Box Drawings Up Heavy And Right Down Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╄</string>
+        <key>Description</key>
+        <string>Box Drawings Right Up Heavy And Left Down Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╉</string>
+        <key>Description</key>
+        <string>Box Drawings Right Light And Left Vertical Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╊</string>
+        <key>Description</key>
+        <string>Box Drawings Left Light And Right Vertical Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╃</string>
+        <key>Description</key>
+        <string>Box Drawings Left Up Heavy And Right Down Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┦</string>
+        <key>Description</key>
+        <string>Box Drawings Up Heavy And Left Down Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┢</string>
+        <key>Description</key>
+        <string>Box Drawings Up Light And Right Down Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┶</string>
+        <key>Description</key>
+        <string>Box Drawings Right Heavy And Left Up Light</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┹</string>
+        <key>Description</key>
+        <string>Box Drawings Right Light And Left Up Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┺</string>
+        <key>Description</key>
+        <string>Box Drawings Left Light And Right Up Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┵</string>
+        <key>Description</key>
+        <string>Box Drawings Left Heavy And Right Up Hight</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┪</string>
+        <key>Description</key>
+        <string>Box Drawings Up Light And Left Down Heavy</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╴</string>
+        <key>Description</key>
+        <string>Box Drawings Light Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╵</string>
+        <key>Description</key>
+        <string>Box Drawings Light Up</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╶</string>
+        <key>Description</key>
+        <string>Box Drawings Light Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╷</string>
+        <key>Description</key>
+        <string>Box Drawings Light Down</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╸</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╹</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Up</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╺</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╻</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Down</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╭</string>
+        <key>Description</key>
+        <string>Box Drawings Light Arc Down And Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╰</string>
+        <key>Description</key>
+        <string>Box Drawings Light Arc Up And Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╮</string>
+        <key>Description</key>
+        <string>Box Drawings Light Arc Down And Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╯</string>
+        <key>Description</key>
+        <string>Box Drawings Light Arc Up And Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>│</string>
+        <key>Description</key>
+        <string>Box Drawings Light Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┃</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┊</string>
+        <key>Description</key>
+        <string>Box Drawings Light Quadruple Dash Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┋</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Duadruple Dash Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┆</string>
+        <key>Description</key>
+        <string>Box Drawings Light Triple Dash Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┇</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Triple Dash Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>─</string>
+        <key>Description</key>
+        <string>Box Drawings Light Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>━</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┈</string>
+        <key>Description</key>
+        <string>Box Drawings Light Duadruple Dash Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┉</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Quadruple Dash Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┄</string>
+        <key>Description</key>
+        <string>Box Drawings Light Triple Dash Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┅</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Triple Dash Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╎</string>
+        <key>Description</key>
+        <string>Box Drawings Light Double Dash Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╌</string>
+        <key>Description</key>
+        <string>Box Drawings Light Double Dash Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╏</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Double Dash Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>╍</string>
+        <key>Description</key>
+        <string>Box Drawings Heavy Double Dash Horizontal</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>║</string>
+        <key>Description</key>
+        <string>Box Drawings Double Vertical</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>═</string>
+        <key>Description</key>
+        <string>Box Drawings Horizontal</string>
+    </dict>
+</array>
+</plist>

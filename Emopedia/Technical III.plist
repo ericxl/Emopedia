@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>␣</string>
+        <key>Description</key>
+        <string>OPEN BOX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍽</string>
+        <key>Description</key>
+        <string>SHOULDERED OPEN BOX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑆</string>
+        <key>Description</key>
+        <string>ORC BRANCH BANK IDENTIFICATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑇</string>
+        <key>Description</key>
+        <string>ORC AMOUNT OF CHECK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑈</string>
+        <key>Description</key>
+        <string>ORC DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑉</string>
+        <key>Description</key>
+        <string>ORC CUSTOMER ACCOUNT NUMBER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑀</string>
+        <key>Description</key>
+        <string>ORC HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑁</string>
+        <key>Description</key>
+        <string>ORC CHAIR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑂</string>
+        <key>Description</key>
+        <string>ORC FORK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑃</string>
+        <key>Description</key>
+        <string>ORC INVERTED FORK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑄</string>
+        <key>Description</key>
+        <string>ORC BELT BUCKLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑅</string>
+        <key>Description</key>
+        <string>ORC BOW TIE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑊</string>
+        <key>Description</key>
+        <string>ORC DOUBLE BACKSLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎾</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏁</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏄</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏇</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏉</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‾</string>
+        <key>Description</key>
+        <string>OVERLINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>_</string>
+        <key>Description</key>
+        <string>LOW LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏋</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏀</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏃</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏆</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL WITH WAVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>┼</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL AND HORIZONTAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎿</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏌</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏂</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏅</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏈</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏊</string>
+        <key>Description</key>
+        <string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␀</string>
+        <key>Description</key>
+        <string>SYMBOL FOR NULL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␁</string>
+        <key>Description</key>
+        <string>SYMBOL FOR START OF HEADING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␂</string>
+        <key>Description</key>
+        <string>SYMBOL FOR START OF TEXT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␃</string>
+        <key>Description</key>
+        <string>SYMBOL FOR END OF TEXT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␄</string>
+        <key>Description</key>
+        <string>SYMBOL FOR END OF TRANSMISSION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␅</string>
+        <key>Description</key>
+        <string>SYMBOL FOR ENQUIRY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␆</string>
+        <key>Description</key>
+        <string>SYMBOL FOR ACKNOWLEDGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␇</string>
+        <key>Description</key>
+        <string>SYMBOL FOR BELL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␈</string>
+        <key>Description</key>
+        <string>SYMBOL FOR BACKSPACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␉</string>
+        <key>Description</key>
+        <string>SYMBOL FOR HORIZONTAL TABULATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␊</string>
+        <key>Description</key>
+        <string>SYMBOL FOR LINE FEED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␌</string>
+        <key>Description</key>
+        <string>SYMBOL FOR FORM FEED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␍</string>
+        <key>Description</key>
+        <string>SYMBOL FOR CARRIAGE RETURN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␎</string>
+        <key>Description</key>
+        <string>SYMBOL FOR SHIFT OUT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␏</string>
+        <key>Description</key>
+        <string>SYMBOL FOR SHIFT IN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␐</string>
+        <key>Description</key>
+        <string>SYMBOL FOR DATA LINK ESCAPE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␑</string>
+        <key>Description</key>
+        <string>SYMBOL FOR DEVICE CONTROL ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␒</string>
+        <key>Description</key>
+        <string>SYMBOL FOR DEVICE CONTROL TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␓</string>
+        <key>Description</key>
+        <string>SYMBOL FOR DEVICE CONTROL THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␔</string>
+        <key>Description</key>
+        <string>SYMBOL FOR DEVICE CONTROL FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␕</string>
+        <key>Description</key>
+        <string>SYMBOL FOR NEGATIVE ACKNOWLEDGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␖</string>
+        <key>Description</key>
+        <string>SYMBOL FOR SYNCHRONOUS IDLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␗</string>
+        <key>Description</key>
+        <string>SYMBOL FOR END OF TRANSMISSION BLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␘</string>
+        <key>Description</key>
+        <string>SYMBOL FOR CANCEL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␙</string>
+        <key>Description</key>
+        <string>SYMBOL FOR END OF MEDIUM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␚</string>
+        <key>Description</key>
+        <string>SYMBOL FOR SUBSTITUTE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␛</string>
+        <key>Description</key>
+        <string>SYMBOL FOR ESCAPE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␜</string>
+        <key>Description</key>
+        <string>SYMBOL FOR FILE SEPARATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␝</string>
+        <key>Description</key>
+        <string>SYMBOL FOR GROUP SEPARATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␞</string>
+        <key>Description</key>
+        <string>SYMBOL FOR RECORD SEPARATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␟</string>
+        <key>Description</key>
+        <string>SYMBOL FOR UNIT SEPARATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␠</string>
+        <key>Description</key>
+        <string>SYMBOL FOR SPACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␡</string>
+        <key>Description</key>
+        <string>SYMBOL FOR DELETE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␤</string>
+        <key>Description</key>
+        <string>SYMBOL FOR NEWLINE</string>
+    </dict>
+</array>
+</plist>

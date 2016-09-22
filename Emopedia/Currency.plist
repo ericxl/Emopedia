@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>$</string>
+		<key>Description</key>
+		<string>Dollar Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>€</string>
+		<key>Description</key>
+		<string>Euro Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¥</string>
+		<key>Description</key>
+		<string>Yen Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¢</string>
+		<key>Description</key>
+		<string>Cent Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>£</string>
+		<key>Description</key>
+		<string>Pound Sign</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>₽</string>
+        <key>Description</key>
+        <string>Ruble Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₨</string>
+        <key>Description</key>
+        <string>Rupee Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₩</string>
+        <key>Description</key>
+        <string>Won Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>฿</string>
+        <key>Description</key>
+        <string>Thai Currency Symbol Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₺</string>
+        <key>Description</key>
+        <string>Turkish Lira Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₮</string>
+        <key>Description</key>
+        <string>Tugrik Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₱</string>
+        <key>Description</key>
+        <string>Peso Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₭</string>
+        <key>Description</key>
+        <string>Kip Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₴</string>
+        <key>Description</key>
+        <string>Hryvnia Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₦</string>
+        <key>Description</key>
+        <string>Naira Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>৲</string>
+        <key>Description</key>
+        <string>Bengali Rupee Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>৳</string>
+        <key>Description</key>
+        <string>Bengali Rupee Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>૱</string>
+        <key>Description</key>
+        <string>Gujarati Rupee Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>௹</string>
+        <key>Description</key>
+        <string>Tamil Rupee Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﷼</string>
+        <key>Description</key>
+        <string>Rial Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₹</string>
+        <key>Description</key>
+        <string>Indian Rupee Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₲</string>
+        <key>Description</key>
+        <string>Guarani Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₪</string>
+        <key>Description</key>
+        <string>New Sheqel Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₡</string>
+        <key>Description</key>
+        <string>Colon Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₫</string>
+        <key>Description</key>
+        <string>Dong Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>៛</string>
+        <key>Description</key>
+        <string>Khmer Currency Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₵</string>
+        <key>Description</key>
+        <string>Cedi Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₢</string>
+        <key>Description</key>
+        <string>Cruzeiro Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₸</string>
+        <key>Description</key>
+        <string>Tenge Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₤</string>
+        <key>Description</key>
+        <string>Lira Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₳</string>
+        <key>Description</key>
+        <string>Austral Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₥</string>
+        <key>Description</key>
+        <string>Mill Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₠</string>
+        <key>Description</key>
+        <string>Euro Currency Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₣</string>
+        <key>Description</key>
+        <string>French Franc Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₰</string>
+        <key>Description</key>
+        <string>German Penny Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₧</string>
+        <key>Description</key>
+        <string>Peseta Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₯</string>
+        <key>Description</key>
+        <string>Drachma Sign</string>
+    </dict>
+</array>
+</plist>

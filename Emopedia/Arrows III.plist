@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>↔︎</string>
+        <key>Description</key>
+        <string>LEFT RIGHT ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇔</string>
+        <key>Description</key>
+        <string>LEFT RIGHT DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇿</string>
+        <key>Description</key>
+        <string>LEFT RIGHT OPEN-HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇋</string>
+        <key>Description</key>
+        <string>LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇌</string>
+        <key>Description</key>
+        <string>RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇄</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW OVER LEFTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇆</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW OVER RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↹</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇎</string>
+        <key>Description</key>
+        <string>LEFT RIGHT DOUBLE ARROW WITH STROKE</string>
+    </dict>
+    
+    <dict>
+        <key>Name</key>
+        <string>↭</string>
+        <key>Description</key>
+        <string>LEFT RIGHT WAVE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↮</string>
+        <key>Description</key>
+        <string>LEFT RIGHT ARROW WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇹</string>
+        <key>Description</key>
+        <string>LEFT RIGHT ARROW WITH VERTICAL STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇼</string>
+        <key>Description</key>
+        <string>LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↕︎</string>
+        <key>Description</key>
+        <string>UP DOWN ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇕</string>
+        <key>Description</key>
+        <string>UP DOWN DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇳</string>
+        <key>Description</key>
+        <string>UP DOWN WHITE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇅</string>
+        <key>Description</key>
+        <string>UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↨</string>
+        <key>Description</key>
+        <string>UP DOWN ARROW WITH BASE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇵</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↘︎</string>
+        <key>Description</key>
+        <string>SOUTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➘</string>
+        <key>Description</key>
+        <string>HEAVY SOUTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇘</string>
+        <key>Description</key>
+        <string>SOUTH EAST DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇲</string>
+        <key>Description</key>
+        <string>SOUTH EAST ARROW TO CORNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➷</string>
+        <key>Description</key>
+        <string>HEAVY BLACK-FEATHERED SOUTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➴</string>
+        <key>Description</key>
+        <string>BLACK FEATHERED SOUTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤵︎</string>
+        <key>Description</key>
+        <string>ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤷</string>
+        <key>Description</key>
+        <string>ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↗︎</string>
+        <key>Description</key>
+        <string>NORTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➚</string>
+        <key>Description</key>
+        <string>HEAVY NORTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇗</string>
+        <key>Description</key>
+        <string>NORTH EAST DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➹</string>
+        <key>Description</key>
+        <string>HEAVY BLACK-FEATHERED NORTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➶</string>
+        <key>Description</key>
+        <string>BLACK FEATHERED NORTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤴︎</string>
+        <key>Description</key>
+        <string>ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↖︎</string>
+        <key>Description</key>
+        <string>NORTH WEST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇖</string>
+        <key>Description</key>
+        <string>NORTH WEST DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↸</string>
+        <key>Description</key>
+        <string>NORTH WEST ARROW TO LONG BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇱</string>
+        <key>Description</key>
+        <string>NORTH WEST ARROW TO CORNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↙︎</string>
+        <key>Description</key>
+        <string>SOUTH WEST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇙</string>
+        <key>Description</key>
+        <string>SOUTH WEST DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤶</string>
+        <key>Description</key>
+        <string>ARROW POINTING DOWNWARDS THEN CURVING LEFTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤹</string>
+        <key>Description</key>
+        <string>LEFT-SIDE ARC ANTICLOCKWISE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↵</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW WITH CORNER LEFTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↲</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW WITH TIP LEFTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↩︎</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↳</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW WITH CORNER RIGHTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↪︎</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↰</string>
+        <key>Description</key>
+        <string>UPWARDS ARROW WITH TIP LEFTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↱</string>
+        <key>Description</key>
+        <string>UPWARDS ARROW WITH TIP RIGHTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↴</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH CORNER DOWNWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↶</string>
+        <key>Description</key>
+        <string>ANTICLOCKWISE TOP SEMICIRCLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↷</string>
+        <key>Description</key>
+        <string>CLOCKWISE TOP SEMICIRCLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↺</string>
+        <key>Description</key>
+        <string>ANTICLOCKWISE OPEN CIRCLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↻</string>
+        <key>Description</key>
+        <string>CLOCKWISE OPEN CIRCLE ARROW</string>
+    </dict>
+
+</array>
+</plist>

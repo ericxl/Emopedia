@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>⓿</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED DIGIT ZERO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❶</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❷</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❸</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❹</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❺</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❻</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❼</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❽</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❾</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❿</string>
+        <key>Description</key>
+        <string>DINGBAR NEGATIVE CIRCLED NUMBER TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓫</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER ELEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓬</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER TWELVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓭</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER THIRTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓮</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER FOURTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓯</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER FIFTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓰</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER SIXTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓱</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER SEVENTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓲</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER EIGHTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓳</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER NINTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓴</string>
+        <key>Description</key>
+        <string>NEGATIVE CIRCLED NUMBER TWENTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➀</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➁</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➂</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➃</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➄</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➅</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➆</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➇</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➈</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➉</string>
+        <key>Description</key>
+        <string>DINGBAT CIRCLED SANS-SERIF NUMBER TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➊</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➋</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➌</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➍</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➎</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➏</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➐</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➑</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➒</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➓</string>
+        <key>Description</key>
+        <string>DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓵</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓶</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓷</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓸</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓹</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓺</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓻</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓼</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓽</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓾</string>
+        <key>Description</key>
+        <string>DOUBLE CIRCLED NUMBER TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑴</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑵</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑶</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑷</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑸</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑹</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑺</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑻</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑼</string>
+        <key>Description</key>
+        <string>PARENTHESIZED DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑽</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑾</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER ELEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑿</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER TWELVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒀</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER THIRTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒁</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER FOURTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒂</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER FIFTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒃</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER SIXTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒄</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER SEVENTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒅</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER EIGHTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒆</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER NINTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒇</string>
+        <key>Description</key>
+        <string>PARENTHESIZED NUMBER TWENTY</string>
+    </dict>
+
+</array>
+</plist>

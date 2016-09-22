@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>♩</string>
+        <key>Description</key>
+        <string>Quarter Note</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♪</string>
+        <key>Description</key>
+        <string>Eighth Note</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♫</string>
+        <key>Description</key>
+        <string>Beamed Eighth Notes</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♬</string>
+        <key>Description</key>
+        <string>Beamed Sixteenth Notes</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♭</string>
+        <key>Description</key>
+        <string>Music Flat Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♮</string>
+        <key>Description</key>
+        <string>Music Natural Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♯</string>
+        <key>Description</key>
+        <string>Music Sharp Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〽︎</string>
+        <key>Description</key>
+        <string>Music Sharp Sign</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>✆</string>
+		<key>Description</key>
+		<string>Telephone Location Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☎︎</string>
+		<key>Description</key>
+		<string>Black Telephone</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☏</string>
+		<key>Description</key>
+		<string>White Telephone</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✉︎</string>
+		<key>Description</key>
+		<string>Envelope</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>〒</string>
+		<key>Description</key>
+		<string>Postal Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>〶</string>
+		<key>Description</key>
+		<string>Circled Postal Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>〠</string>
+		<key>Description</key>
+		<string>Postal Mark Face</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>☡</string>
+        <key>Description</key>
+        <string>Caution Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☢</string>
+        <key>Description</key>
+        <string>Radioactive Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☣</string>
+        <key>Description</key>
+        <string>BioHazard Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚠︎</string>
+        <key>Description</key>
+        <string>Warning Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚡︎</string>
+        <key>Description</key>
+        <string>High Voltage</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☠</string>
+        <key>Description</key>
+        <string>Skull And Crossbones</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♿︎</string>
+        <key>Description</key>
+        <string>Wheelchair Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♲</string>
+        <key>Description</key>
+        <string>Universal Recycling Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♳</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-1 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♴</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-2 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♵</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-3 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♶</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-4 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♷</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-5 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♸</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-6 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♹</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Type-7 Plastics</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♺</string>
+        <key>Description</key>
+        <string>Recycling Symbol For Generic Materials</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♻︎</string>
+        <key>Description</key>
+        <string>Black Universal Recycling Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♼</string>
+        <key>Description</key>
+        <string>Recycled Paper Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♽</string>
+        <key>Description</key>
+        <string>Partially Recycled Paper Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♾</string>
+        <key>Description</key>
+        <string>Permanent Paper Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〄</string>
+        <key>Description</key>
+        <string>Japanese Industrial Standard Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉿</string>
+        <key>Description</key>
+        <string>Korean Standard Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☰</string>
+        <key>Description</key>
+        <string>Trigram For Heaven</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☱</string>
+        <key>Description</key>
+        <string>Trigram For Lake</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☲</string>
+        <key>Description</key>
+        <string>Trigram For Life</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☳</string>
+        <key>Description</key>
+        <string>Trigram For Thunder</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☴</string>
+        <key>Description</key>
+        <string>Trigram For Wind</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☵</string>
+        <key>Description</key>
+        <string>Trigram For Water</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☶</string>
+        <key>Description</key>
+        <string>Trigram For Mountain</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☷</string>
+        <key>Description</key>
+        <string>Trigram For Earth</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚊</string>
+        <key>Description</key>
+        <string>Monogram For Yang</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚋</string>
+        <key>Description</key>
+        <string>Monogram For Yin</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚌</string>
+        <key>Description</key>
+        <string>Digram For Greater Yang</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚎</string>
+        <key>Description</key>
+        <string>Digram For Lesser Yang</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚏</string>
+        <key>Description</key>
+        <string>Digram For Greater Yin</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚍</string>
+        <key>Description</key>
+        <string>Digram For Lesser Yin</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿰</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Left To Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿱</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Above To Below</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿲</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Left To Middle And Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿳</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Above To Middle And Below</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿴</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Full Surround</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿵</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Surround From Above</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿶</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Surround From Below</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿷</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Surround From Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿸</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Surround From Upper Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿹</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Surround From Upper Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿺</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Surround From Lower Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⿻</string>
+        <key>Description</key>
+        <string>Ideographic Description Character Overlaid</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〾</string>
+        <key>Description</key>
+        <string>IDEOGRAPHIC VARIATION INDICATOR</string>
+    </dict>
+</array>
+</plist>

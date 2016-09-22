@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>▤</string>
+        <key>Description</key>
+        <string>Square With Horizontal Fill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▥</string>
+        <key>Description</key>
+        <string>Square With Vertical Fill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▤</string>
+        <key>Description</key>
+        <string>Square With Orthogonal Crosshatch Fill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▧</string>
+        <key>Description</key>
+        <string>Square With Upper Left To Lower Right Fill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▨</string>
+        <key>Description</key>
+        <string>Square With Upper Right To Lower Left Fill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▩</string>
+        <key>Description</key>
+        <string>Square With Diagonal Crosshatch Fill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◧</string>
+        <key>Description</key>
+        <string>Square With Left Half Black</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◨</string>
+        <key>Description</key>
+        <string>Square With Right Half Black</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◩</string>
+        <key>Description</key>
+        <string>Square With Upper Left Diagonal Half Black</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◪</string>
+        <key>Description</key>
+        <string>Square With Lower Right Diagonal Half Black</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◫</string>
+        <key>Description</key>
+        <string>White Square With Vertical Bisecting Line</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◰</string>
+        <key>Description</key>
+        <string>White Square With Upper Left Quadrant</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◱</string>
+        <key>Description</key>
+        <string>White Square With Lower Left Quadrant</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◲</string>
+        <key>Description</key>
+        <string>White Square With Lower Right Quadrant</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◳</string>
+        <key>Description</key>
+        <string>White Square With Upper Right Quadrant</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▖</string>
+        <key>Description</key>
+        <string>Quadrant Lower Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▗</string>
+        <key>Description</key>
+        <string>Quadrant Lower Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▘</string>
+        <key>Description</key>
+        <string>Quadrant Upper Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▝</string>
+        <key>Description</key>
+        <string>Quadrant Upper Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▙</string>
+        <key>Description</key>
+        <string>Quadrant Upper Left And Lower Left And Lower Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▛</string>
+        <key>Description</key>
+        <string>Quadrant Upper Left And Upper Right And Lower Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▜</string>
+        <key>Description</key>
+        <string>Quadrant Upper Left And Upper Right And Lower Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▟</string>
+        <key>Description</key>
+        <string>Quadrant Upper Right And Lower Left And Lower Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▚</string>
+        <key>Description</key>
+        <string>Quadrant Upper Left And Lower Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▞</string>
+        <key>Description</key>
+        <string>Quadrant Upper Right And Lower Left</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❏</string>
+        <key>Description</key>
+        <string>Lower Right Drop Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❐</string>
+        <key>Description</key>
+        <string>Upper Right Drop Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❑</string>
+        <key>Description</key>
+        <string>Lower Right Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❒</string>
+        <key>Description</key>
+        <string>Upper Right Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❘</string>
+        <key>Description</key>
+        <string>Light Vertical Bar</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❙</string>
+        <key>Description</key>
+        <string>Medium Vertical Bar</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❚</string>
+        <key>Description</key>
+        <string>Heavy Vertical Bar</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▀</string>
+        <key>Description</key>
+        <string>Upper Half Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▬</string>
+        <key>Description</key>
+        <string>Black Rectangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▭</string>
+        <key>Description</key>
+        <string>White Rectangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▔</string>
+        <key>Description</key>
+        <string>Upper One Eighth Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▁</string>
+        <key>Description</key>
+        <string>Lower One Eighth Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▂</string>
+        <key>Description</key>
+        <string>Lower One Quarter Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▄</string>
+        <key>Description</key>
+        <string>Lower Half Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▅</string>
+        <key>Description</key>
+        <string>Lower Five Eighths Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▇</string>
+        <key>Description</key>
+        <string>Lower Seven Eighths Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>█</string>
+        <key>Description</key>
+        <string>Full Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▉</string>
+        <key>Description</key>
+        <string>Left Seven Eighths Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▊</string>
+        <key>Description</key>
+        <string>Left Three Quarters Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▋</string>
+        <key>Description</key>
+        <string>Left Five Eighths Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▌</string>
+        <key>Description</key>
+        <string>Left Half Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▍</string>
+        <key>Description</key>
+        <string>Left Three Eighths Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▎</string>
+        <key>Description</key>
+        <string>Left One Quarter Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▏</string>
+        <key>Description</key>
+        <string>Left One Eighth Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▕</string>
+        <key>Description</key>
+        <string>Right One Eighth Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▐</string>
+        <key>Description</key>
+        <string>Right Half Block</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▮</string>
+        <key>Description</key>
+        <string>Black Vertical Rectangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▯</string>
+        <key>Description</key>
+        <string>White Vertical Rectangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>░</string>
+        <key>Description</key>
+        <string>Light Shade</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▒</string>
+        <key>Description</key>
+        <string>Medium Shade</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▓</string>
+        <key>Description</key>
+        <string>Dark Shade</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▰</string>
+        <key>Description</key>
+        <string>Black Parallelogram</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▱</string>
+        <key>Description</key>
+        <string>White Parallelogram</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◬</string>
+        <key>Description</key>
+        <string>White Up Pointing Triangle With Dot</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◭</string>
+        <key>Description</key>
+        <string>Up Pointing Triangle With Left Half Black</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◮</string>
+        <key>Description</key>
+        <string>Up Pointing Triangle With Right Half Black</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◢</string>
+        <key>Description</key>
+        <string>Black Lower Right Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◣</string>
+        <key>Description</key>
+        <string>Black Lower Left Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◤</string>
+        <key>Description</key>
+        <string>Black Upper Left Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◥</string>
+        <key>Description</key>
+        <string>Black Upper Right Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◸</string>
+        <key>Description</key>
+        <string>Upper Left Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◹</string>
+        <key>Description</key>
+        <string>Upper Right Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◺</string>
+        <key>Description</key>
+        <string>Lower Left Triangle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◿</string>
+        <key>Description</key>
+        <string>Lower Right Triangle</string>
+    </dict>
+</array>
+</plist>

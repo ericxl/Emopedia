@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>❗️</string>
+        <key>Description</key>
+        <string>HEAVY EXCLAMATION MARK SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❓</string>
+        <key>Description</key>
+        <string>BLACK QUESTION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❕</string>
+        <key>Description</key>
+        <string>WHITE EXCLAMATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❔</string>
+        <key>Description</key>
+        <string>WHITE QUESTION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‼️</string>
+        <key>Description</key>
+        <string>DOUBLE EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁉️</string>
+        <key>Description</key>
+        <string>EXCLAMATION QUESTION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❌</string>
+        <key>Description</key>
+        <string>CROSS MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⭕️</string>
+        <key>Description</key>
+        <string>HEAVY LARGE CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💯</string>
+        <key>Description</key>
+        <string>HUNDRED POINTS SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔚</string>
+        <key>Description</key>
+        <string>END WITH LEFTWARDS ARROW ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔙</string>
+        <key>Description</key>
+        <string>BACK WITH LEFTWARDS ARROW ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔛</string>
+        <key>Description</key>
+        <string>ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔝</string>
+        <key>Description</key>
+        <string>TOP WITH UPWARDS ARROW ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔜</string>
+        <key>Description</key>
+        <string>SOON WITH RIGHTWARDS ARROW ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌀</string>
+        <key>Description</key>
+        <string>CYCLONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⓜ️</string>
+        <key>Description</key>
+        <string>CIRCLED LATIN CAPITAL LETTER M</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛎</string>
+        <key>Description</key>
+        <string>OPHIUCHUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔯</string>
+        <key>Description</key>
+        <string>SIX POINTED STAR WITH MIDDLE DOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔰</string>
+        <key>Description</key>
+        <string>JAPANESE SYMBOL FOR BEGINNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔱</string>
+        <key>Description</key>
+        <string>TRIDENT EMBLEM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚠️</string>
+        <key>Description</key>
+        <string>WARNING SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♨️</string>
+        <key>Description</key>
+        <string>HOT SPRINGS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♻️</string>
+        <key>Description</key>
+        <string>BLACK UNIVERSAL RECYCLING SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💢</string>
+        <key>Description</key>
+        <string>ANGER SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💠</string>
+        <key>Description</key>
+        <string>DIAMOND SHAPE WITH A DOT INSIDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♠️</string>
+        <key>Description</key>
+        <string>BLACK SPADE SUIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♣️</string>
+        <key>Description</key>
+        <string>BLACK CLUB SUIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♥️</string>
+        <key>Description</key>
+        <string>BLACK HEART SUIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♦️</string>
+        <key>Description</key>
+        <string>BLACK DIAMOND SUIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☑️</string>
+        <key>Description</key>
+        <string>BALLOT BOX WITH CHECK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚪️</string>
+        <key>Description</key>
+        <string>MEDIUM WHITE CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚫️</string>
+        <key>Description</key>
+        <string>MEDIUM BLACK CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔘</string>
+        <key>Description</key>
+        <string>RADIO BUTTON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔴</string>
+        <key>Description</key>
+        <string>LARGE RED CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔵</string>
+        <key>Description</key>
+        <string>LARGE BLUE CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔺</string>
+        <key>Description</key>
+        <string>UP-POINTING RED TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔻</string>
+        <key>Description</key>
+        <string>DOWN-POINTING RED TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔸</string>
+        <key>Description</key>
+        <string>SMALL ORANGE DIAMOND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔹</string>
+        <key>Description</key>
+        <string>SMALL BLUE DIAMOND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔶</string>
+        <key>Description</key>
+        <string>LARGE ORANGE DIAMOND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔷</string>
+        <key>Description</key>
+        <string>LARGE BLUE DIAMOND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▪️</string>
+        <key>Description</key>
+        <string>BLACK SMALL SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▫️</string>
+        <key>Description</key>
+        <string>WHITE SMALL SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬛️</string>
+        <key>Description</key>
+        <string>BLACK LARGE SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬜️</string>
+        <key>Description</key>
+        <string>WHITE LARGE SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◼️</string>
+        <key>Description</key>
+        <string>BLACK MEDIUM SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◻️</string>
+        <key>Description</key>
+        <string>WHITE MEDIUM SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◾️</string>
+        <key>Description</key>
+        <string>BLACK MEDIUM SMALL SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◽️</string>
+        <key>Description</key>
+        <string>WHITE MEDIUM SMALL SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔲</string>
+        <key>Description</key>
+        <string>BLACK SQUARE BUTTON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔳</string>
+        <key>Description</key>
+        <string>WHITE SQUARE BUTTON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕐</string>
+        <key>Description</key>
+        <string>CLOCK FACE ONE OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕑</string>
+        <key>Description</key>
+        <string>CLOCK FACE TWO OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕒</string>
+        <key>Description</key>
+        <string>CLOCK FACE THREE OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕓</string>
+        <key>Description</key>
+        <string>CLOCK FACE FOUR OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕔</string>
+        <key>Description</key>
+        <string>CLOCK FACE FIVE OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕕</string>
+        <key>Description</key>
+        <string>CLOCK FACE SIX OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕖</string>
+        <key>Description</key>
+        <string>CLOCK FACE SEVEN OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕗</string>
+        <key>Description</key>
+        <string>CLOCK FACE EIGHT OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕘</string>
+        <key>Description</key>
+        <string>CLOCK FACE NINE OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕙</string>
+        <key>Description</key>
+        <string>CLOCK FACE TEN OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕚</string>
+        <key>Description</key>
+        <string>CLOCK FACE ELEVEN OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕛</string>
+        <key>Description</key>
+        <string>CLOCK FACE TWELVE OCLOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕜</string>
+        <key>Description</key>
+        <string>CLOCK FACE ONE-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕝</string>
+        <key>Description</key>
+        <string>CLOCK FACE TWO-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕞</string>
+        <key>Description</key>
+        <string>CLOCK FACE THREE-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕟</string>
+        <key>Description</key>
+        <string>CLOCK FACE FOUR-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕠</string>
+        <key>Description</key>
+        <string>CLOCK FACE FIVE-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕡</string>
+        <key>Description</key>
+        <string>CLOCK FACE SIX-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕢</string>
+        <key>Description</key>
+        <string>CLOCK FACE SEVEN-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕣</string>
+        <key>Description</key>
+        <string>CLOCK FACE EIGHT-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕤</string>
+        <key>Description</key>
+        <string>CLOCK FACE NINE-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕥</string>
+        <key>Description</key>
+        <string>CLOCK FACE TEN-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕦</string>
+        <key>Description</key>
+        <string>CLOCK FACE ELEVEN-THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🕧</string>
+        <key>Description</key>
+        <string></string>
+    </dict></array>
+</plist>

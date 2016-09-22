@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>‹</string>
+		<key>Description</key>
+		<string>Single Left Pointing Angle Quotation Mark</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>›</string>
+        <key>Description</key>
+        <string>Single Right Pointing Angle Quotation Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>«</string>
+        <key>Description</key>
+        <string>Left Pointing Double Angle Quotation Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>»</string>
+        <key>Description</key>
+        <string>Right Pointing Double Angle Quotation Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>&lt;</string>
+        <key>Description</key>
+        <string>Less Than Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>&gt;</string>
+        <key>Description</key>
+        <string>Greater Than Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⟨</string>
+        <key>Description</key>
+        <string>Mathematical Left Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⟩</string>
+        <key>Description</key>
+        <string>Mathematical Right Angle Bracket</string>
+    </dict>
+        <dict>
+        <key>Name</key>
+        <string>❨</string>
+        <key>Description</key>
+        <string>Medium Left Parenthesis Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❩</string>
+        <key>Description</key>
+        <string>Medium Right Parenthesis Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>(</string>
+        <key>Description</key>
+        <string>Left Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>)</string>
+        <key>Description</key>
+        <string>Right Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❮</string>
+        <key>Description</key>
+        <string>Heavy Left Pointing Angle Quotation Mark Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❯</string>
+        <key>Description</key>
+        <string>Heavy Right Pointing Angle Quotation Mark Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>{</string>
+        <key>Description</key>
+        <string>Left Curly Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>}</string>
+        <key>Description</key>
+        <string>Right Curly Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❴</string>
+        <key>Description</key>
+        <string>Medium Left Curly Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❵</string>
+        <key>Description</key>
+        <string>Medium Right Curly Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>｛</string>
+        <key>Description</key>
+        <string>Fullwidth Left Curly Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>｝</string>
+        <key>Description</key>
+        <string>Fullwidth Right Curly Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>[</string>
+        <key>Description</key>
+        <string>Left Square Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>]</string>
+        <key>Description</key>
+        <string>Right Square Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>［</string>
+        <key>Description</key>
+        <string>Fullwidth Left Square Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>］</string>
+        <key>Description</key>
+        <string>Fullwidth Right Square Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>【</string>
+        <key>Description</key>
+        <string>Left Black Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>】</string>
+        <key>Description</key>
+        <string>Right Black Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〖</string>
+        <key>Description</key>
+        <string>Left White Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〗</string>
+        <key>Description</key>
+        <string>Right White Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❪</string>
+        <key>Description</key>
+        <string>Medium Flattened Left Parenthesis Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❫</string>
+        <key>Description</key>
+        <string>Medium Flattened Right Parenthesis Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>「</string>
+        <key>Description</key>
+        <string>Left Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>」</string>
+        <key>Description</key>
+        <string>Right Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>『</string>
+        <key>Description</key>
+        <string>Left White Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>』</string>
+        <key>Description</key>
+        <string>Right White Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〈</string>
+        <key>Description</key>
+        <string>Left Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〉</string>
+        <key>Description</key>
+        <string>Right Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>《</string>
+        <key>Description</key>
+        <string>Left Double Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>》</string>
+        <key>Description</key>
+        <string>Right Double Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>（</string>
+        <key>Description</key>
+        <string>Fullwidth Left Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>）</string>
+        <key>Description</key>
+        <string>Fullwidth Right Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＜</string>
+        <key>Description</key>
+        <string>Fullwidth Less Than Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＞</string>
+        <key>Description</key>
+        <string>Fullwidth Greater Than Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〘</string>
+        <key>Description</key>
+        <string>Left White Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〙</string>
+        <key>Description</key>
+        <string>Right White Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>｟</string>
+        <key>Description</key>
+        <string>Fullwidth Left White Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>｠</string>
+        <key>Description</key>
+        <string>Fullwidth Right White Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❲</string>
+        <key>Description</key>
+        <string>Light Left Tortoise Shell Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❳</string>
+        <key>Description</key>
+        <string>Light Right Tortoise Shell Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦗</string>
+        <key>Description</key>
+        <string>Left Black Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦘</string>
+        <key>Description</key>
+        <string>Right Black Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〔</string>
+        <key>Description</key>
+        <string>Left Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〕</string>
+        <key>Description</key>
+        <string>Right Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❬</string>
+        <key>Description</key>
+        <string>Medium Left Pointing Angle Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❭</string>
+        <key>Description</key>
+        <string>Medium Right Pointing Angle Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❰</string>
+        <key>Description</key>
+        <string>Heavy Left Pointing Angle Bracket Ornament</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❱</string>
+        <key>Description</key>
+        <string>Heavy Right Pointing Angle Bracket Ornament</string>
+    </dict>
+    </array>
+</plist>

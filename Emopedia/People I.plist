@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>😀</string>
+		<key>Description</key>
+		<string>GRINNING FACE</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>😁</string>
+        <key>Description</key>
+        <string>GRINNING FACE WITH SMILING EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😂</string>
+        <key>Description</key>
+        <string>FACE WITH TEARS OF JOY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😃</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH OPEN MOUTH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😄</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH OPEN MOUTH AND SMILING EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😅</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH OPEN MOUTH AND COLD SWEAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😆</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😇</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH HALO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😈</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH HORNS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👿</string>
+        <key>Description</key>
+        <string>IMP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😉</string>
+        <key>Description</key>
+        <string>WINKING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😊</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH SMILING EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☺️</string>
+        <key>Description</key>
+        <string>WHITE SMILING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😋</string>
+        <key>Description</key>
+        <string>FACE SAVOURING DELICIOUS FOOD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😌</string>
+        <key>Description</key>
+        <string>RELIEVED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😍</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH HEART-SHAPED EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😎</string>
+        <key>Description</key>
+        <string>SMILING FACE WITH SUNGLASSES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😏</string>
+        <key>Description</key>
+        <string>SMIRKING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😐</string>
+        <key>Description</key>
+        <string>NEUTRAL FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😑</string>
+        <key>Description</key>
+        <string>EXPRESSIONLESS FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😒</string>
+        <key>Description</key>
+        <string>UNAMUSED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😓</string>
+        <key>Description</key>
+        <string>FACE WITH COLD SWEAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😔</string>
+        <key>Description</key>
+        <string>PENSIVE FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😕</string>
+        <key>Description</key>
+        <string>CONFUSED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😖</string>
+        <key>Description</key>
+        <string>CONFOUNDED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😗</string>
+        <key>Description</key>
+        <string>KISSING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😘</string>
+        <key>Description</key>
+        <string>FACE THROWING A KISS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😙</string>
+        <key>Description</key>
+        <string>KISSING FACE WITH SMILING EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😚</string>
+        <key>Description</key>
+        <string>KISSING FACE WITH CLOSED EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😛</string>
+        <key>Description</key>
+        <string>FACE WITH STUCK-OUT TONGUE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😜</string>
+        <key>Description</key>
+        <string>FACE WITH STUCK-OUT TONGUE AND WINKING EYE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😝</string>
+        <key>Description</key>
+        <string>FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😞</string>
+        <key>Description</key>
+        <string>DISAPPOINTED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😟</string>
+        <key>Description</key>
+        <string>WORRIED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😠</string>
+        <key>Description</key>
+        <string>ANGRY FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😡</string>
+        <key>Description</key>
+        <string>POUTING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😢</string>
+        <key>Description</key>
+        <string>CRYING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😣</string>
+        <key>Description</key>
+        <string>PERSEVERING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😤</string>
+        <key>Description</key>
+        <string>FACE WITH LOOK OF TRIUMPH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😥</string>
+        <key>Description</key>
+        <string>DISAPPOINTED BUT RELIEVED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😦</string>
+        <key>Description</key>
+        <string>FROWNING FACE WITH OPEN MOUTH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😧</string>
+        <key>Description</key>
+        <string>ANGUISHED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😨</string>
+        <key>Description</key>
+        <string>FEARFUL FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😩</string>
+        <key>Description</key>
+        <string>WEARY FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😪</string>
+        <key>Description</key>
+        <string>SLEEPY FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😫</string>
+        <key>Description</key>
+        <string>TIRED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😬</string>
+        <key>Description</key>
+        <string>GRIMACING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😭</string>
+        <key>Description</key>
+        <string>LOUDLY CRYING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😮</string>
+        <key>Description</key>
+        <string>FACE WITH OPEN MOUTH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😯</string>
+        <key>Description</key>
+        <string>HUSHED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😰</string>
+        <key>Description</key>
+        <string>FACE WITH OPEN MOUTH AND COLD SWEAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😱</string>
+        <key>Description</key>
+        <string>FACE SCREAMING IN FEAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😲</string>
+        <key>Description</key>
+        <string>ASTONISHED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😳</string>
+        <key>Description</key>
+        <string>FLUSHED FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😴</string>
+        <key>Description</key>
+        <string>SLEEPING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😵</string>
+        <key>Description</key>
+        <string>DIZZY FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😶</string>
+        <key>Description</key>
+        <string>FACE WITHOUT MOUTH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😷</string>
+        <key>Description</key>
+        <string>FACE WITH MEDICAL MASK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😸</string>
+        <key>Description</key>
+        <string>GRINNING CAT FACE WITH SMILING EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😹</string>
+        <key>Description</key>
+        <string>CAT FACE WITH TEARS OF JOY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😺</string>
+        <key>Description</key>
+        <string>SMILING CAT FACE WITH OPEN MOUTH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😻</string>
+        <key>Description</key>
+        <string>SMILING CAT FACE WITH HEART-SHAPED EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😼</string>
+        <key>Description</key>
+        <string>CAT FACE WITH WRY SMILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😽</string>
+        <key>Description</key>
+        <string>KISSING CAT FACE WITH CLOSED EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😾</string>
+        <key>Description</key>
+        <string>POUTING CAT FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>😿</string>
+        <key>Description</key>
+        <string>CRYING CAT FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙀</string>
+        <key>Description</key>
+        <string>WEARY CAT FACE</string>
+    </dict>
+    
+
+        </array>
+</plist>

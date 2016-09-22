@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>⌶</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL I-BEAM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌸</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎕</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌷</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL SQUISH QUAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌹</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD DIVIDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌺</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD DIAMOND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌻</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD JOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌼</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌽</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL CIRCLE STILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌾</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL CIRCLE JOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌿</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL SLASH BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍀</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL BLACKSLASH BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍁</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD SLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍂</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD BLACKSLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍃</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL LESS-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍄</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD GREATER-THAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍅</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL LEFTWARDS VANE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍆</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL RIGHTWARDS VANE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍇</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍈</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍉</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍊</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍋</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DELTA STILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍌</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOLQUAD DOWN CARET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍎</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DOWN TACK JOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍏</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL UPWARDS VANE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍐</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD UPWARDS ARRPW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍑</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL UP TACK OVERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍒</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DEL STILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍓</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD UP CARET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍔</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD DEL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍕</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL UP TACK JOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍖</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DOWNWARDS VANE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍗</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍘</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUOTE UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍙</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DELTA UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍚</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍛</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL JOT UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍜</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍝</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL UP  SHOE JOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍞</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUOTE QUAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍟</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL CIRCLE STAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍠</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD COLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍡</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL UP TACK DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍢</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DEL DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍣</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL STAR DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍤</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL JOT DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍥</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍦</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DOWN SHOE STILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍧</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL LEFT SHOE STILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍨</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL TILDE DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍩</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍪</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL COMMA BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍫</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DEL TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍬</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL ZILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍭</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL STILE TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍮</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍯</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD NOT EQUAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍰</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL QUAD QUESTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍱</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL DOWN CARET TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍲</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL UP CARET TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍳</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL IOTA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍴</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL PHO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍵</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL OMEGA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍶</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL ALPHA UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍷</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL EPSILON UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍸</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL IOTA UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍹</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL OMEGA UNDERBAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⍺</string>
+        <key>Description</key>
+        <string>APL FUNCTIONAL SYMBOL ALPHA</string>
+    </dict>
+
+</array>
+</plist>

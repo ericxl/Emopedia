@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>🏃,🏃🏻,🏃🏼,🏃🏽,🏃🏾,🏃🏿</string>
+		<key>Description</key>
+		<string>RUNNER</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>🚶,🚶🏻,🚶🏼,🚶🏽,🚶🏾,🚶🏿</string>
+        <key>Description</key>
+        <string>PEDESTRIAN</string>
+    </dict>
+        <dict>
+        <key>Name</key>
+        <string>💃,💃🏻,💃🏼,💃🏽,💃🏾,💃🏿</string>
+        <key>Description</key>
+        <string>DANCER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚣,🚣🏻,🚣🏼,🚣🏽,🚣🏾,🚣🏿</string>
+        <key>Description</key>
+        <string>ROWBOAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏊,🏊🏻,🏊🏼,🏊🏽,🏊🏾,🏊🏿</string>
+        <key>Description</key>
+        <string>SWIMMER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏄,🏄🏻,🏄🏼,🏄🏽,🏄🏾,🏄🏿</string>
+        <key>Description</key>
+        <string>SURFER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🛀,🛀🏻,🛀🏼,🛀🏽,🛀🏾,🛀🏿</string>
+        <key>Description</key>
+        <string>BATH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏂</string>
+        <key>Description</key>
+        <string>SNOWBOARDER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎿</string>
+        <key>Description</key>
+        <string>SKI AND SKI BOOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛄️</string>
+        <key>Description</key>
+        <string>SNOWMAN WITHOUT SNOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚴,🚴🏻,🚴🏼,🚴🏽,🚴🏾,🚴🏿</string>
+        <key>Description</key>
+        <string>BICYCLIST</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚵,🚵🏻,🚵🏼,🚵🏽,🚵🏾,🚵🏿</string>
+        <key>Description</key>
+        <string>MOUNTAIN BICYCLIST</string>
+    </dict>
+    
+    <dict>
+        <key>Name</key>
+        <string>🏇,🏇🏻,🏇🏼,🏇🏽,🏇🏾,🏇🏿</string>
+        <key>Description</key>
+        <string>HORSE RACING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛺️</string>
+        <key>Description</key>
+        <string>TENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎣</string>
+        <key>Description</key>
+        <string>FISHING POLE AND FISH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚽️</string>
+        <key>Description</key>
+        <string>SOCCER BALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏀</string>
+        <key>Description</key>
+        <string>BASKETBALL AND HOOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏈</string>
+        <key>Description</key>
+        <string>AMERICAN FOOTBALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚾️</string>
+        <key>Description</key>
+        <string>BASEBALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎾</string>
+        <key>Description</key>
+        <string>TENNIS RACQUET AND BALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏉</string>
+        <key>Description</key>
+        <string>RUGBY FOOTBALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛳️</string>
+        <key>Description</key>
+        <string>FLAG IN HOLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏆</string>
+        <key>Description</key>
+        <string>TROPHY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎽</string>
+        <key>Description</key>
+        <string>RUNNING SHIRT WITH SASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏁</string>
+        <key>Description</key>
+        <string>CHEQUERED FLAG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎹</string>
+        <key>Description</key>
+        <string>MUSICAL KEYBOARD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎸</string>
+        <key>Description</key>
+        <string>GUITAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎻</string>
+        <key>Description</key>
+        <string>VIOLIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎷</string>
+        <key>Description</key>
+        <string>SAXOPHONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎺</string>
+        <key>Description</key>
+        <string>TRUMPET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎵</string>
+        <key>Description</key>
+        <string>MUSICAL NOTE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎶</string>
+        <key>Description</key>
+        <string>MULTIPLE MUSICAL NOTES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎼</string>
+        <key>Description</key>
+        <string>MUSICAL SCORE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎧</string>
+        <key>Description</key>
+        <string>HEADPHONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎤</string>
+        <key>Description</key>
+        <string>MICROPHONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎭</string>
+        <key>Description</key>
+        <string>PERFORMING ARTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎫</string>
+        <key>Description</key>
+        <string>TICKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎩</string>
+        <key>Description</key>
+        <string>TOP HAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎪</string>
+        <key>Description</key>
+        <string>CIRCUS TENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎬</string>
+        <key>Description</key>
+        <string>CLAPPER BOARD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎨</string>
+        <key>Description</key>
+        <string>ARTIST PALETTE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎯</string>
+        <key>Description</key>
+        <string>DIRECT HIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎱</string>
+        <key>Description</key>
+        <string>BILLIARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎳</string>
+        <key>Description</key>
+        <string>BOWLING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎰</string>
+        <key>Description</key>
+        <string>SLOT MACHINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎲</string>
+        <key>Description</key>
+        <string>GAME DIE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎮</string>
+        <key>Description</key>
+        <string>VIDEO GAME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎴</string>
+        <key>Description</key>
+        <string>FLOWER PLAYING CARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🃏</string>
+        <key>Description</key>
+        <string>PLAYING CARD BLACK JOKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🀄️</string>
+        <key>Description</key>
+        <string>MAHJONG TILE RED DRAGON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎠</string>
+        <key>Description</key>
+        <string>CAROUSEL HORSE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎡</string>
+        <key>Description</key>
+        <string>FERRIS WHEEL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎢</string>
+        <key>Description</key>
+        <string>ROLLER COASTER</string>
+    </dict>
+    
+</array>
+</plist>

@@ -1,0 +1,1181 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		070CFE751AE5FAC500A39B2C /* BottomScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 070CFE741AE5FAC500A39B2C /* BottomScrollView.m */; };
+		071357FF1AF1C8760040C114 /* Arrows I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 071357FE1AF1C8760040C114 /* Arrows I.plist */; };
+		071358001AF1C8760040C114 /* Arrows I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 071357FE1AF1C8760040C114 /* Arrows I.plist */; };
+		0717279F1AE1A418006930C9 /* CaeciliaLTStd-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0717279E1AE1A418006930C9 /* CaeciliaLTStd-Italic.otf */; };
+		071727A21AE1A425006930C9 /* CaeciliaLTStd-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 071727A11AE1A425006930C9 /* CaeciliaLTStd-LightItalic.otf */; };
+		072DFB4C1AE44487000303AE /* CircledLinebutton.m in Sources */ = {isa = PBXBuildFile; fileRef = 072DFB4B1AE44487000303AE /* CircledLinebutton.m */; };
+		072FA5EA1AE57D78003CD0ED /* BottomContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 072FA5E91AE57D78003CD0ED /* BottomContentView.m */; };
+		073703061ADF5B4300A89501 /* ChameleonStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 073702FC1ADF5B4300A89501 /* ChameleonStatusBar.m */; };
+		073703071ADF5B4300A89501 /* ChameleonStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 073702FC1ADF5B4300A89501 /* ChameleonStatusBar.m */; };
+		0737030A1ADF5B4300A89501 /* NSArray+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = 073702FF1ADF5B4300A89501 /* NSArray+Chameleon.m */; };
+		0737030B1ADF5B4300A89501 /* NSArray+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = 073702FF1ADF5B4300A89501 /* NSArray+Chameleon.m */; };
+		0737030C1ADF5B4300A89501 /* UIColor+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = 073703011ADF5B4300A89501 /* UIColor+Chameleon.m */; };
+		0737030D1ADF5B4300A89501 /* UIColor+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = 073703011ADF5B4300A89501 /* UIColor+Chameleon.m */; };
+		0737030E1ADF5B4300A89501 /* UIColor+CIELAB.m in Sources */ = {isa = PBXBuildFile; fileRef = 073703031ADF5B4300A89501 /* UIColor+CIELAB.m */; };
+		0737030F1ADF5B4300A89501 /* UIColor+CIELAB.m in Sources */ = {isa = PBXBuildFile; fileRef = 073703031ADF5B4300A89501 /* UIColor+CIELAB.m */; };
+		073703101ADF5B4300A89501 /* UIViewController+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = 073703051ADF5B4300A89501 /* UIViewController+Chameleon.m */; };
+		073703111ADF5B4300A89501 /* UIViewController+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = 073703051ADF5B4300A89501 /* UIViewController+Chameleon.m */; };
+		0737EAA21AFC8E6000C89C58 /* Enclosed Characters I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA11AFC8E6000C89C58 /* Enclosed Characters I.plist */; };
+		0737EAA41AFC8FB000C89C58 /* Enclosed Characters III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA31AFC8FB000C89C58 /* Enclosed Characters III.plist */; };
+		0737EAA51AFC8FB000C89C58 /* Enclosed Characters III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA31AFC8FB000C89C58 /* Enclosed Characters III.plist */; };
+		0737EAA71AFC90C800C89C58 /* Enclosed Characters II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA61AFC90C800C89C58 /* Enclosed Characters II.plist */; };
+		0737EAA81AFC90C800C89C58 /* Enclosed Characters II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA61AFC90C800C89C58 /* Enclosed Characters II.plist */; };
+		0737EAAA1AFC936F00C89C58 /* Enclosed Characters IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA91AFC936F00C89C58 /* Enclosed Characters IV.plist */; };
+		0737EAAB1AFC936F00C89C58 /* Enclosed Characters IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAA91AFC936F00C89C58 /* Enclosed Characters IV.plist */; };
+		0737EAAD1AFC9BF700C89C58 /* Phonetic Alphabet I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAAC1AFC9BF700C89C58 /* Phonetic Alphabet I.plist */; };
+		0737EAAE1AFC9BF700C89C58 /* Phonetic Alphabet I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0737EAAC1AFC9BF700C89C58 /* Phonetic Alphabet I.plist */; };
+		073EECF41AEAE28500B731A5 /* Parentheses I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 073EECF31AEAE28500B731A5 /* Parentheses I.plist */; };
+		073EECF51AEAE28500B731A5 /* Parentheses I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 073EECF31AEAE28500B731A5 /* Parentheses I.plist */; };
+		0773DA771AE0C5D1004B6AD8 /* CaeciliaLTStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0773DA741AE0C5D1004B6AD8 /* CaeciliaLTStd-Bold.otf */; };
+		0773DA791AE0C5D1004B6AD8 /* CaeciliaLTStd-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0773DA751AE0C5D1004B6AD8 /* CaeciliaLTStd-Roman.otf */; };
+		0773DA7B1AE0C5D1004B6AD8 /* CaeciliaLTStd-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0773DA761AE0C5D1004B6AD8 /* CaeciliaLTStd-Light.otf */; };
+		0773DA7F1AE0D824004B6AD8 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0773DA7E1AE0D824004B6AD8 /* DetailViewController.m */; };
+		0773DA821AE0E565004B6AD8 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0773DA811AE0E565004B6AD8 /* SettingsViewController.m */; };
+		077813631AFC7E9A00C86809 /* Nature II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813621AFC7E9A00C86809 /* Nature II.plist */; };
+		077813641AFC7E9A00C86809 /* Nature II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813621AFC7E9A00C86809 /* Nature II.plist */; };
+		077813661AFC7F2400C86809 /* Travel & Places II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813651AFC7F2400C86809 /* Travel & Places II.plist */; };
+		077813671AFC7F2400C86809 /* Travel & Places II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813651AFC7F2400C86809 /* Travel & Places II.plist */; };
+		077813691AFC7F8E00C86809 /* Objects II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813681AFC7F8E00C86809 /* Objects II.plist */; };
+		0778136A1AFC7F8E00C86809 /* Objects II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813681AFC7F8E00C86809 /* Objects II.plist */; };
+		0778136C1AFC802000C86809 /* Symbols II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778136B1AFC802000C86809 /* Symbols II.plist */; };
+		0778136D1AFC802000C86809 /* Symbols II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778136B1AFC802000C86809 /* Symbols II.plist */; };
+		0778136F1AFC802800C86809 /* Symbols III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778136E1AFC802800C86809 /* Symbols III.plist */; };
+		077813701AFC802800C86809 /* Symbols III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778136E1AFC802800C86809 /* Symbols III.plist */; };
+		077813721AFC80C100C86809 /* Bullets II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813711AFC80C100C86809 /* Bullets II.plist */; };
+		077813731AFC80C100C86809 /* Bullets II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813711AFC80C100C86809 /* Bullets II.plist */; };
+		077813751AFC811F00C86809 /* Math II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813741AFC811F00C86809 /* Math II.plist */; };
+		077813761AFC811F00C86809 /* Math II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813741AFC811F00C86809 /* Math II.plist */; };
+		077813781AFC812800C86809 /* Math III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813771AFC812800C86809 /* Math III.plist */; };
+		077813791AFC812800C86809 /* Math III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813771AFC812800C86809 /* Math III.plist */; };
+		0778137B1AFC812F00C86809 /* Math IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778137A1AFC812F00C86809 /* Math IV.plist */; };
+		0778137C1AFC812F00C86809 /* Math IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778137A1AFC812F00C86809 /* Math IV.plist */; };
+		0778137E1AFC813500C86809 /* Math V.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778137D1AFC813500C86809 /* Math V.plist */; };
+		0778137F1AFC813500C86809 /* Math V.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778137D1AFC813500C86809 /* Math V.plist */; };
+		077813811AFC856F00C86809 /* Arrows II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813801AFC856F00C86809 /* Arrows II.plist */; };
+		077813821AFC856F00C86809 /* Arrows II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813801AFC856F00C86809 /* Arrows II.plist */; };
+		077813841AFC858800C86809 /* Arrows III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813831AFC858800C86809 /* Arrows III.plist */; };
+		077813851AFC858800C86809 /* Arrows III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813831AFC858800C86809 /* Arrows III.plist */; };
+		077813871AFC861000C86809 /* Pictographs II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813861AFC861000C86809 /* Pictographs II.plist */; };
+		077813881AFC861000C86809 /* Pictographs II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813861AFC861000C86809 /* Pictographs II.plist */; };
+		0778138A1AFC86E800C86809 /* Geometry II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813891AFC86E800C86809 /* Geometry II.plist */; };
+		0778138B1AFC86E800C86809 /* Geometry II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813891AFC86E800C86809 /* Geometry II.plist */; };
+		0778138D1AFC872000C86809 /* Letter Like II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778138C1AFC872000C86809 /* Letter Like II.plist */; };
+		0778138E1AFC872000C86809 /* Letter Like II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778138C1AFC872000C86809 /* Letter Like II.plist */; };
+		077813901AFC872D00C86809 /* Letter Like III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778138F1AFC872D00C86809 /* Letter Like III.plist */; };
+		077813911AFC872D00C86809 /* Letter Like III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778138F1AFC872D00C86809 /* Letter Like III.plist */; };
+		077813931AFC881100C86809 /* Digits II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813921AFC881100C86809 /* Digits II.plist */; };
+		077813941AFC881100C86809 /* Digits II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813921AFC881100C86809 /* Digits II.plist */; };
+		077813961AFC881700C86809 /* Digits III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813951AFC881700C86809 /* Digits III.plist */; };
+		077813971AFC881700C86809 /* Digits III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813951AFC881700C86809 /* Digits III.plist */; };
+		077813991AFC895800C86809 /* Technical II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813981AFC895800C86809 /* Technical II.plist */; };
+		0778139A1AFC895800C86809 /* Technical II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813981AFC895800C86809 /* Technical II.plist */; };
+		0778139C1AFC896300C86809 /* Technical III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778139B1AFC896300C86809 /* Technical III.plist */; };
+		0778139D1AFC896300C86809 /* Technical III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778139B1AFC896300C86809 /* Technical III.plist */; };
+		0778139F1AFC89D500C86809 /* Parentheses II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778139E1AFC89D500C86809 /* Parentheses II.plist */; };
+		077813A01AFC89D500C86809 /* Parentheses II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0778139E1AFC89D500C86809 /* Parentheses II.plist */; };
+		077813A21AFC8B4400C86809 /* Punctuation II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813A11AFC8B4400C86809 /* Punctuation II.plist */; };
+		077813A31AFC8B4400C86809 /* Punctuation II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813A11AFC8B4400C86809 /* Punctuation II.plist */; };
+		077813A51AFC8B4C00C86809 /* Punctuation III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813A41AFC8B4C00C86809 /* Punctuation III.plist */; };
+		077813A61AFC8B4C00C86809 /* Punctuation III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813A41AFC8B4C00C86809 /* Punctuation III.plist */; };
+		077813A81AFC8C3E00C86809 /* Braille Patterns II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813A71AFC8C3E00C86809 /* Braille Patterns II.plist */; };
+		077813A91AFC8C3E00C86809 /* Braille Patterns II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813A71AFC8C3E00C86809 /* Braille Patterns II.plist */; };
+		077813AB1AFC8C4500C86809 /* Braille Patterns III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813AA1AFC8C4500C86809 /* Braille Patterns III.plist */; };
+		077813AC1AFC8C4500C86809 /* Braille Patterns III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813AA1AFC8C4500C86809 /* Braille Patterns III.plist */; };
+		077813AE1AFC8C4C00C86809 /* Braille Patterns IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813AD1AFC8C4C00C86809 /* Braille Patterns IV.plist */; };
+		077813AF1AFC8C4C00C86809 /* Braille Patterns IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813AD1AFC8C4C00C86809 /* Braille Patterns IV.plist */; };
+		077813B11AFC8D8A00C86809 /* Box Drawing II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813B01AFC8D8A00C86809 /* Box Drawing II.plist */; };
+		077813B21AFC8D8A00C86809 /* Box Drawing II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 077813B01AFC8D8A00C86809 /* Box Drawing II.plist */; };
+		0792D3AB1AE9EC9C00874664 /* Braille Patterns I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0792D3AA1AE9EC9C00874664 /* Braille Patterns I.plist */; };
+		0792D3AC1AE9EC9C00874664 /* Braille Patterns I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0792D3AA1AE9EC9C00874664 /* Braille Patterns I.plist */; };
+		0792D3AE1AE9FA1800874664 /* Box Drawing I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0792D3AD1AE9FA1800874664 /* Box Drawing I.plist */; };
+		0792D3AF1AE9FA1800874664 /* Box Drawing I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0792D3AD1AE9FA1800874664 /* Box Drawing I.plist */; };
+		07A4FA371AF714CC00E659FF /* UnicodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07A4FA361AF714CC00E659FF /* UnicodeViewController.m */; };
+		07A4FA3A1AF7378300E659FF /* FontsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 07A4FA391AF7378300E659FF /* FontsViewController.m */; };
+		07ACF0AE1AF9D08C00E666BB /* People I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07ACF0AD1AF9D08C00E666BB /* People I.plist */; };
+		07ACF0AF1AF9D08C00E666BB /* People I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07ACF0AD1AF9D08C00E666BB /* People I.plist */; };
+		07C84B381AF31E5F006FE492 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07C84B371AF31E5F006FE492 /* Foundation.framework */; };
+		07C84B391AF31E6B006FE492 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07C84B371AF31E5F006FE492 /* Foundation.framework */; };
+		07C84B3B1AF31E7A006FE492 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07C84B3A1AF31E7A006FE492 /* UIKit.framework */; };
+		07C84B3C1AF31E80006FE492 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07C84B3A1AF31E7A006FE492 /* UIKit.framework */; };
+		07CECA3A1AFD4E7500292171 /* Phonetic Alphabet II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA391AFD4E7500292171 /* Phonetic Alphabet II.plist */; };
+		07CECA3B1AFD4E7500292171 /* Phonetic Alphabet II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA391AFD4E7500292171 /* Phonetic Alphabet II.plist */; };
+		07CECA3D1AFD50A600292171 /* Phonetic Alphabet III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA3C1AFD50A600292171 /* Phonetic Alphabet III.plist */; };
+		07CECA3E1AFD50A600292171 /* Phonetic Alphabet III.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA3C1AFD50A600292171 /* Phonetic Alphabet III.plist */; };
+		07CECA401AFD52C500292171 /* Phonetic Alphabet IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA3F1AFD52C500292171 /* Phonetic Alphabet IV.plist */; };
+		07CECA411AFD52C500292171 /* Phonetic Alphabet IV.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA3F1AFD52C500292171 /* Phonetic Alphabet IV.plist */; };
+		07CECA431AFD558500292171 /* Phonetic Alphabet V.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA421AFD558500292171 /* Phonetic Alphabet V.plist */; };
+		07CECA441AFD558500292171 /* Phonetic Alphabet V.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA421AFD558500292171 /* Phonetic Alphabet V.plist */; };
+		07CECA461AFD994600292171 /* Phonetic Alphabet VI.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA451AFD994600292171 /* Phonetic Alphabet VI.plist */; };
+		07CECA471AFD994600292171 /* Phonetic Alphabet VI.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA451AFD994600292171 /* Phonetic Alphabet VI.plist */; };
+		07CECA491AFD9B9400292171 /* Phonetic Alphabet VII.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA481AFD9B9400292171 /* Phonetic Alphabet VII.plist */; };
+		07CECA4A1AFD9B9400292171 /* Phonetic Alphabet VII.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA481AFD9B9400292171 /* Phonetic Alphabet VII.plist */; };
+		07CECA4C1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA4B1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist */; };
+		07CECA4D1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CECA4B1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist */; };
+		07CEFB651AF89D0B00FCE29E /* Travel & Places I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CEFB641AF89D0B00FCE29E /* Travel & Places I.plist */; };
+		07CEFB661AF89D0B00FCE29E /* Travel & Places I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07CEFB641AF89D0B00FCE29E /* Travel & Places I.plist */; };
+		07D2F1921AFAAC0E00259762 /* Objects I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D2F1911AFAAC0E00259762 /* Objects I.plist */; };
+		07D2F1931AFAAC0E00259762 /* Objects I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D2F1911AFAAC0E00259762 /* Objects I.plist */; };
+		07D2F1951AFAB3E000259762 /* Symbols I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D2F1941AFAB3E000259762 /* Symbols I.plist */; };
+		07D2F1961AFAB3E000259762 /* Symbols I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D2F1941AFAB3E000259762 /* Symbols I.plist */; };
+		07D2F1981AFB06EB00259762 /* People II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D2F1971AFB06EB00259762 /* People II.plist */; };
+		07D2F1991AFB06EB00259762 /* People II.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D2F1971AFB06EB00259762 /* People II.plist */; };
+		07D730F51AF86B1900A6EE98 /* Digits I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730F41AF86B1900A6EE98 /* Digits I.plist */; };
+		07D730F61AF86B1900A6EE98 /* Digits I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730F41AF86B1900A6EE98 /* Digits I.plist */; };
+		07D730F81AF8762A00A6EE98 /* Food & Drink.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730F71AF8762A00A6EE98 /* Food & Drink.plist */; };
+		07D730F91AF8762A00A6EE98 /* Food & Drink.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730F71AF8762A00A6EE98 /* Food & Drink.plist */; };
+		07D730FB1AF8786600A6EE98 /* Celebration.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730FA1AF8786600A6EE98 /* Celebration.plist */; };
+		07D730FC1AF8786600A6EE98 /* Celebration.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730FA1AF8786600A6EE98 /* Celebration.plist */; };
+		07D730FE1AF879A000A6EE98 /* Nature I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730FD1AF879A000A6EE98 /* Nature I.plist */; };
+		07D730FF1AF879A000A6EE98 /* Nature I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07D730FD1AF879A000A6EE98 /* Nature I.plist */; };
+		07F311891AE1B40500487600 /* FBEncryptorAES.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F311841AE1B40500487600 /* FBEncryptorAES.m */; };
+		07F3118A1AE1B40500487600 /* FBEncryptorAES.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F311841AE1B40500487600 /* FBEncryptorAES.m */; };
+		07F3118B1AE1B40500487600 /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F311861AE1B40500487600 /* NSData+Base64.m */; };
+		07F3118C1AE1B40500487600 /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F311861AE1B40500487600 /* NSData+Base64.m */; };
+		07F3118D1AE1B40500487600 /* FMPlistEn.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F311881AE1B40500487600 /* FMPlistEn.m */; };
+		07F3118E1AE1B40500487600 /* FMPlistEn.m in Sources */ = {isa = PBXBuildFile; fileRef = 07F311881AE1B40500487600 /* FMPlistEn.m */; };
+		07F6E6281AF87FDD007CFDA3 /* Activity.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07F6E6271AF87FDD007CFDA3 /* Activity.plist */; };
+		07F6E6291AF87FDD007CFDA3 /* Activity.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07F6E6271AF87FDD007CFDA3 /* Activity.plist */; };
+		07F97EEC1ADF4D6B00CD92D2 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07F97EE91ADF4D2700CD92D2 /* QuartzCore.framework */; };
+		07FEC7011AE20CAA0093333A /* Bullets I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7001AE20CAA0093333A /* Bullets I.plist */; };
+		07FEC7021AE20CAA0093333A /* Bullets I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7001AE20CAA0093333A /* Bullets I.plist */; };
+		07FEC7041AE216070093333A /* Currency.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7031AE216070093333A /* Currency.plist */; };
+		07FEC7051AE216070093333A /* Currency.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7031AE216070093333A /* Currency.plist */; };
+		07FEC7071AE216720093333A /* Math I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7061AE216720093333A /* Math I.plist */; };
+		07FEC7081AE216720093333A /* Math I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7061AE216720093333A /* Math I.plist */; };
+		07FEC70A1AE216F20093333A /* Pictographs I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7091AE216F20093333A /* Pictographs I.plist */; };
+		07FEC70B1AE216F20093333A /* Pictographs I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7091AE216F20093333A /* Pictographs I.plist */; };
+		07FEC70D1AE21E8A0093333A /* Geometry I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC70C1AE21E8A0093333A /* Geometry I.plist */; };
+		07FEC70E1AE21E8A0093333A /* Geometry I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC70C1AE21E8A0093333A /* Geometry I.plist */; };
+		07FEC7101AE21F8F0093333A /* Letter Like I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC70F1AE21F8F0093333A /* Letter Like I.plist */; };
+		07FEC7111AE21F8F0093333A /* Letter Like I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC70F1AE21F8F0093333A /* Letter Like I.plist */; };
+		07FEC7161AE221C50093333A /* Sign.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7151AE221C50093333A /* Sign.plist */; };
+		07FEC7171AE221C50093333A /* Sign.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7151AE221C50093333A /* Sign.plist */; };
+		07FEC7191AE222820093333A /* Technical I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7181AE222820093333A /* Technical I.plist */; };
+		07FEC71A1AE222820093333A /* Technical I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC7181AE222820093333A /* Technical I.plist */; };
+		07FEC71C1AE223D80093333A /* Punctuation I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC71B1AE223D80093333A /* Punctuation I.plist */; };
+		07FEC71D1AE223D80093333A /* Punctuation I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC71B1AE223D80093333A /* Punctuation I.plist */; };
+		07FEC71F1AE227980093333A /* Categories.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC71E1AE227980093333A /* Categories.plist */; };
+		07FEC7201AE227980093333A /* Categories.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07FEC71E1AE227980093333A /* Categories.plist */; };
+		6972926D1A2A992B0047F154 /* KeyArt.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6972926C1A2A992B0047F154 /* KeyArt.xcassets */; };
+		69737D271A290C34007D104E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 69737D261A290C34007D104E /* main.m */; };
+		69737D2A1A290C34007D104E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 69737D291A290C34007D104E /* AppDelegate.m */; };
+		69737D2D1A290C34007D104E /* MainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69737D2C1A290C34007D104E /* MainTableViewController.m */; };
+		69737D301A290C35007D104E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69737D2E1A290C35007D104E /* Main.storyboard */; };
+		69737D321A290C35007D104E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69737D311A290C35007D104E /* Images.xcassets */; };
+		69737D351A290C35007D104E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69737D331A290C35007D104E /* LaunchScreen.xib */; };
+		69737D411A290C35007D104E /* EmopediaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 69737D401A290C35007D104E /* EmopediaTests.m */; };
+		69737D541A290CD8007D104E /* KeyboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69737D531A290CD8007D104E /* KeyboardViewController.m */; };
+		69737D571A290CD8007D104E /* EmopediaKeyboard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 69737D4E1A290CD8007D104E /* EmopediaKeyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		69737D5F1A290F0D007D104E /* Keyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69737D5E1A290F0D007D104E /* Keyboard.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		69737D3B1A290C35007D104E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 69737D191A290C34007D104E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 69737D201A290C34007D104E;
+			remoteInfo = iOSKeyboardTemplateContainer;
+		};
+		69737D551A290CD8007D104E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 69737D191A290C34007D104E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 69737D4D1A290CD8007D104E;
+			remoteInfo = iOSKeyboardTemplate;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		69737D5B1A290CD8007D104E /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				69737D571A290CD8007D104E /* EmopediaKeyboard.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		070CFE731AE5FAC500A39B2C /* BottomScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BottomScrollView.h; sourceTree = "<group>"; };
+		070CFE741AE5FAC500A39B2C /* BottomScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BottomScrollView.m; sourceTree = "<group>"; };
+		071357FE1AF1C8760040C114 /* Arrows I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Arrows I.plist"; sourceTree = "<group>"; };
+		0717279E1AE1A418006930C9 /* CaeciliaLTStd-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CaeciliaLTStd-Italic.otf"; sourceTree = "<group>"; };
+		071727A11AE1A425006930C9 /* CaeciliaLTStd-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CaeciliaLTStd-LightItalic.otf"; sourceTree = "<group>"; };
+		072DFB4A1AE44487000303AE /* CircledLinebutton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircledLinebutton.h; sourceTree = "<group>"; };
+		072DFB4B1AE44487000303AE /* CircledLinebutton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircledLinebutton.m; sourceTree = "<group>"; };
+		072FA5E81AE57D78003CD0ED /* BottomContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BottomContentView.h; sourceTree = "<group>"; };
+		072FA5E91AE57D78003CD0ED /* BottomContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BottomContentView.m; sourceTree = "<group>"; };
+		073702F91ADF5B4300A89501 /* Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Chameleon.h; sourceTree = "<group>"; };
+		073702FA1ADF5B4300A89501 /* ChameleonMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChameleonMacros.h; sourceTree = "<group>"; };
+		073702FB1ADF5B4300A89501 /* ChameleonStatusBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChameleonStatusBar.h; sourceTree = "<group>"; };
+		073702FC1ADF5B4300A89501 /* ChameleonStatusBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChameleonStatusBar.m; sourceTree = "<group>"; };
+		073702FE1ADF5B4300A89501 /* NSArray+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Chameleon.h"; sourceTree = "<group>"; };
+		073702FF1ADF5B4300A89501 /* NSArray+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Chameleon.m"; sourceTree = "<group>"; };
+		073703001ADF5B4300A89501 /* UIColor+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Chameleon.h"; sourceTree = "<group>"; };
+		073703011ADF5B4300A89501 /* UIColor+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Chameleon.m"; sourceTree = "<group>"; };
+		073703021ADF5B4300A89501 /* UIColor+CIELAB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+CIELAB.h"; sourceTree = "<group>"; };
+		073703031ADF5B4300A89501 /* UIColor+CIELAB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+CIELAB.m"; sourceTree = "<group>"; };
+		073703041ADF5B4300A89501 /* UIViewController+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Chameleon.h"; sourceTree = "<group>"; };
+		073703051ADF5B4300A89501 /* UIViewController+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Chameleon.m"; sourceTree = "<group>"; };
+		0737EAA11AFC8E6000C89C58 /* Enclosed Characters I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Enclosed Characters I.plist"; sourceTree = "<group>"; };
+		0737EAA31AFC8FB000C89C58 /* Enclosed Characters III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Enclosed Characters III.plist"; sourceTree = "<group>"; };
+		0737EAA61AFC90C800C89C58 /* Enclosed Characters II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Enclosed Characters II.plist"; sourceTree = "<group>"; };
+		0737EAA91AFC936F00C89C58 /* Enclosed Characters IV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Enclosed Characters IV.plist"; sourceTree = "<group>"; };
+		0737EAAC1AFC9BF700C89C58 /* Phonetic Alphabet I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet I.plist"; sourceTree = "<group>"; };
+		073EECF31AEAE28500B731A5 /* Parentheses I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Parentheses I.plist"; sourceTree = "<group>"; };
+		0773DA741AE0C5D1004B6AD8 /* CaeciliaLTStd-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CaeciliaLTStd-Bold.otf"; sourceTree = "<group>"; };
+		0773DA751AE0C5D1004B6AD8 /* CaeciliaLTStd-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CaeciliaLTStd-Roman.otf"; sourceTree = "<group>"; };
+		0773DA761AE0C5D1004B6AD8 /* CaeciliaLTStd-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CaeciliaLTStd-Light.otf"; sourceTree = "<group>"; };
+		0773DA7D1AE0D824004B6AD8 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		0773DA7E1AE0D824004B6AD8 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		0773DA801AE0E565004B6AD8 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		0773DA811AE0E565004B6AD8 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		077813621AFC7E9A00C86809 /* Nature II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Nature II.plist"; sourceTree = "<group>"; };
+		077813651AFC7F2400C86809 /* Travel & Places II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Travel & Places II.plist"; sourceTree = "<group>"; };
+		077813681AFC7F8E00C86809 /* Objects II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Objects II.plist"; sourceTree = "<group>"; };
+		0778136B1AFC802000C86809 /* Symbols II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Symbols II.plist"; sourceTree = "<group>"; };
+		0778136E1AFC802800C86809 /* Symbols III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Symbols III.plist"; sourceTree = "<group>"; };
+		077813711AFC80C100C86809 /* Bullets II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Bullets II.plist"; sourceTree = "<group>"; };
+		077813741AFC811F00C86809 /* Math II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Math II.plist"; sourceTree = "<group>"; };
+		077813771AFC812800C86809 /* Math III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Math III.plist"; sourceTree = "<group>"; };
+		0778137A1AFC812F00C86809 /* Math IV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Math IV.plist"; sourceTree = "<group>"; };
+		0778137D1AFC813500C86809 /* Math V.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Math V.plist"; sourceTree = "<group>"; };
+		077813801AFC856F00C86809 /* Arrows II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Arrows II.plist"; sourceTree = "<group>"; };
+		077813831AFC858800C86809 /* Arrows III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Arrows III.plist"; sourceTree = "<group>"; };
+		077813861AFC861000C86809 /* Pictographs II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pictographs II.plist"; sourceTree = "<group>"; };
+		077813891AFC86E800C86809 /* Geometry II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Geometry II.plist"; sourceTree = "<group>"; };
+		0778138C1AFC872000C86809 /* Letter Like II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Letter Like II.plist"; sourceTree = "<group>"; };
+		0778138F1AFC872D00C86809 /* Letter Like III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Letter Like III.plist"; sourceTree = "<group>"; };
+		077813921AFC881100C86809 /* Digits II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Digits II.plist"; sourceTree = "<group>"; };
+		077813951AFC881700C86809 /* Digits III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Digits III.plist"; sourceTree = "<group>"; };
+		077813981AFC895800C86809 /* Technical II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Technical II.plist"; sourceTree = "<group>"; };
+		0778139B1AFC896300C86809 /* Technical III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Technical III.plist"; sourceTree = "<group>"; };
+		0778139E1AFC89D500C86809 /* Parentheses II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Parentheses II.plist"; sourceTree = "<group>"; };
+		077813A11AFC8B4400C86809 /* Punctuation II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Punctuation II.plist"; sourceTree = "<group>"; };
+		077813A41AFC8B4C00C86809 /* Punctuation III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Punctuation III.plist"; sourceTree = "<group>"; };
+		077813A71AFC8C3E00C86809 /* Braille Patterns II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Braille Patterns II.plist"; sourceTree = "<group>"; };
+		077813AA1AFC8C4500C86809 /* Braille Patterns III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Braille Patterns III.plist"; sourceTree = "<group>"; };
+		077813AD1AFC8C4C00C86809 /* Braille Patterns IV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Braille Patterns IV.plist"; sourceTree = "<group>"; };
+		077813B01AFC8D8A00C86809 /* Box Drawing II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Box Drawing II.plist"; sourceTree = "<group>"; };
+		078251A51ADE17A6007C4DEB /* Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
+		078251A61ADE1A53007C4DEB /* Emopedia.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Emopedia.entitlements; sourceTree = SOURCE_ROOT; };
+		078251A71ADE1BEC007C4DEB /* EmopediaKeyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = EmopediaKeyboard.entitlements; sourceTree = SOURCE_ROOT; };
+		0792D3AA1AE9EC9C00874664 /* Braille Patterns I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Braille Patterns I.plist"; sourceTree = "<group>"; };
+		0792D3AD1AE9FA1800874664 /* Box Drawing I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Box Drawing I.plist"; sourceTree = "<group>"; };
+		07A4FA351AF714CC00E659FF /* UnicodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnicodeViewController.h; sourceTree = "<group>"; };
+		07A4FA361AF714CC00E659FF /* UnicodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UnicodeViewController.m; sourceTree = "<group>"; };
+		07A4FA381AF7378300E659FF /* FontsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FontsViewController.h; sourceTree = "<group>"; };
+		07A4FA391AF7378300E659FF /* FontsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FontsViewController.m; sourceTree = "<group>"; };
+		07ACF0AD1AF9D08C00E666BB /* People I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "People I.plist"; sourceTree = "<group>"; };
+		07C84B371AF31E5F006FE492 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		07C84B3A1AF31E7A006FE492 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		07CECA391AFD4E7500292171 /* Phonetic Alphabet II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet II.plist"; sourceTree = "<group>"; };
+		07CECA3C1AFD50A600292171 /* Phonetic Alphabet III.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet III.plist"; sourceTree = "<group>"; };
+		07CECA3F1AFD52C500292171 /* Phonetic Alphabet IV.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet IV.plist"; sourceTree = "<group>"; };
+		07CECA421AFD558500292171 /* Phonetic Alphabet V.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet V.plist"; sourceTree = "<group>"; };
+		07CECA451AFD994600292171 /* Phonetic Alphabet VI.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet VI.plist"; sourceTree = "<group>"; };
+		07CECA481AFD9B9400292171 /* Phonetic Alphabet VII.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet VII.plist"; sourceTree = "<group>"; };
+		07CECA4B1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Phonetic Alphabet VIII.plist"; sourceTree = "<group>"; };
+		07CEFB641AF89D0B00FCE29E /* Travel & Places I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Travel & Places I.plist"; sourceTree = "<group>"; };
+		07D2F1911AFAAC0E00259762 /* Objects I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Objects I.plist"; sourceTree = "<group>"; };
+		07D2F1941AFAB3E000259762 /* Symbols I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Symbols I.plist"; sourceTree = "<group>"; };
+		07D2F1971AFB06EB00259762 /* People II.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "People II.plist"; sourceTree = "<group>"; };
+		07D730F41AF86B1900A6EE98 /* Digits I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Digits I.plist"; sourceTree = "<group>"; };
+		07D730F71AF8762A00A6EE98 /* Food & Drink.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Food & Drink.plist"; sourceTree = "<group>"; };
+		07D730FA1AF8786600A6EE98 /* Celebration.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Celebration.plist; sourceTree = "<group>"; };
+		07D730FD1AF879A000A6EE98 /* Nature I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Nature I.plist"; sourceTree = "<group>"; };
+		07F311831AE1B40500487600 /* FBEncryptorAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FBEncryptorAES.h; sourceTree = "<group>"; };
+		07F311841AE1B40500487600 /* FBEncryptorAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FBEncryptorAES.m; sourceTree = "<group>"; };
+		07F311851AE1B40500487600 /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
+		07F311861AE1B40500487600 /* NSData+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+Base64.m"; sourceTree = "<group>"; };
+		07F311871AE1B40500487600 /* FMPlistEn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMPlistEn.h; sourceTree = "<group>"; };
+		07F311881AE1B40500487600 /* FMPlistEn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMPlistEn.m; sourceTree = "<group>"; };
+		07F6E6271AF87FDD007CFDA3 /* Activity.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Activity.plist; sourceTree = "<group>"; };
+		07F97EE91ADF4D2700CD92D2 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		07FEC7001AE20CAA0093333A /* Bullets I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Bullets I.plist"; sourceTree = "<group>"; };
+		07FEC7031AE216070093333A /* Currency.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Currency.plist; sourceTree = "<group>"; };
+		07FEC7061AE216720093333A /* Math I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Math I.plist"; sourceTree = "<group>"; };
+		07FEC7091AE216F20093333A /* Pictographs I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Pictographs I.plist"; sourceTree = "<group>"; };
+		07FEC70C1AE21E8A0093333A /* Geometry I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Geometry I.plist"; sourceTree = "<group>"; };
+		07FEC70F1AE21F8F0093333A /* Letter Like I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Letter Like I.plist"; sourceTree = "<group>"; };
+		07FEC7151AE221C50093333A /* Sign.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sign.plist; sourceTree = "<group>"; };
+		07FEC7181AE222820093333A /* Technical I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Technical I.plist"; sourceTree = "<group>"; };
+		07FEC71B1AE223D80093333A /* Punctuation I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Punctuation I.plist"; sourceTree = "<group>"; };
+		07FEC71E1AE227980093333A /* Categories.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Categories.plist; sourceTree = "<group>"; };
+		6972926C1A2A992B0047F154 /* KeyArt.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = KeyArt.xcassets; path = EmopediaKeyboard/KeyArt.xcassets; sourceTree = "<group>"; };
+		69737D211A290C34007D104E /* Emopedia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Emopedia.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		69737D251A290C34007D104E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69737D261A290C34007D104E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		69737D281A290C34007D104E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		69737D291A290C34007D104E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		69737D2B1A290C34007D104E /* MainTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainTableViewController.h; sourceTree = "<group>"; };
+		69737D2C1A290C34007D104E /* MainTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainTableViewController.m; sourceTree = "<group>"; };
+		69737D2F1A290C35007D104E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		69737D311A290C35007D104E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		69737D341A290C35007D104E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		69737D3A1A290C35007D104E /* EmopediaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmopediaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		69737D3F1A290C35007D104E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69737D401A290C35007D104E /* EmopediaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EmopediaTests.m; sourceTree = "<group>"; };
+		69737D4E1A290CD8007D104E /* EmopediaKeyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = EmopediaKeyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		69737D511A290CD8007D104E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69737D521A290CD8007D104E /* KeyboardViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyboardViewController.h; sourceTree = "<group>"; };
+		69737D531A290CD8007D104E /* KeyboardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeyboardViewController.m; sourceTree = "<group>"; };
+		69737D5E1A290F0D007D104E /* Keyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Keyboard.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		69737D1E1A290C34007D104E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C84B3B1AF31E7A006FE492 /* UIKit.framework in Frameworks */,
+				07C84B391AF31E6B006FE492 /* Foundation.framework in Frameworks */,
+				07F97EEC1ADF4D6B00CD92D2 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69737D371A290C35007D104E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69737D4B1A290CD8007D104E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C84B3C1AF31E80006FE492 /* UIKit.framework in Frameworks */,
+				07C84B381AF31E5F006FE492 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		073702D01ADF5ADD00A89501 /* Chameleon */ = {
+			isa = PBXGroup;
+			children = (
+				073702F91ADF5B4300A89501 /* Chameleon.h */,
+				073702FA1ADF5B4300A89501 /* ChameleonMacros.h */,
+				073702FB1ADF5B4300A89501 /* ChameleonStatusBar.h */,
+				073702FC1ADF5B4300A89501 /* ChameleonStatusBar.m */,
+				073702FE1ADF5B4300A89501 /* NSArray+Chameleon.h */,
+				073702FF1ADF5B4300A89501 /* NSArray+Chameleon.m */,
+				073703001ADF5B4300A89501 /* UIColor+Chameleon.h */,
+				073703011ADF5B4300A89501 /* UIColor+Chameleon.m */,
+				073703021ADF5B4300A89501 /* UIColor+CIELAB.h */,
+				073703031ADF5B4300A89501 /* UIColor+CIELAB.m */,
+				073703041ADF5B4300A89501 /* UIViewController+Chameleon.h */,
+				073703051ADF5B4300A89501 /* UIViewController+Chameleon.m */,
+			);
+			name = Chameleon;
+			sourceTree = "<group>";
+		};
+		0773DA731AE0C5C8004B6AD8 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				0773DA741AE0C5D1004B6AD8 /* CaeciliaLTStd-Bold.otf */,
+				0773DA751AE0C5D1004B6AD8 /* CaeciliaLTStd-Roman.otf */,
+				0773DA761AE0C5D1004B6AD8 /* CaeciliaLTStd-Light.otf */,
+				0717279E1AE1A418006930C9 /* CaeciliaLTStd-Italic.otf */,
+				071727A11AE1A425006930C9 /* CaeciliaLTStd-LightItalic.otf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
+		07F3118F1AE1B40F00487600 /* Encryption */ = {
+			isa = PBXGroup;
+			children = (
+				07F311851AE1B40500487600 /* NSData+Base64.h */,
+				07F311861AE1B40500487600 /* NSData+Base64.m */,
+				07F311871AE1B40500487600 /* FMPlistEn.h */,
+				07F311881AE1B40500487600 /* FMPlistEn.m */,
+				07F311831AE1B40500487600 /* FBEncryptorAES.h */,
+				07F311841AE1B40500487600 /* FBEncryptorAES.m */,
+			);
+			name = Encryption;
+			sourceTree = "<group>";
+		};
+		07F97EEB1ADF4D5400CD92D2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				07C84B3A1AF31E7A006FE492 /* UIKit.framework */,
+				07C84B371AF31E5F006FE492 /* Foundation.framework */,
+				07F97EE91ADF4D2700CD92D2 /* QuartzCore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		07FEC6FF1AE20C8D0093333A /* Symbols */ = {
+			isa = PBXGroup;
+			children = (
+				07ACF0AD1AF9D08C00E666BB /* People I.plist */,
+				07D2F1971AFB06EB00259762 /* People II.plist */,
+				07D730FD1AF879A000A6EE98 /* Nature I.plist */,
+				077813621AFC7E9A00C86809 /* Nature II.plist */,
+				07D730F71AF8762A00A6EE98 /* Food & Drink.plist */,
+				07D730FA1AF8786600A6EE98 /* Celebration.plist */,
+				07F6E6271AF87FDD007CFDA3 /* Activity.plist */,
+				07CEFB641AF89D0B00FCE29E /* Travel & Places I.plist */,
+				077813651AFC7F2400C86809 /* Travel & Places II.plist */,
+				07D2F1911AFAAC0E00259762 /* Objects I.plist */,
+				077813681AFC7F8E00C86809 /* Objects II.plist */,
+				07D2F1941AFAB3E000259762 /* Symbols I.plist */,
+				0778136B1AFC802000C86809 /* Symbols II.plist */,
+				0778136E1AFC802800C86809 /* Symbols III.plist */,
+				07FEC7091AE216F20093333A /* Pictographs I.plist */,
+				077813861AFC861000C86809 /* Pictographs II.plist */,
+				07FEC7151AE221C50093333A /* Sign.plist */,
+				07FEC7031AE216070093333A /* Currency.plist */,
+				07FEC70C1AE21E8A0093333A /* Geometry I.plist */,
+				077813891AFC86E800C86809 /* Geometry II.plist */,
+				071357FE1AF1C8760040C114 /* Arrows I.plist */,
+				077813801AFC856F00C86809 /* Arrows II.plist */,
+				077813831AFC858800C86809 /* Arrows III.plist */,
+				07FEC7001AE20CAA0093333A /* Bullets I.plist */,
+				077813711AFC80C100C86809 /* Bullets II.plist */,
+				07FEC7181AE222820093333A /* Technical I.plist */,
+				077813981AFC895800C86809 /* Technical II.plist */,
+				0778139B1AFC896300C86809 /* Technical III.plist */,
+				0737EAA11AFC8E6000C89C58 /* Enclosed Characters I.plist */,
+				0737EAA61AFC90C800C89C58 /* Enclosed Characters II.plist */,
+				0737EAA31AFC8FB000C89C58 /* Enclosed Characters III.plist */,
+				0737EAA91AFC936F00C89C58 /* Enclosed Characters IV.plist */,
+				07FEC7061AE216720093333A /* Math I.plist */,
+				077813741AFC811F00C86809 /* Math II.plist */,
+				077813771AFC812800C86809 /* Math III.plist */,
+				0778137A1AFC812F00C86809 /* Math IV.plist */,
+				0778137D1AFC813500C86809 /* Math V.plist */,
+				07FEC70F1AE21F8F0093333A /* Letter Like I.plist */,
+				0778138C1AFC872000C86809 /* Letter Like II.plist */,
+				0778138F1AFC872D00C86809 /* Letter Like III.plist */,
+				07D730F41AF86B1900A6EE98 /* Digits I.plist */,
+				077813921AFC881100C86809 /* Digits II.plist */,
+				077813951AFC881700C86809 /* Digits III.plist */,
+				0792D3AD1AE9FA1800874664 /* Box Drawing I.plist */,
+				077813B01AFC8D8A00C86809 /* Box Drawing II.plist */,
+				073EECF31AEAE28500B731A5 /* Parentheses I.plist */,
+				0778139E1AFC89D500C86809 /* Parentheses II.plist */,
+				07FEC71B1AE223D80093333A /* Punctuation I.plist */,
+				077813A11AFC8B4400C86809 /* Punctuation II.plist */,
+				077813A41AFC8B4C00C86809 /* Punctuation III.plist */,
+				0737EAAC1AFC9BF700C89C58 /* Phonetic Alphabet I.plist */,
+				07CECA391AFD4E7500292171 /* Phonetic Alphabet II.plist */,
+				07CECA3C1AFD50A600292171 /* Phonetic Alphabet III.plist */,
+				07CECA3F1AFD52C500292171 /* Phonetic Alphabet IV.plist */,
+				07CECA421AFD558500292171 /* Phonetic Alphabet V.plist */,
+				07CECA451AFD994600292171 /* Phonetic Alphabet VI.plist */,
+				07CECA481AFD9B9400292171 /* Phonetic Alphabet VII.plist */,
+				07CECA4B1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist */,
+				0792D3AA1AE9EC9C00874664 /* Braille Patterns I.plist */,
+				077813A71AFC8C3E00C86809 /* Braille Patterns II.plist */,
+				077813AA1AFC8C4500C86809 /* Braille Patterns III.plist */,
+				077813AD1AFC8C4C00C86809 /* Braille Patterns IV.plist */,
+				07FEC71E1AE227980093333A /* Categories.plist */,
+			);
+			name = Symbols;
+			sourceTree = "<group>";
+		};
+		69737D181A290C34007D104E = {
+			isa = PBXGroup;
+			children = (
+				69737D231A290C34007D104E /* Emopedia */,
+				69737D4F1A290CD8007D104E /* EmopediaSymbols */,
+				69737D3D1A290C35007D104E /* EmopediaTests */,
+				6972926C1A2A992B0047F154 /* KeyArt.xcassets */,
+				69737D221A290C34007D104E /* Products */,
+				07F97EEB1ADF4D5400CD92D2 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		69737D221A290C34007D104E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				69737D211A290C34007D104E /* Emopedia.app */,
+				69737D3A1A290C35007D104E /* EmopediaTests.xctest */,
+				69737D4E1A290CD8007D104E /* EmopediaKeyboard.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		69737D231A290C34007D104E /* Emopedia */ = {
+			isa = PBXGroup;
+			children = (
+				078251A61ADE1A53007C4DEB /* Emopedia.entitlements */,
+				078251A51ADE17A6007C4DEB /* Common.h */,
+				69737D281A290C34007D104E /* AppDelegate.h */,
+				69737D291A290C34007D104E /* AppDelegate.m */,
+				69737D2B1A290C34007D104E /* MainTableViewController.h */,
+				69737D2C1A290C34007D104E /* MainTableViewController.m */,
+				07A4FA351AF714CC00E659FF /* UnicodeViewController.h */,
+				07A4FA361AF714CC00E659FF /* UnicodeViewController.m */,
+				07A4FA381AF7378300E659FF /* FontsViewController.h */,
+				07A4FA391AF7378300E659FF /* FontsViewController.m */,
+				0773DA7D1AE0D824004B6AD8 /* DetailViewController.h */,
+				0773DA7E1AE0D824004B6AD8 /* DetailViewController.m */,
+				0773DA801AE0E565004B6AD8 /* SettingsViewController.h */,
+				0773DA811AE0E565004B6AD8 /* SettingsViewController.m */,
+				69737D2E1A290C35007D104E /* Main.storyboard */,
+				69737D331A290C35007D104E /* LaunchScreen.xib */,
+				07F3118F1AE1B40F00487600 /* Encryption */,
+				073702D01ADF5ADD00A89501 /* Chameleon */,
+				69737D311A290C35007D104E /* Images.xcassets */,
+				69737D241A290C34007D104E /* Supporting Files */,
+			);
+			path = Emopedia;
+			sourceTree = "<group>";
+		};
+		69737D241A290C34007D104E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				07FEC6FF1AE20C8D0093333A /* Symbols */,
+				0773DA731AE0C5C8004B6AD8 /* Fonts */,
+				69737D251A290C34007D104E /* Info.plist */,
+				69737D261A290C34007D104E /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		69737D3D1A290C35007D104E /* EmopediaTests */ = {
+			isa = PBXGroup;
+			children = (
+				69737D401A290C35007D104E /* EmopediaTests.m */,
+				69737D3E1A290C35007D104E /* Supporting Files */,
+			);
+			path = EmopediaTests;
+			sourceTree = "<group>";
+		};
+		69737D3E1A290C35007D104E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				69737D3F1A290C35007D104E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		69737D4F1A290CD8007D104E /* EmopediaSymbols */ = {
+			isa = PBXGroup;
+			children = (
+				078251A71ADE1BEC007C4DEB /* EmopediaKeyboard.entitlements */,
+				69737D521A290CD8007D104E /* KeyboardViewController.h */,
+				69737D531A290CD8007D104E /* KeyboardViewController.m */,
+				072FA5E81AE57D78003CD0ED /* BottomContentView.h */,
+				072FA5E91AE57D78003CD0ED /* BottomContentView.m */,
+				070CFE731AE5FAC500A39B2C /* BottomScrollView.h */,
+				070CFE741AE5FAC500A39B2C /* BottomScrollView.m */,
+				072DFB4A1AE44487000303AE /* CircledLinebutton.h */,
+				072DFB4B1AE44487000303AE /* CircledLinebutton.m */,
+				69737D5E1A290F0D007D104E /* Keyboard.storyboard */,
+				69737D501A290CD8007D104E /* Supporting Files */,
+			);
+			name = EmopediaSymbols;
+			path = EmopediaKeyboard;
+			sourceTree = "<group>";
+		};
+		69737D501A290CD8007D104E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				69737D511A290CD8007D104E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		69737D201A290C34007D104E /* Emopedia */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 69737D441A290C35007D104E /* Build configuration list for PBXNativeTarget "Emopedia" */;
+			buildPhases = (
+				69737D1D1A290C34007D104E /* Sources */,
+				69737D1E1A290C34007D104E /* Frameworks */,
+				69737D1F1A290C34007D104E /* Resources */,
+				69737D5B1A290CD8007D104E /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				69737D561A290CD8007D104E /* PBXTargetDependency */,
+			);
+			name = Emopedia;
+			productName = iOSKeyboardTemplateContainer;
+			productReference = 69737D211A290C34007D104E /* Emopedia.app */;
+			productType = "com.apple.product-type.application";
+		};
+		69737D391A290C35007D104E /* EmopediaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 69737D471A290C35007D104E /* Build configuration list for PBXNativeTarget "EmopediaTests" */;
+			buildPhases = (
+				69737D361A290C35007D104E /* Sources */,
+				69737D371A290C35007D104E /* Frameworks */,
+				69737D381A290C35007D104E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				69737D3C1A290C35007D104E /* PBXTargetDependency */,
+			);
+			name = EmopediaTests;
+			productName = iOSKeyboardTemplateContainerTests;
+			productReference = 69737D3A1A290C35007D104E /* EmopediaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		69737D4D1A290CD8007D104E /* EmopediaKeyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 69737D581A290CD8007D104E /* Build configuration list for PBXNativeTarget "EmopediaKeyboard" */;
+			buildPhases = (
+				69737D4A1A290CD8007D104E /* Sources */,
+				69737D4B1A290CD8007D104E /* Frameworks */,
+				69737D4C1A290CD8007D104E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EmopediaKeyboard;
+			productName = iOSKeyboardTemplate;
+			productReference = 69737D4E1A290CD8007D104E /* EmopediaKeyboard.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		69737D191A290C34007D104E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Xiaoyong Liang";
+				TargetAttributes = {
+					69737D201A290C34007D104E = {
+						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = YPY4XN4U39;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					69737D391A290C35007D104E = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 69737D201A290C34007D104E;
+					};
+					69737D4D1A290CD8007D104E = {
+						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = YPY4XN4U39;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 69737D1C1A290C34007D104E /* Build configuration list for PBXProject "Emopedia" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 69737D181A290C34007D104E;
+			productRefGroup = 69737D221A290C34007D104E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				69737D201A290C34007D104E /* Emopedia */,
+				69737D391A290C35007D104E /* EmopediaTests */,
+				69737D4D1A290CD8007D104E /* EmopediaKeyboard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		69737D1F1A290C34007D104E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0792D3AE1AE9FA1800874664 /* Box Drawing I.plist in Resources */,
+				07D2F1921AFAAC0E00259762 /* Objects I.plist in Resources */,
+				0737EAAA1AFC936F00C89C58 /* Enclosed Characters IV.plist in Resources */,
+				07F6E6281AF87FDD007CFDA3 /* Activity.plist in Resources */,
+				077813841AFC858800C86809 /* Arrows III.plist in Resources */,
+				0778137B1AFC812F00C86809 /* Math IV.plist in Resources */,
+				0717279F1AE1A418006930C9 /* CaeciliaLTStd-Italic.otf in Resources */,
+				0778139C1AFC896300C86809 /* Technical III.plist in Resources */,
+				0773DA7B1AE0C5D1004B6AD8 /* CaeciliaLTStd-Light.otf in Resources */,
+				07FEC7191AE222820093333A /* Technical I.plist in Resources */,
+				077813721AFC80C100C86809 /* Bullets II.plist in Resources */,
+				07FEC7161AE221C50093333A /* Sign.plist in Resources */,
+				07FEC7041AE216070093333A /* Currency.plist in Resources */,
+				077813A51AFC8B4C00C86809 /* Punctuation III.plist in Resources */,
+				07D730F81AF8762A00A6EE98 /* Food & Drink.plist in Resources */,
+				07D730FE1AF879A000A6EE98 /* Nature I.plist in Resources */,
+				077813991AFC895800C86809 /* Technical II.plist in Resources */,
+				07FEC70D1AE21E8A0093333A /* Geometry I.plist in Resources */,
+				077813A21AFC8B4400C86809 /* Punctuation II.plist in Resources */,
+				0737EAA71AFC90C800C89C58 /* Enclosed Characters II.plist in Resources */,
+				077813AE1AFC8C4C00C86809 /* Braille Patterns IV.plist in Resources */,
+				0773DA791AE0C5D1004B6AD8 /* CaeciliaLTStd-Roman.otf in Resources */,
+				07FEC7011AE20CAA0093333A /* Bullets I.plist in Resources */,
+				0778136F1AFC802800C86809 /* Symbols III.plist in Resources */,
+				077813931AFC881100C86809 /* Digits II.plist in Resources */,
+				07CECA491AFD9B9400292171 /* Phonetic Alphabet VII.plist in Resources */,
+				07CECA4C1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist in Resources */,
+				69737D301A290C35007D104E /* Main.storyboard in Resources */,
+				07CECA3D1AFD50A600292171 /* Phonetic Alphabet III.plist in Resources */,
+				077813961AFC881700C86809 /* Digits III.plist in Resources */,
+				07D2F1951AFAB3E000259762 /* Symbols I.plist in Resources */,
+				07ACF0AE1AF9D08C00E666BB /* People I.plist in Resources */,
+				0773DA771AE0C5D1004B6AD8 /* CaeciliaLTStd-Bold.otf in Resources */,
+				07FEC7071AE216720093333A /* Math I.plist in Resources */,
+				0737EAA41AFC8FB000C89C58 /* Enclosed Characters III.plist in Resources */,
+				07FEC71C1AE223D80093333A /* Punctuation I.plist in Resources */,
+				07CECA3A1AFD4E7500292171 /* Phonetic Alphabet II.plist in Resources */,
+				0792D3AB1AE9EC9C00874664 /* Braille Patterns I.plist in Resources */,
+				0778137E1AFC813500C86809 /* Math V.plist in Resources */,
+				07CEFB651AF89D0B00FCE29E /* Travel & Places I.plist in Resources */,
+				077813691AFC7F8E00C86809 /* Objects II.plist in Resources */,
+				077813661AFC7F2400C86809 /* Travel & Places II.plist in Resources */,
+				0778138D1AFC872000C86809 /* Letter Like II.plist in Resources */,
+				07CECA431AFD558500292171 /* Phonetic Alphabet V.plist in Resources */,
+				07D730FB1AF8786600A6EE98 /* Celebration.plist in Resources */,
+				077813811AFC856F00C86809 /* Arrows II.plist in Resources */,
+				077813AB1AFC8C4500C86809 /* Braille Patterns III.plist in Resources */,
+				071357FF1AF1C8760040C114 /* Arrows I.plist in Resources */,
+				07CECA401AFD52C500292171 /* Phonetic Alphabet IV.plist in Resources */,
+				0778136C1AFC802000C86809 /* Symbols II.plist in Resources */,
+				07FEC7101AE21F8F0093333A /* Letter Like I.plist in Resources */,
+				077813631AFC7E9A00C86809 /* Nature II.plist in Resources */,
+				07D730F51AF86B1900A6EE98 /* Digits I.plist in Resources */,
+				07FEC70A1AE216F20093333A /* Pictographs I.plist in Resources */,
+				0778139F1AFC89D500C86809 /* Parentheses II.plist in Resources */,
+				07CECA461AFD994600292171 /* Phonetic Alphabet VI.plist in Resources */,
+				0737EAAD1AFC9BF700C89C58 /* Phonetic Alphabet I.plist in Resources */,
+				07D2F1981AFB06EB00259762 /* People II.plist in Resources */,
+				0778138A1AFC86E800C86809 /* Geometry II.plist in Resources */,
+				077813901AFC872D00C86809 /* Letter Like III.plist in Resources */,
+				077813871AFC861000C86809 /* Pictographs II.plist in Resources */,
+				077813751AFC811F00C86809 /* Math II.plist in Resources */,
+				071727A21AE1A425006930C9 /* CaeciliaLTStd-LightItalic.otf in Resources */,
+				077813A81AFC8C3E00C86809 /* Braille Patterns II.plist in Resources */,
+				69737D351A290C35007D104E /* LaunchScreen.xib in Resources */,
+				07FEC71F1AE227980093333A /* Categories.plist in Resources */,
+				077813781AFC812800C86809 /* Math III.plist in Resources */,
+				0737EAA21AFC8E6000C89C58 /* Enclosed Characters I.plist in Resources */,
+				077813B11AFC8D8A00C86809 /* Box Drawing II.plist in Resources */,
+				69737D321A290C35007D104E /* Images.xcassets in Resources */,
+				073EECF41AEAE28500B731A5 /* Parentheses I.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69737D381A290C35007D104E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69737D4C1A290CD8007D104E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07CECA3E1AFD50A600292171 /* Phonetic Alphabet III.plist in Resources */,
+				077813731AFC80C100C86809 /* Bullets II.plist in Resources */,
+				07CECA4D1AFD9D7A00292171 /* Phonetic Alphabet VIII.plist in Resources */,
+				077813821AFC856F00C86809 /* Arrows II.plist in Resources */,
+				0737EAAB1AFC936F00C89C58 /* Enclosed Characters IV.plist in Resources */,
+				0737EAAE1AFC9BF700C89C58 /* Phonetic Alphabet I.plist in Resources */,
+				0792D3AC1AE9EC9C00874664 /* Braille Patterns I.plist in Resources */,
+				077813941AFC881100C86809 /* Digits II.plist in Resources */,
+				077813851AFC858800C86809 /* Arrows III.plist in Resources */,
+				07CECA3B1AFD4E7500292171 /* Phonetic Alphabet II.plist in Resources */,
+				07D730F91AF8762A00A6EE98 /* Food & Drink.plist in Resources */,
+				077813A01AFC89D500C86809 /* Parentheses II.plist in Resources */,
+				077813761AFC811F00C86809 /* Math II.plist in Resources */,
+				077813881AFC861000C86809 /* Pictographs II.plist in Resources */,
+				07FEC71D1AE223D80093333A /* Punctuation I.plist in Resources */,
+				07CECA471AFD994600292171 /* Phonetic Alphabet VI.plist in Resources */,
+				07CECA411AFD52C500292171 /* Phonetic Alphabet IV.plist in Resources */,
+				077813971AFC881700C86809 /* Digits III.plist in Resources */,
+				07CECA441AFD558500292171 /* Phonetic Alphabet V.plist in Resources */,
+				073EECF51AEAE28500B731A5 /* Parentheses I.plist in Resources */,
+				07FEC7021AE20CAA0093333A /* Bullets I.plist in Resources */,
+				0778138B1AFC86E800C86809 /* Geometry II.plist in Resources */,
+				0778136A1AFC7F8E00C86809 /* Objects II.plist in Resources */,
+				07FEC70B1AE216F20093333A /* Pictographs I.plist in Resources */,
+				07D730F61AF86B1900A6EE98 /* Digits I.plist in Resources */,
+				69737D5F1A290F0D007D104E /* Keyboard.storyboard in Resources */,
+				07FEC71A1AE222820093333A /* Technical I.plist in Resources */,
+				07CEFB661AF89D0B00FCE29E /* Travel & Places I.plist in Resources */,
+				077813B21AFC8D8A00C86809 /* Box Drawing II.plist in Resources */,
+				07FEC70E1AE21E8A0093333A /* Geometry I.plist in Resources */,
+				077813641AFC7E9A00C86809 /* Nature II.plist in Resources */,
+				07ACF0AF1AF9D08C00E666BB /* People I.plist in Resources */,
+				0778138E1AFC872000C86809 /* Letter Like II.plist in Resources */,
+				077813701AFC802800C86809 /* Symbols III.plist in Resources */,
+				07FEC7051AE216070093333A /* Currency.plist in Resources */,
+				077813A31AFC8B4400C86809 /* Punctuation II.plist in Resources */,
+				07FEC7201AE227980093333A /* Categories.plist in Resources */,
+				077813AC1AFC8C4500C86809 /* Braille Patterns III.plist in Resources */,
+				0778137C1AFC812F00C86809 /* Math IV.plist in Resources */,
+				077813AF1AFC8C4C00C86809 /* Braille Patterns IV.plist in Resources */,
+				077813911AFC872D00C86809 /* Letter Like III.plist in Resources */,
+				0737EAA51AFC8FB000C89C58 /* Enclosed Characters III.plist in Resources */,
+				6972926D1A2A992B0047F154 /* KeyArt.xcassets in Resources */,
+				07CECA4A1AFD9B9400292171 /* Phonetic Alphabet VII.plist in Resources */,
+				0737EAA81AFC90C800C89C58 /* Enclosed Characters II.plist in Resources */,
+				07D2F1931AFAAC0E00259762 /* Objects I.plist in Resources */,
+				0778139D1AFC896300C86809 /* Technical III.plist in Resources */,
+				0792D3AF1AE9FA1800874664 /* Box Drawing I.plist in Resources */,
+				07D2F1961AFAB3E000259762 /* Symbols I.plist in Resources */,
+				07D730FC1AF8786600A6EE98 /* Celebration.plist in Resources */,
+				0778137F1AFC813500C86809 /* Math V.plist in Resources */,
+				07D730FF1AF879A000A6EE98 /* Nature I.plist in Resources */,
+				07D2F1991AFB06EB00259762 /* People II.plist in Resources */,
+				07FEC7171AE221C50093333A /* Sign.plist in Resources */,
+				077813A61AFC8B4C00C86809 /* Punctuation III.plist in Resources */,
+				07FEC7081AE216720093333A /* Math I.plist in Resources */,
+				077813791AFC812800C86809 /* Math III.plist in Resources */,
+				07F6E6291AF87FDD007CFDA3 /* Activity.plist in Resources */,
+				071358001AF1C8760040C114 /* Arrows I.plist in Resources */,
+				07FEC7111AE21F8F0093333A /* Letter Like I.plist in Resources */,
+				0778139A1AFC895800C86809 /* Technical II.plist in Resources */,
+				077813671AFC7F2400C86809 /* Travel & Places II.plist in Resources */,
+				0778136D1AFC802000C86809 /* Symbols II.plist in Resources */,
+				077813A91AFC8C3E00C86809 /* Braille Patterns II.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		69737D1D1A290C34007D104E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07A4FA3A1AF7378300E659FF /* FontsViewController.m in Sources */,
+				07F3118D1AE1B40500487600 /* FMPlistEn.m in Sources */,
+				69737D2D1A290C34007D104E /* MainTableViewController.m in Sources */,
+				0737030E1ADF5B4300A89501 /* UIColor+CIELAB.m in Sources */,
+				0773DA7F1AE0D824004B6AD8 /* DetailViewController.m in Sources */,
+				073703061ADF5B4300A89501 /* ChameleonStatusBar.m in Sources */,
+				0737030C1ADF5B4300A89501 /* UIColor+Chameleon.m in Sources */,
+				07F3118B1AE1B40500487600 /* NSData+Base64.m in Sources */,
+				073703101ADF5B4300A89501 /* UIViewController+Chameleon.m in Sources */,
+				07A4FA371AF714CC00E659FF /* UnicodeViewController.m in Sources */,
+				0737030A1ADF5B4300A89501 /* NSArray+Chameleon.m in Sources */,
+				0773DA821AE0E565004B6AD8 /* SettingsViewController.m in Sources */,
+				69737D2A1A290C34007D104E /* AppDelegate.m in Sources */,
+				69737D271A290C34007D104E /* main.m in Sources */,
+				07F311891AE1B40500487600 /* FBEncryptorAES.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69737D361A290C35007D104E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				69737D411A290C35007D104E /* EmopediaTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		69737D4A1A290CD8007D104E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				073703071ADF5B4300A89501 /* ChameleonStatusBar.m in Sources */,
+				0737030F1ADF5B4300A89501 /* UIColor+CIELAB.m in Sources */,
+				072DFB4C1AE44487000303AE /* CircledLinebutton.m in Sources */,
+				0737030B1ADF5B4300A89501 /* NSArray+Chameleon.m in Sources */,
+				070CFE751AE5FAC500A39B2C /* BottomScrollView.m in Sources */,
+				072FA5EA1AE57D78003CD0ED /* BottomContentView.m in Sources */,
+				69737D541A290CD8007D104E /* KeyboardViewController.m in Sources */,
+				0737030D1ADF5B4300A89501 /* UIColor+Chameleon.m in Sources */,
+				07F3118E1AE1B40500487600 /* FMPlistEn.m in Sources */,
+				07F3118C1AE1B40500487600 /* NSData+Base64.m in Sources */,
+				073703111ADF5B4300A89501 /* UIViewController+Chameleon.m in Sources */,
+				07F3118A1AE1B40500487600 /* FBEncryptorAES.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		69737D3C1A290C35007D104E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 69737D201A290C34007D104E /* Emopedia */;
+			targetProxy = 69737D3B1A290C35007D104E /* PBXContainerItemProxy */;
+		};
+		69737D561A290CD8007D104E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 69737D4D1A290CD8007D104E /* EmopediaKeyboard */;
+			targetProxy = 69737D551A290CD8007D104E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		69737D2E1A290C35007D104E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				69737D2F1A290C35007D104E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		69737D331A290C35007D104E /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				69737D341A290C35007D104E /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		69737D421A290C35007D104E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		69737D431A290C35007D104E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		69737D451A290C35007D104E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Emopedia.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "$(SRCROOT)/Emopedia/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apprilo.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Emopedia/Emopedia-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		69737D461A290C35007D104E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Emopedia.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "$(SRCROOT)/Emopedia/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apprilo.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "Emopedia/Emopedia-Bridging-Header.h";
+			};
+			name = Release;
+		};
+		69737D481A290C35007D104E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = iOSKeyboardTemplateContainerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOSKeyboardTemplateContainer.app/iOSKeyboardTemplateContainer";
+			};
+			name = Debug;
+		};
+		69737D491A290C35007D104E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = iOSKeyboardTemplateContainerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOSKeyboardTemplateContainer.app/iOSKeyboardTemplateContainer";
+			};
+			name = Release;
+		};
+		69737D591A290CD8007D104E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = EmopediaKeyboard.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "$(SRCROOT)/EmopediaKeyboard/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apprilo.Emopedia.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Emopedia/EmopediaKeyboard-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		69737D5A1A290CD8007D104E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = EmopediaKeyboard.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "$(SRCROOT)/EmopediaKeyboard/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.apprilo.Emopedia.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SKIP_INSTALL = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "Emopedia/EmopediaKeyboard-Bridging-Header.h";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		69737D1C1A290C34007D104E /* Build configuration list for PBXProject "Emopedia" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				69737D421A290C35007D104E /* Debug */,
+				69737D431A290C35007D104E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		69737D441A290C35007D104E /* Build configuration list for PBXNativeTarget "Emopedia" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				69737D451A290C35007D104E /* Debug */,
+				69737D461A290C35007D104E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		69737D471A290C35007D104E /* Build configuration list for PBXNativeTarget "EmopediaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				69737D481A290C35007D104E /* Debug */,
+				69737D491A290C35007D104E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		69737D581A290CD8007D104E /* Build configuration list for PBXNativeTarget "EmopediaKeyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				69737D591A290CD8007D104E /* Debug */,
+				69737D5A1A290CD8007D104E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 69737D191A290C34007D104E /* Project object */;
+}

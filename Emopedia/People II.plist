@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>👣</string>
+        <key>Description</key>
+        <string>FOOTPRINTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👤</string>
+        <key>Description</key>
+        <string>BUST IN SILHOUETTE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👥</string>
+        <key>Description</key>
+        <string>BUSTS IN SILHOUETTE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👶,👶🏻,👶🏼,👶🏽,👶🏾,👶🏿</string>
+        <key>Description</key>
+        <string>BABY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👦,👦🏻,👦🏼,👦🏽,👦🏾,👦🏿</string>
+        <key>Description</key>
+        <string>BOY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👧,👧🏻,👧🏼,👧🏽,👧🏾,👧🏿</string>
+        <key>Description</key>
+        <string>GIRL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨,👨🏻,👨🏼,👨🏽,👨🏾,👨🏿</string>
+        <key>Description</key>
+        <string>MAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩,👩🏻,👩🏼,👩🏽,👩🏾,👩🏿</string>
+        <key>Description</key>
+        <string>WOMAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👪</string>
+        <key>Description</key>
+        <string>FAMILY (man, woman, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👩‍👧</string>
+        <key>Description</key>
+        <string>FAMILY (man, woman, girl)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👩‍👧‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (man, woman, girl, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👩‍👦‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (man, woman, boy, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👩‍👧‍👧</string>
+        <key>Description</key>
+        <string>FAMILY (man, woman, girl, girl)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍👩‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (woman, woman, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍👩‍👧</string>
+        <key>Description</key>
+        <string>FAMILY (woman, woman, girl)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍👩‍👧‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (woman, woman, girl, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍👩‍👦‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (woman, woman, boy, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍👩‍👧‍👧</string>
+        <key>Description</key>
+        <string>FAMILY (woman, woman, girl, girl)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👨‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (man, man, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👨‍👧</string>
+        <key>Description</key>
+        <string>FAMILY (man, man, girl)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👨‍👧‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (man, man, girl, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👨‍👦‍👦</string>
+        <key>Description</key>
+        <string>FAMILY (man, man, boy, boy)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍👨‍👧‍👧</string>
+        <key>Description</key>
+        <string>FAMILY (man, man, girl, girl)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👫</string>
+        <key>Description</key>
+        <string>MAN AND WOMAN HOLDING HANDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👬</string>
+        <key>Description</key>
+        <string>TWO MEN HOLDING HANDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👭</string>
+        <key>Description</key>
+        <string>TWO WOMEN HOLDING HANDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👯</string>
+        <key>Description</key>
+        <string>WOMAN WITH BUNNY EARS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👰,👰🏻,👰🏼,👰🏽,👰🏾,👰🏿</string>
+        <key>Description</key>
+        <string>BRIDE WITH VEIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👱,👱🏻,👱🏼,👱🏽,👱🏾,👱🏿</string>
+        <key>Description</key>
+        <string>PERSON WITH BLOND HAIR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👲,👲🏻,👲🏼,👲🏽,👲🏾,👲🏿</string>
+        <key>Description</key>
+        <string>MAN WITH GUA PI MAO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👳,👳🏻,👳🏼,👳🏽,👳🏾,👳🏿</string>
+        <key>Description</key>
+        <string>MAN WITH TURBAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👴,👴🏻,👴🏼,👴🏽,👴🏾,👴🏿</string>
+        <key>Description</key>
+        <string>OLDER MAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👵,👵🏻,👵🏼,👵🏽,👵🏾,👵🏿</string>
+        <key>Description</key>
+        <string>OLDER WOMAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👮,👮🏻,👮🏼,👮🏽,👮🏾,👮🏿</string>
+        <key>Description</key>
+        <string>POLICE OFFICER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👷,👷🏻,👷🏼,👷🏽,👷🏾,👷🏿</string>
+        <key>Description</key>
+        <string>CONSTRUCTION WORKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👸,👸🏻,👸🏼,👸🏽,👸🏾,👸🏿</string>
+        <key>Description</key>
+        <string>PRINCESS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💂,💂🏻,💂🏼,💂🏽,💂🏾,💂🏿</string>
+        <key>Description</key>
+        <string>GUARDSMAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👼,👼🏻,👼🏼,👼🏽,👼🏾,👼🏿</string>
+        <key>Description</key>
+        <string>BABY ANGEL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎅,🎅🏻,🎅🏼,🎅🏽,🎅🏾,🎅🏿</string>
+        <key>Description</key>
+        <string>FATHER CHRISTMAS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👻</string>
+        <key>Description</key>
+        <string>GHOST</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👹</string>
+        <key>Description</key>
+        <string>JAPANESE OGRE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👺</string>
+        <key>Description</key>
+        <string>JAPANESE GOBLIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💩</string>
+        <key>Description</key>
+        <string>PILE OF POO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💀</string>
+        <key>Description</key>
+        <string>SKULL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👽</string>
+        <key>Description</key>
+        <string>EXTRATERRESTRIAL ALIEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👾</string>
+        <key>Description</key>
+        <string>ALIEN MONSTER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙇,🙇🏻,🙇🏼,🙇🏽,🙇🏾,🙇🏿</string>
+        <key>Description</key>
+        <string>PERSON BOWING DEEPLY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💁,💁🏻,💁🏼,💁🏽,💁🏾,💁🏿</string>
+        <key>Description</key>
+        <string>INFORMATION DESK PERSON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙅,🙅🏻,🙅🏼,🙅🏽,🙅🏾,🙅🏿</string>
+        <key>Description</key>
+        <string>FACE WITH NO GOOD GESTURE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙆,🙆🏻,🙆🏼,🙆🏽,🙆🏾,🙆🏿</string>
+        <key>Description</key>
+        <string>FACE WITH OK GESTURE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙋,🙋🏻,🙋🏼,🙋🏽,🙋🏾,🙋🏿</string>
+        <key>Description</key>
+        <string>HAPPY PERSON RAISING ONE HAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙎,🙎🏻,🙎🏼,🙎🏽,🙎🏾,🙎🏿</string>
+        <key>Description</key>
+        <string>PERSON WITH POUTING FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙍,🙍🏻,🙍🏼,🙍🏽,🙍🏾,🙍🏿</string>
+        <key>Description</key>
+        <string>PERSON FROWNING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💆,💆🏻,💆🏼,💆🏽,💆🏾,💆🏿</string>
+        <key>Description</key>
+        <string>FACE MASSAGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💇,💇🏻,💇🏼,💇🏽,💇🏾,💇🏿</string>
+        <key>Description</key>
+        <string>HAIRCUT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙌,🙌🏻,🙌🏼,🙌🏽,🙌🏾,🙌🏿</string>
+        <key>Description</key>
+        <string>PERSON RAISING BOTH HANDS IN CELEBRATION    </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👏,👏🏻,👏🏼,👏🏽,👏🏾,👏🏿</string>
+        <key>Description</key>
+        <string>CLAPPING HANDS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👂,👂🏻,👂🏼,👂🏽,👂🏾,👂🏿</string>
+        <key>Description</key>
+        <string>EAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👀</string>
+        <key>Description</key>
+        <string>EYES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👃,👃🏻,👃🏼,👃🏽,👃🏾,👃🏿</string>
+        <key>Description</key>
+        <string>NOSE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👄</string>
+        <key>Description</key>
+        <string>MOUTH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💋</string>
+        <key>Description</key>
+        <string>KISS MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👅</string>
+        <key>Description</key>
+        <string>TONGUE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💅,💅🏻,💅🏼,💅🏽,💅🏾,💅🏿</string>
+        <key>Description</key>
+        <string>NAIL POLISH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👋,👋🏻,👋🏼,👋🏽,👋🏾,👋🏿</string>
+        <key>Description</key>
+        <string>WAVING HAND SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👍,👍🏻,👍🏼,👍🏽,👍🏾,👍🏿</string>
+        <key>Description</key>
+        <string>THUMBS UP SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👎,👎🏻,👎🏼,👎🏽,👎🏾,👎🏿</string>
+        <key>Description</key>
+        <string>THUMBS DOWN SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☝️,☝🏻,☝🏼,☝🏽,☝🏾,☝🏿</string>
+        <key>Description</key>
+        <string>WHITE UP POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👆,👆🏻,👆🏼,👆🏽,👆🏾,👆🏿</string>
+        <key>Description</key>
+        <string>WHITE UP POINTING BACKHAND INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👇,👇🏻,👇🏼,👇🏽,👇🏾,👇🏿</string>
+        <key>Description</key>
+        <string>WHITE DOWN POINTING BACKHAND INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👈,👈🏻,👈🏼,👈🏽,👈🏾,👈🏿</string>
+        <key>Description</key>
+        <string>WHITE LEFT POINTING BACKHAND INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👉,👉🏻,👉🏼,👉🏽,👉🏾,👉🏿</string>
+        <key>Description</key>
+        <string>WHITE RIGHT POINTING BACKHAND INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👌,👌🏻,👌🏼,👌🏽,👌🏾,👌🏿</string>
+        <key>Description</key>
+        <string>OK HAND SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✌️,✌🏻,✌🏼,✌🏽,✌🏾,✌🏿</string>
+        <key>Description</key>
+        <string>VICTORY HAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👊,👊🏻,👊🏼,👊🏽,👊🏾,👊🏿</string>
+        <key>Description</key>
+        <string>FISTED HAND SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✊,✊🏻,✊🏼,✊🏽,✊🏾,✊🏿</string>
+        <key>Description</key>
+        <string>RAISED FIST</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✋,✋🏻,✋🏼,✋🏽,✋🏾,✋🏿</string>
+        <key>Description</key>
+        <string>RAISED HAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💪,💪🏻,💪🏼,💪🏽,💪🏾,💪🏿</string>
+        <key>Description</key>
+        <string>FLEXED BICEPS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👐,👐🏻,👐🏼,👐🏽,👐🏾,👐🏿</string>
+        <key>Description</key>
+        <string>OPEN HANDS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙏,🙏🏻,🙏🏼,🙏🏽,🙏🏾,🙏🏿</string>
+        <key>Description</key>
+        <string>PERSON WITH FOLDED HANDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💑</string>
+        <key>Description</key>
+        <string>COUPLE WITH HEART (woman, man)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍❤️‍👩</string>
+        <key>Description</key>
+        <string>COUPLE WITH HEART (woman, woman)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍❤️‍👨</string>
+        <key>Description</key>
+        <string>COUPLE WITH HEART (man, man)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💏</string>
+        <key>Description</key>
+        <string>KISS (woman, man)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👩‍❤️‍💋‍👩</string>
+        <key>Description</key>
+        <string>KISS (woman, woman)</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👨‍❤️‍💋‍👨</string>
+        <key>Description</key>
+        <string>KISS (man, man)</string>
+    </dict>
+</array>
+</plist>

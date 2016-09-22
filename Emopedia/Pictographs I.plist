@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string></string>
+		<key>Description</key>
+		<string>APPLE LOGO</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☀︎</string>
+		<key>Description</key>
+		<string>Black Sun With Rays</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☼</string>
+		<key>Description</key>
+		<string>White Sun With Rays</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☽</string>
+		<key>Description</key>
+		<string>First Quarter Moon</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☾</string>
+		<key>Description</key>
+		<string>Last Quarter Moon</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☁︎</string>
+		<key>Description</key>
+		<string>Cloud</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☂</string>
+		<key>Description</key>
+		<string>Umbrella</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☔︎</string>
+		<key>Description</key>
+		<string>Umbrella With Rain Drops</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☃</string>
+		<key>Description</key>
+		<string>Snowman</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>★</string>
+		<key>Description</key>
+		<string>Black Star</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☆</string>
+		<key>Description</key>
+		<string>White Star</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☇</string>
+		<key>Description</key>
+		<string>Lightning</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☈</string>
+		<key>Description</key>
+		<string>Thunderstorm</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♠︎</string>
+		<key>Description</key>
+		<string>Black Spade Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♣︎</string>
+		<key>Description</key>
+		<string>Black Club Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♥︎</string>
+		<key>Description</key>
+		<string>Black Heart Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♦︎</string>
+		<key>Description</key>
+		<string>Black Diamond Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♤</string>
+		<key>Description</key>
+		<string>White Spade Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♧</string>
+		<key>Description</key>
+		<string>White Club Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♡</string>
+		<key>Description</key>
+		<string>White Heart Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♢</string>
+		<key>Description</key>
+		<string>White Diamond Suit</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♚</string>
+		<key>Description</key>
+		<string>Black Chess King</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♛</string>
+		<key>Description</key>
+		<string>Black Chess Queen</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♜</string>
+		<key>Description</key>
+		<string>Black Chess Rook</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♝</string>
+		<key>Description</key>
+		<string>Black Chess Bishop</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♞</string>
+		<key>Description</key>
+		<string>Black Chess Knight</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♟</string>
+		<key>Description</key>
+		<string>Black Chess Pawn</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♔</string>
+		<key>Description</key>
+		<string>White Chess King</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♕</string>
+		<key>Description</key>
+		<string>White Chess Queen</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♖</string>
+		<key>Description</key>
+		<string>White Chess Rook</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♗</string>
+		<key>Description</key>
+		<string>White Chess Bishop</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♘</string>
+		<key>Description</key>
+		<string>White Chess Knight</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♙</string>
+		<key>Description</key>
+		<string>White Chess Pawn</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚀</string>
+		<key>Description</key>
+		<string>Die Face-1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚁</string>
+		<key>Description</key>
+		<string>Die Face-2</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚂</string>
+		<key>Description</key>
+		<string>Die Face-3</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚃</string>
+		<key>Description</key>
+		<string>Die Face-4</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚄</string>
+		<key>Description</key>
+		<string>Die Face-5</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚅</string>
+		<key>Description</key>
+		<string>Die Face-6</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☻</string>
+		<key>Description</key>
+		<string>Black Smiling Face</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☹</string>
+		<key>Description</key>
+		<string>White Frowning Face</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☺︎</string>
+		<key>Description</key>
+		<string>White Smiling Face</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>☕︎</string>
+		<key>Description</key>
+		<string>Hot Beverage</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✌︎</string>
+		<key>Description</key>
+		<string>Victory Hand</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✍</string>
+		<key>Description</key>
+		<string>Writing Hand</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✎</string>
+		<key>Description</key>
+		<string>Lower Right Pencil</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✏︎</string>
+		<key>Description</key>
+		<string>Pencil</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✐</string>
+		<key>Description</key>
+		<string>Upper Right Pencil</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✑</string>
+		<key>Description</key>
+		<string>White Nib</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✒︎</string>
+		<key>Description</key>
+		<string>Black Nib</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✁</string>
+		<key>Description</key>
+		<string>Upper Blade Scissors</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✂︎</string>
+		<key>Description</key>
+		<string>Black Scissors</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✃</string>
+		<key>Description</key>
+		<string>Lower Blade Scissors</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✄</string>
+		<key>Description</key>
+		<string>White Scissors</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚾︎</string>
+		<key>Description</key>
+		<string>Baseball</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✇</string>
+		<key>Description</key>
+		<string>Tape Drive</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>✈︎</string>
+		<key>Description</key>
+		<string>Airplane</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⚓︎</string>
+		<key>Description</key>
+		<string>Anchor</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>♨︎</string>
+		<key>Description</key>
+		<string>Hot Springs</string>
+	</dict>
+	
+</array>
+</plist>

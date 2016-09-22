@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="kiH-9x-JpX">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <scenes>
+        <!--KeyboardViewController-->
+        <scene sceneID="dWf-Gy-cYZ">
+            <objects>
+                <viewController title="KeyboardViewController" id="kiH-9x-JpX" customClass="KeyboardViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="2k2-WJ-fML" userLabel="KeyboardView">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" id="TIB-LC-fAQ" userLabel="TopScrollContainer">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="480"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" canCancelContentTouches="NO" bouncesZoom="NO" id="Cfi-2u-G4q">
+                                        <rect key="frame" x="-40" y="-40" width="592" height="472"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" id="QzX-pR-7yN">
+                                                <rect key="frame" x="0.0" y="0.0" width="592" height="472"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            </view>
+                                        </subviews>
+                                        <connections>
+                                            <outlet property="delegate" destination="kiH-9x-JpX" id="JZI-No-kXP"/>
+                                        </connections>
+                                    </scrollView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="8" id="CpY-0z-3O6">
+                                        <rect key="frame" x="0.0" y="0.0" width="600" height="18"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" name="AvenirNext-Medium" family="Avenir Next" pointSize="13"/>
+                                        <color key="textColor" red="0.6470588235294118" green="0.65098039215686276" blue="0.66274509803921566" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </view>
+                            <view contentMode="scaleToFill" id="hQD-DQ-bwV" userLabel="BottomScrollContainer">
+                                <rect key="frame" x="0.0" y="480" width="600" height="120"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="tgj-VR-gew">
+                                        <rect key="frame" x="4" y="45" width="32" height="32"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <inset key="contentEdgeInsets" minX="5" minY="5" maxX="5" maxY="5"/>
+                                        <state key="normal" image="globe_black">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="globeKeyPressed:" destination="kiH-9x-JpX" eventType="touchUpInside" id="rQm-9Z-Fce"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="WEg-qA-vgd">
+                                        <rect key="frame" x="564" y="45" width="32" height="32"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <inset key="contentEdgeInsets" minX="5" minY="5" maxX="5" maxY="5"/>
+                                        <state key="normal" image="backspace_black">
+                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <state key="highlighted" image="backspace_black_high"/>
+                                        <connections>
+                                            <action selector="backspaceKeyHold:" destination="kiH-9x-JpX" eventType="touchDown" id="UOF-7a-HZF"/>
+                                            <action selector="backspaceKeyPressed:" destination="kiH-9x-JpX" eventType="touchUpInside" id="pz2-LS-plO"/>
+                                        </connections>
+                                    </button>
+                                    <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" id="HhQ-HS-jwe" customClass="BottomScrollView">
+                                        <rect key="frame" x="-39" y="80" width="21" height="95"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" id="ylQ-Fz-lWE" customClass="BottomContentView">
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                            </view>
+                                        </subviews>
+                                    </scrollView>
+                                </subviews>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.92549019607843142" green="0.93333333333333335" blue="0.94509803921568625" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <connections>
+                        <outlet property="backspaceButton" destination="WEg-qA-vgd" id="prY-To-LmO"/>
+                        <outlet property="bottomScrollContainer" destination="hQD-DQ-bwV" id="hkK-Zi-JHe"/>
+                        <outlet property="bottomScrollContentView" destination="ylQ-Fz-lWE" id="nyh-MN-RIm"/>
+                        <outlet property="bottomScrollView" destination="HhQ-HS-jwe" id="lnI-2T-dS0"/>
+                        <outlet property="categoryIndicator" destination="CpY-0z-3O6" id="kH6-tM-Tho"/>
+                        <outlet property="globeButton" destination="tgj-VR-gew" id="GQV-6y-r8b"/>
+                        <outlet property="keyboardView" destination="2k2-WJ-fML" id="01o-20-JkV"/>
+                        <outlet property="topScrollContainer" destination="TIB-LC-fAQ" id="aJO-ve-3Jy"/>
+                        <outlet property="topScrollContentView" destination="QzX-pR-7yN" id="ip2-gk-XGb"/>
+                        <outlet property="topScrollView" destination="Cfi-2u-G4q" id="N6I-Xo-ZQu"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cEO-Au-RRl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="195.73333333333332" y="366.36000000000001"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="backspace_black" width="512" height="512"/>
+        <image name="backspace_black_high" width="512" height="512"/>
+        <image name="globe_black" width="420" height="420"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

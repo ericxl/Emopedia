@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>0</string>
+		<key>Description</key>
+		<string>DIGIT ZERO</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>1</string>
+        <key>Description</key>
+        <string>DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>2</string>
+        <key>Description</key>
+        <string>DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>3</string>
+        <key>Description</key>
+        <string>DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>4</string>
+        <key>Description</key>
+        <string>DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>5</string>
+        <key>Description</key>
+        <string>DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>6</string>
+        <key>Description</key>
+        <string>DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>7</string>
+        <key>Description</key>
+        <string>DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>8</string>
+        <key>Description</key>
+        <string>DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>9</string>
+        <key>Description</key>
+        <string>DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒈</string>
+        <key>Description</key>
+        <string>DIGIT ONE FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒉</string>
+        <key>Description</key>
+        <string>DIGIT TWO FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒊</string>
+        <key>Description</key>
+        <string>DIGIT THREE FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒋</string>
+        <key>Description</key>
+        <string>DIGIT FOUR FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒌</string>
+        <key>Description</key>
+        <string>DIGIT FIVE FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒍</string>
+        <key>Description</key>
+        <string>DIGIT SIX FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒎</string>
+        <key>Description</key>
+        <string>DIGIT SEVEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒏</string>
+        <key>Description</key>
+        <string>DIGIT EIGHT FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒐</string>
+        <key>Description</key>
+        <string>DIGIT NINE FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒑</string>
+        <key>Description</key>
+        <string>NUMBER NINE FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒒</string>
+        <key>Description</key>
+        <string>NUMBER ELEVEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒓</string>
+        <key>Description</key>
+        <string>NUMBER TWELVE FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒔</string>
+        <key>Description</key>
+        <string>NUMBER THIRTEEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒕</string>
+        <key>Description</key>
+        <string>NUMBER FOURTEEN FULL STOP</string>
+    </dict><dict>
+        <key>Name</key>
+        <string>⒖</string>
+        <key>Description</key>
+        <string>NUMBER FIFTEEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒗</string>
+        <key>Description</key>
+        <string>NUMBER SIXTEEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒘</string>
+        <key>Description</key>
+        <string>NUMBER SEVENTEEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒙</string>
+        <key>Description</key>
+        <string>NUMBER EIGHTEEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒚</string>
+        <key>Description</key>
+        <string>NUMBER NINTEEN FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⒛</string>
+        <key>Description</key>
+        <string>NUMBER TWENTY FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⓪</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT ZERO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>①</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>②</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>③</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>④</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑤</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑥</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑦</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑧</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑨</string>
+        <key>Description</key>
+        <string>CIRCLED DIGIT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑩</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑪</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER ELEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑫</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWELVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑬</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑭</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FOURTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑮</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FIFTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑯</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER SIXTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑰</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER SEVENTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑱</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER EIGHTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑲</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER NINTEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⑳</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉑</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉒</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉓</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉔</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉕</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉖</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉗</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉘</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉙</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER TWENTY NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉚</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉛</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉜</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉝</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉞</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㉟</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊱</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊲</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊳</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊴</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER THIRTY NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊵</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊶</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊷</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊸</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊹</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊺</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊻</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊼</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊽</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊾</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FORTY NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㊿</string>
+        <key>Description</key>
+        <string>CIRCLED NUMBER FIFTY</string>
+    </dict>
+    
+    </array>
+</plist>

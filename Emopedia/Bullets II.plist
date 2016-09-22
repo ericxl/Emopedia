@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>✦</string>
+        <key>Description</key>
+        <string>Black Four Pointed Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✧</string>
+        <key>Description</key>
+        <string>White Four Pointed Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>★</string>
+        <key>Description</key>
+        <string>Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☆</string>
+        <key>Description</key>
+        <string>White Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⭐︎</string>
+        <key>Description</key>
+        <string>White Medium Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✯</string>
+        <key>Description</key>
+        <string>Pinwhell Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✡</string>
+        <key>Description</key>
+        <string>Star Of David</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✩</string>
+        <key>Description</key>
+        <string>Stress Outlined White Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✪</string>
+        <key>Description</key>
+        <string>Circled White Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✫</string>
+        <key>Description</key>
+        <string>Open Centre Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✬</string>
+        <key>Description</key>
+        <string>Black Centre White Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✭</string>
+        <key>Description</key>
+        <string>Outlined Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✮</string>
+        <key>Description</key>
+        <string>Heavy Outlined Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✶</string>
+        <key>Description</key>
+        <string>Six Pointed Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✷</string>
+        <key>Description</key>
+        <string>Eight Pointed Rectilinear Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✵</string>
+        <key>Description</key>
+        <string>Eight Pointed Pinwheel Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✸</string>
+        <key>Description</key>
+        <string>Heavy Eight Pointed Rectilinear Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✹</string>
+        <key>Description</key>
+        <string>Twelve Pointed Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✺</string>
+        <key>Description</key>
+        <string>Sixteen Pointed Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❊</string>
+        <key>Description</key>
+        <string>Eight Teardrop Spoked Propeller Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✻</string>
+        <key>Description</key>
+        <string>Teardrop Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✽</string>
+        <key>Description</key>
+        <string>Heavy Teardrop Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✼</string>
+        <key>Description</key>
+        <string>Open Centre Teardrop Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❉</string>
+        <key>Description</key>
+        <string>Balloon Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✱</string>
+        <key>Description</key>
+        <string>Heavy Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✲</string>
+        <key>Description</key>
+        <string>Open Centre Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✾</string>
+        <key>Description</key>
+        <string>Six Petalled Black And White Florette</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❃</string>
+        <key>Description</key>
+        <string>Heavy Teardrop Spoked Pinwheel Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❋</string>
+        <key>Description</key>
+        <string>Heavy Eight Teardrop Spoked Propeller Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✳︎</string>
+        <key>Description</key>
+        <string>Eight Spoked Asterisk</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✴︎</string>
+        <key>Description</key>
+        <string>Eight Pointed Black Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❇︎</string>
+        <key>Description</key>
+        <string>Sparkle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❈</string>
+        <key>Description</key>
+        <string>Heavy Sparkle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>※</string>
+        <key>Description</key>
+        <string>Reference Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❅</string>
+        <key>Description</key>
+        <string>Tight Trifoliate Snowflake</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❆</string>
+        <key>Description</key>
+        <string>Heavy Chevron Snowflake</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❄︎</string>
+        <key>Description</key>
+        <string>Snowflake</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✿</string>
+        <key>Description</key>
+        <string>Black Florette</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❀</string>
+        <key>Description</key>
+        <string>White Florette</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❁</string>
+        <key>Description</key>
+        <string>Eight Petalled Outlined Black Florette</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❂</string>
+        <key>Description</key>
+        <string>Circled Open Centre Eight Pointed Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✓</string>
+        <key>Description</key>
+        <string>Check Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✔︎</string>
+        <key>Description</key>
+        <string>Heavy Check Mark</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✕</string>
+        <key>Description</key>
+        <string>Multiplication X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✖︎</string>
+        <key>Description</key>
+        <string>Heavy Multiplication X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✗</string>
+        <key>Description</key>
+        <string>Ballot X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✘</string>
+        <key>Description</key>
+        <string>Heavy Ballot X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹅</string>
+        <key>Description</key>
+        <string>Sesame Dot</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹆</string>
+        <key>Description</key>
+        <string>White Sesame Dot</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❍</string>
+        <key>Description</key>
+        <string>Shadowed White Circle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❏</string>
+        <key>Description</key>
+        <string>Lower Right Drop Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❐</string>
+        <key>Description</key>
+        <string>Upper Right Drop Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❑</string>
+        <key>Description</key>
+        <string>Lower Right Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❒</string>
+        <key>Description</key>
+        <string>Upper Right Shadowed White Square</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✰</string>
+        <key>Description</key>
+        <string>Shadowed White Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❤︎</string>
+        <key>Description</key>
+        <string>Heavy Black Heart</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❥</string>
+        <key>Description</key>
+        <string>Rotated Heavy Black Heart Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☙</string>
+        <key>Description</key>
+        <string>Reversed Rotated Floral Heart Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❧</string>
+        <key>Description</key>
+        <string>Rotated Floral Heart Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❦</string>
+        <key>Description</key>
+        <string>Floral Heart</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❡</string>
+        <key>Description</key>
+        <string>Curved Stem Paragraph Sign Ornament</string>
+    </dict>
+</array>
+</plist>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>⌘</string>
+		<key>Description</key>
+		<string>Place Of Interest Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⎋</string>
+		<key>Description</key>
+		<string>Broken Circle With Northwest Arrow</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⏎</string>
+		<key>Description</key>
+		<string>Return Symbol</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⏏</string>
+		<key>Description</key>
+		<string>Eject Symbol</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌤</string>
+		<key>Description</key>
+		<string>Up Arrowhead Between Two Horizontal Bars</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌥</string>
+		<key>Description</key>
+		<string>Option Key</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌃</string>
+		<key>Description</key>
+		<string>Up Arrowhead</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌄</string>
+		<key>Description</key>
+		<string>Down Arrowhead</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌅</string>
+		<key>Description</key>
+		<string>Projective</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌆</string>
+		<key>Description</key>
+		<string>Perspective</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌀</string>
+		<key>Description</key>
+		<string>Diameter Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⌁</string>
+		<key>Description</key>
+		<string>Electric Arrow</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>⌂</string>
+        <key>Description</key>
+        <string>House</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌐</string>
+        <key>Description</key>
+        <string>Reversed Not Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌑</string>
+        <key>Description</key>
+        <string>SQUARE LOZENGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌒</string>
+        <key>Description</key>
+        <string>ARC</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌓</string>
+        <key>Description</key>
+        <string>SEGMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌔</string>
+        <key>Description</key>
+        <string>SECTOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌕</string>
+        <key>Description</key>
+        <string>TELEPHONE RECORDER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌖</string>
+        <key>Description</key>
+        <string>POSITION INDICATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌗</string>
+        <key>Description</key>
+        <string>VIEWDATA SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌙</string>
+        <key>Description</key>
+        <string>TURNED NOT SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌦</string>
+        <key>Description</key>
+        <string>ERASE TO THE RIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌧</string>
+        <key>Description</key>
+        <string>X IN A RECTANGLE BOX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌫</string>
+        <key>Description</key>
+        <string>ERASE TO THE LEFT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌨</string>
+        <key>Description</key>
+        <string>KEYBOARD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎈</string>
+        <key>Description</key>
+        <string>HELM SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>␢</string>
+        <key>Description</key>
+        <string>BLANK SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎉</string>
+        <key>Description</key>
+        <string>CIRCLED HORIZONTAL BAR WITH NOTCH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎊</string>
+        <key>Description</key>
+        <string>CIRCLED TRIANGLE DOWN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌚︎</string>
+        <key>Description</key>
+        <string>WATCH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌛︎</string>
+        <key>Description</key>
+        <string>HOURGLASS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎀</string>
+        <key>Description</key>
+        <string>INSERTION SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎁</string>
+        <key>Description</key>
+        <string>CONTINUOUS UNDERLINE SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎂</string>
+        <key>Description</key>
+        <string>DISCONTINUOUS UNDERLINE SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎃</string>
+        <key>Description</key>
+        <string>EMPHASIS SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌇</string>
+        <key>Description</key>
+        <string>WAVY LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌈</string>
+        <key>Description</key>
+        <string>LEFT CEILING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌉</string>
+        <key>Description</key>
+        <string>RIGHT CEILING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌊</string>
+        <key>Description</key>
+        <string>LEFT FLOOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌋</string>
+        <key>Description</key>
+        <string>RIGHT FLOOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌌</string>
+        <key>Description</key>
+        <string>BOTTOM RIGHT CROP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌍</string>
+        <key>Description</key>
+        <string>BOTTOM LEFT CROP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌎</string>
+        <key>Description</key>
+        <string>TOP RIGHT CROP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌏</string>
+        <key>Description</key>
+        <string>TOP LEFT CROP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌠</string>
+        <key>Description</key>
+        <string>TOP HALF INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎮</string>
+        <key>Description</key>
+        <string>INTEGRAL EXTENSION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌡</string>
+        <key>Description</key>
+        <string>BOTTOM HALF INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌢</string>
+        <key>Description</key>
+        <string>FROWN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌣</string>
+        <key>Description</key>
+        <string>SMILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌜</string>
+        <key>Description</key>
+        <string>TOP LEFT CORNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌝</string>
+        <key>Description</key>
+        <string>TOP RIGHT CORNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌞</string>
+        <key>Description</key>
+        <string>BOTTOM LEFT CORNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌟</string>
+        <key>Description</key>
+        <string>BOTTOM RIGHT CORNER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁒</string>
+        <key>Description</key>
+        <string>COMMERCIAL MINUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〈</string>
+        <key>Description</key>
+        <string>LEFT ANGLE BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〉</string>
+        <key>Description</key>
+        <string>RIGHT ANGLE BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌬</string>
+        <key>Description</key>
+        <string>BENZENE RING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌭</string>
+        <key>Description</key>
+        <string>CYLINDRICITY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌮</string>
+        <key>Description</key>
+        <string>AIR AROUND-PROFILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌯</string>
+        <key>Description</key>
+        <string>SYMMETRY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌰</string>
+        <key>Description</key>
+        <string>TOTAL RUNOUT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌱</string>
+        <key>Description</key>
+        <string>DIMENSION ORIGIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌲</string>
+        <key>Description</key>
+        <string>CONICAL TAPER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌳</string>
+        <key>Description</key>
+        <string>SLOPE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌴</string>
+        <key>Description</key>
+        <string>COUNTERBORE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌵</string>
+        <key>Description</key>
+        <string>COUNTERSINK</string>
+    </dict>
+</array>
+</plist>

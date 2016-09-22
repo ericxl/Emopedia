@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>🚻</string>
+        <key>Description</key>
+        <string>RESTROOM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚹</string>
+        <key>Description</key>
+        <string>MENS SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚺</string>
+        <key>Description</key>
+        <string>WOMENS SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚼</string>
+        <key>Description</key>
+        <string>BABY SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♿️</string>
+        <key>Description</key>
+        <string>WHEELCHAIR SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚰</string>
+        <key>Description</key>
+        <string>POTABLE WATER SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚭</string>
+        <key>Description</key>
+        <string>NO SMOKING SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚮</string>
+        <key>Description</key>
+        <string>PUT LITTER IN ITS PLACE SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>▶️</string>
+        <key>Description</key>
+        <string>BLACK RIGHT-POINTING TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>◀️</string>
+        <key>Description</key>
+        <string>BLACK LEFT-POINTING TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔼</string>
+        <key>Description</key>
+        <string>UP-POINTING SMALL RED TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔽</string>
+        <key>Description</key>
+        <string>DOWN-POINTING SMALL RED TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏩</string>
+        <key>Description</key>
+        <string>BLACK RIGHT-POINTING DOUBLE TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏪</string>
+        <key>Description</key>
+        <string>BLACK LEFT-POINTING DOUBLE TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏫</string>
+        <key>Description</key>
+        <string>BLACK UP-POINTING DOUBLE TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⏬</string>
+        <key>Description</key>
+        <string>BLACK DOWN-POINTING DOUBLE TRIANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➡️</string>
+        <key>Description</key>
+        <string>BLACK RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬅️</string>
+        <key>Description</key>
+        <string>LEFTWARDS BLACK ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬆️</string>
+        <key>Description</key>
+        <string>UPWARDS BLACK ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬇️</string>
+        <key>Description</key>
+        <string>DOWNWARDS BLACK ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↗️</string>
+        <key>Description</key>
+        <string>NORTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↘️</string>
+        <key>Description</key>
+        <string>SOUTH EAST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↙️</string>
+        <key>Description</key>
+        <string>SOUTH WEST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↖️</string>
+        <key>Description</key>
+        <string>NORTH WEST ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↕️</string>
+        <key>Description</key>
+        <string>UP DOWN ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↔️</string>
+        <key>Description</key>
+        <string>LEFT RIGHT ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔄</string>
+        <key>Description</key>
+        <string>ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↪️</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↩️</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤴️</string>
+        <key>Description</key>
+        <string>ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⤵️</string>
+        <key>Description</key>
+        <string>ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔀</string>
+        <key>Description</key>
+        <string>TWISTED RIGHTWARDS ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔁</string>
+        <key>Description</key>
+        <string>CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔂</string>
+        <key>Description</key>
+        <string>CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>#️⃣</string>
+        <key>Description</key>
+        <string>HASH KEY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>0️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 0</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>1️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 1</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>2️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 2</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>3️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 3</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>4️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 4</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>5️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 5</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>6️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 6</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>7️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 7</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>8️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 8</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>9️⃣</string>
+        <key>Description</key>
+        <string>KEYCAP 9</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔟</string>
+        <key>Description</key>
+        <string>KEYCAP TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔢</string>
+        <key>Description</key>
+        <string>INPUT SYMBOL FOR NUMBERS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔤</string>
+        <key>Description</key>
+        <string>INPUT SYMBOL FOR LATIN LETTERS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔡</string>
+        <key>Description</key>
+        <string>INPUT SYMBOL FOR LATIN SMALL LETTERS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔠</string>
+        <key>Description</key>
+        <string>INPUT SYMBOL FOR LATIN CAPITAL LETTERS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℹ️</string>
+        <key>Description</key>
+        <string>INFORMATION SOURCE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📶</string>
+        <key>Description</key>
+        <string>ANTENNA WITH BARS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎦</string>
+        <key>Description</key>
+        <string>CINEMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔣</string>
+        <key>Description</key>
+        <string>INPUT SYMBOL FOR SYMBOLS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➕</string>
+        <key>Description</key>
+        <string>HEAVY PLUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➖</string>
+        <key>Description</key>
+        <string>HEAVY MINUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〰</string>
+        <key>Description</key>
+        <string>WAVY DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➗</string>
+        <key>Description</key>
+        <string>HEAVY DIVISION SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✖️</string>
+        <key>Description</key>
+        <string>HEAVY MULTIPLICATION X</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✔️</string>
+        <key>Description</key>
+        <string>HEAVY CHECK MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔃</string>
+        <key>Description</key>
+        <string>CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>™</string>
+        <key>Description</key>
+        <string>TRADE MARK SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>©</string>
+        <key>Description</key>
+        <string>COPYRIGHT SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>®</string>
+        <key>Description</key>
+        <string>REGISTERED SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💱</string>
+        <key>Description</key>
+        <string>CURRENCY EXCHANGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💲</string>
+        <key>Description</key>
+        <string>HEAVY DOLLAR SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➰</string>
+        <key>Description</key>
+        <string>CURLY LOOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➿</string>
+        <key>Description</key>
+        <string>DOUBLE CURLY LOOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〽️</string>
+        <key>Description</key>
+        <string>PART ALTERNATION MARK</string>
+    </dict>
+</array>
+</plist>

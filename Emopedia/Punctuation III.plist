@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>※</string>
+        <key>Description</key>
+        <string>REFERENCE MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＊</string>
+        <key>Description</key>
+        <string>FULLWIDTH ASTERISK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁕</string>
+        <key>Description</key>
+        <string>FLOWER PUNCTUATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁎</string>
+        <key>Description</key>
+        <string>LOW ASTERISK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁑</string>
+        <key>Description</key>
+        <string>TWO ASTERISKS ALIGNED VERTICALLY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁂</string>
+        <key>Description</key>
+        <string>ASTERISM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＾</string>
+        <key>Description</key>
+        <string>FULLWIDTH CIRCUMFLEX ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︐</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL COMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︑</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︒</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︓</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL COLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︔</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL SEMICOLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︕</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︖</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL QUESTION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︰</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL TWO DOT LEADER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︙</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︱</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL Em Dash</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︲</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL En Dash</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︳</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL Low Line</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︴</string>
+        <key>Description</key>
+        <string>PRESENTATION FORM FOR VERTICAL Wavy Low Line</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁌</string>
+        <key>Description</key>
+        <string>Black Leftwards Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁍</string>
+        <key>Description</key>
+        <string>Black Rightwards Bullet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁁</string>
+        <key>Description</key>
+        <string>Caret Insertion Point</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‸</string>
+        <key>Description</key>
+        <string>CARET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁏</string>
+        <key>Description</key>
+        <string>REVERSED SEMICOLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁚</string>
+        <key>Description</key>
+        <string>TWO DOT PUNCTUATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁖</string>
+        <key>Description</key>
+        <string>THREE DOT PUNCTUATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁘</string>
+        <key>Description</key>
+        <string>FOUR DOT PUNCTUATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁙</string>
+        <key>Description</key>
+        <string>FIVE DOT PUNCTUATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‶</string>
+        <key>Description</key>
+        <string>REVERSED DOUBLE PRIME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸀</string>
+        <key>Description</key>
+        <string>RIGHT ANGLE SUBSTITUTION MARKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸁</string>
+        <key>Description</key>
+        <string>RIGHT ANGLE DOTTED SUBSTITUTION MARKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸂</string>
+        <key>Description</key>
+        <string>LEFT SUBSTITUTION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸃</string>
+        <key>Description</key>
+        <string>RIGHT SUBSTITUTION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸄</string>
+        <key>Description</key>
+        <string>LEFT DOTTED SUBSTITUTION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸅</string>
+        <key>Description</key>
+        <string>RIGHT DOTTED SUBSTITUTION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸆</string>
+        <key>Description</key>
+        <string>RAISED INTERPOLATION MARKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸇</string>
+        <key>Description</key>
+        <string>RAISED DOTTED INTERPOLATION MARKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸈</string>
+        <key>Description</key>
+        <string>DOTTED TRANSPOSITION MARKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸉</string>
+        <key>Description</key>
+        <string>LEFT TRANSPOSITION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸊</string>
+        <key>Description</key>
+        <string>RIGHT TRANSPOSITION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸋</string>
+        <key>Description</key>
+        <string>RAISED SQUARE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸌</string>
+        <key>Description</key>
+        <string>LEFT RAISED OMISSION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸍</string>
+        <key>Description</key>
+        <string>RIGHT RAISED OMISSION BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸎</string>
+        <key>Description</key>
+        <string>EDITORIAL CORONIS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸏</string>
+        <key>Description</key>
+        <string>PARAGRAPHOS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸐</string>
+        <key>Description</key>
+        <string>FORKED PARAGRAPHOS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸑</string>
+        <key>Description</key>
+        <string>REVERSED FORKED PARAGRAPHOS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸒</string>
+        <key>Description</key>
+        <string>HYPODIASTOLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸓</string>
+        <key>Description</key>
+        <string>DOTTED OBELOS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸔</string>
+        <key>Description</key>
+        <string>DOWNWARDS ANCORA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸕</string>
+        <key>Description</key>
+        <string>UPWARDS ANCORA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸖</string>
+        <key>Description</key>
+        <string>DOTTED RIGHT POINTING ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸗</string>
+        <key>Description</key>
+        <string>DOUBLE OBLIQUE HYPHEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸜</string>
+        <key>Description</key>
+        <string>LEFT LOW PARAPHRASE BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⸝</string>
+        <key>Description</key>
+        <string>RIGHT LOW PARAPHRASE BRACKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁝</string>
+        <key>Description</key>
+        <string>TRICOLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁞</string>
+        <key>Description</key>
+        <string>VERTICAL FOUR DOTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁜</string>
+        <key>Description</key>
+        <string>FOTTED CROSS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>෴</string>
+        <key>Description</key>
+        <string>SINHALA PUNCTUATION KUNDDALIYA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>׆</string>
+        <key>Description</key>
+        <string>HEBREW PUNCTUATION NUN HAFUKHA</string>
+    </dict>
+</array>
+</plist>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>🐵</string>
+        <key>Description</key>
+        <string>MONKEY FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙈</string>
+        <key>Description</key>
+        <string>SEE-NO-EVIL MONKEY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙉</string>
+        <key>Description</key>
+        <string>HEAR-NO-EVIL MONKEY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🙊</string>
+        <key>Description</key>
+        <string>SPEAK-NO-EVIL MONKEY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐒</string>
+        <key>Description</key>
+        <string>MONKEY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐉</string>
+        <key>Description</key>
+        <string>DRAGON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐲</string>
+        <key>Description</key>
+        <string>DRAGON FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐊</string>
+        <key>Description</key>
+        <string>CROCODILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐍</string>
+        <key>Description</key>
+        <string>SNAKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐢</string>
+        <key>Description</key>
+        <string>TURTLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐸</string>
+        <key>Description</key>
+        <string>FROG FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐋</string>
+        <key>Description</key>
+        <string>WHALE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐳</string>
+        <key>Description</key>
+        <string>SPOUTING WHALE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐬</string>
+        <key>Description</key>
+        <string>DOLPHIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐙</string>
+        <key>Description</key>
+        <string>OCTOPUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐟</string>
+        <key>Description</key>
+        <string>FISH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐠</string>
+        <key>Description</key>
+        <string>TROPICAL FISH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐡</string>
+        <key>Description</key>
+        <string>BLOWFISH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐚</string>
+        <key>Description</key>
+        <string>SPIRAL SHELL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐌</string>
+        <key>Description</key>
+        <string>SNAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐛</string>
+        <key>Description</key>
+        <string>BUG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐜</string>
+        <key>Description</key>
+        <string>ANT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐝</string>
+        <key>Description</key>
+        <string>HONEYBEE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐞</string>
+        <key>Description</key>
+        <string>LADY BEETLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🐾</string>
+        <key>Description</key>
+        <string>PAW PRINTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚡️</string>
+        <key>Description</key>
+        <string>HIGH VOLTAGE SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔥</string>
+        <key>Description</key>
+        <string>FIRE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌙</string>
+        <key>Description</key>
+        <string>CRESCENT MOON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☀️</string>
+        <key>Description</key>
+        <string>BLACK SUN WITH RAYS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛅️</string>
+        <key>Description</key>
+        <string>SUN BEHIND CLOUD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☁️</string>
+        <key>Description</key>
+        <string>CLOUD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💧</string>
+        <key>Description</key>
+        <string>DROPLET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💦</string>
+        <key>Description</key>
+        <string>SPLASHING SWEAT SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☔️</string>
+        <key>Description</key>
+        <string>UMBRELLA WITH RAIN DROPS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💨</string>
+        <key>Description</key>
+        <string>DASH SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❄️</string>
+        <key>Description</key>
+        <string>SNOWFLAKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌟</string>
+        <key>Description</key>
+        <string>GLOWING STAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⭐️</string>
+        <key>Description</key>
+        <string>WHITE MEDIUM STAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌠</string>
+        <key>Description</key>
+        <string>SHOOTING STAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌄</string>
+        <key>Description</key>
+        <string>SUNRISE OVER MOUNTAINS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌅</string>
+        <key>Description</key>
+        <string>SUNRISE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌈</string>
+        <key>Description</key>
+        <string>RAINBOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌊</string>
+        <key>Description</key>
+        <string>WATER WAVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌋</string>
+        <key>Description</key>
+        <string>VOLCANO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌌</string>
+        <key>Description</key>
+        <string>MILKY WAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🗻</string>
+        <key>Description</key>
+        <string>MOUNT FUJI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🗾</string>
+        <key>Description</key>
+        <string>SILHOUETTE OF JAPAN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌐</string>
+        <key>Description</key>
+        <string>GLOBE WITH MERIDIANS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌍</string>
+        <key>Description</key>
+        <string>EARTH GLOBE EUROPE-AFRICA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌎</string>
+        <key>Description</key>
+        <string>EARTH GLOBE AMERICAS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌏</string>
+        <key>Description</key>
+        <string>EARTH GLOBE ASIA-AUSTRALIA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌑</string>
+        <key>Description</key>
+        <string>NEW MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌒</string>
+        <key>Description</key>
+        <string>WAXING CRESCENT MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌓</string>
+        <key>Description</key>
+        <string>FIRST QUARTER MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌔</string>
+        <key>Description</key>
+        <string>WAXING GIBBOUS MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌕</string>
+        <key>Description</key>
+        <string>FULL MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌖</string>
+        <key>Description</key>
+        <string>WANING GIBBOUS MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌗</string>
+        <key>Description</key>
+        <string>LAST QUARTER MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌘</string>
+        <key>Description</key>
+        <string>WANING CRESCENT MOON SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌚</string>
+        <key>Description</key>
+        <string>NEW MOON WITH FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌝</string>
+        <key>Description</key>
+        <string>FULL MOON WITH FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌛</string>
+        <key>Description</key>
+        <string>FIRST QUARTER MOON WITH FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌜</string>
+        <key>Description</key>
+        <string>LAST QUARTER MOON WITH FACE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌞</string>
+        <key>Description</key>
+        <string>SUN WITH FACE</string>
+    </dict>
+</array>
+</plist>

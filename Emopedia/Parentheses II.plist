@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>⎧</string>
+        <key>Description</key>
+        <string>Left Curly Bracket Upper Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎫</string>
+        <key>Description</key>
+        <string>Right Curly Bracket Upper Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎩</string>
+        <key>Description</key>
+        <string>Left Curly Bracket Lower Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎭</string>
+        <key>Description</key>
+        <string>Right Curly Bracket Lower Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎡</string>
+        <key>Description</key>
+        <string>Left Square Bracket Upper Corner</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎤</string>
+        <key>Description</key>
+        <string>Right Square Bracket Upper Corner</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎣</string>
+        <key>Description</key>
+        <string>Left Square Bracket Lower Corner</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎦</string>
+        <key>Description</key>
+        <string>Left Square Bracket Lower Corner</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎛</string>
+        <key>Description</key>
+        <string>Left Parenthesis Upper Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎞</string>
+        <key>Description</key>
+        <string>Right Parenthesis Upper Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎝</string>
+        <key>Description</key>
+        <string>Right Parenthesis Lower Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎠</string>
+        <key>Description</key>
+        <string>Right Parenthesis Lower Hook</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎨</string>
+        <key>Description</key>
+        <string>Left Curly Bracket Middle Piece</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎬</string>
+        <key>Description</key>
+        <string>Right Curly Bracket Middle Piece</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎜</string>
+        <key>Description</key>
+        <string>Left Parenthesis Extension</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎟</string>
+        <key>Description</key>
+        <string>Right Parenthesis Extension</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎢</string>
+        <key>Description</key>
+        <string>Left Square Bracket Extension</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎥</string>
+        <key>Description</key>
+        <string>Right Square Bracket Extension</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎪</string>
+        <key>Description</key>
+        <string>Curly Bracket Extension</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎪</string>
+        <key>Description</key>
+        <string>Curly Bracket Extension</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁅</string>
+        <key>Description</key>
+        <string>Left Square Bracket With Quill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁆</string>
+        <key>Description</key>
+        <string>Right Square Bracket With Quill</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦅</string>
+        <key>Description</key>
+        <string>Left White Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⦆</string>
+        <key>Description</key>
+        <string>Right White Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹁</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹂</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹃</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left White Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹄</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right White Corner Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹇</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Square Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹈</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Square Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︻</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Black Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︼</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Black Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︗</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left White Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︘</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Whie Lenticular Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︵</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︶</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Parenthesis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︹</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︺</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Tortoise Shell Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︷</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Curly Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︸</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Curly Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︿</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>﹀</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︽</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Left Double Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>︾</string>
+        <key>Description</key>
+        <string>Presentation Form For Vertical Right Double Angle Bracket</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‿</string>
+        <key>Description</key>
+        <string>Undertie</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁔</string>
+        <key>Description</key>
+        <string>Inverted Undertie</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁀</string>
+        <key>Description</key>
+        <string>Character Tie</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁐</string>
+        <key>Description</key>
+        <string>Close Up</string>
+    </dict>
+
+</array>
+</plist>

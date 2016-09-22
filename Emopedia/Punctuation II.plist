@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>ˉ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MACRON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˆ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CIRCUMFLEX ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˘</string>
+        <key>Description</key>
+        <string>BREVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˇ</string>
+        <key>Description</key>
+        <string>CARON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>-</string>
+        <key>Description</key>
+        <string>HYPHEN-MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‒</string>
+        <key>Description</key>
+        <string>FIGURE DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>~</string>
+        <key>Description</key>
+        <string>TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>*</string>
+        <key>Description</key>
+        <string>ASTERISK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❛</string>
+        <key>Description</key>
+        <string>HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❜</string>
+        <key>Description</key>
+        <string>HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❝</string>
+        <key>Description</key>
+        <string>HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❞</string>
+        <key>Description</key>
+        <string>HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❢</string>
+        <key>Description</key>
+        <string>HEAVY EXCLAMATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❣</string>
+        <key>Description</key>
+        <string>HEAVY HEART EXCLAMATION MARK ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❡</string>
+        <key>Description</key>
+        <string>CURVED STEM PARAGRAPH SIGN ORNAMENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>！</string>
+        <key>Description</key>
+        <string>FULLWIDTH EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>？</string>
+        <key>Description</key>
+        <string>FULLWIDTH QUESTION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‼︎</string>
+        <key>Description</key>
+        <string>DOUBLE EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁇</string>
+        <key>Description</key>
+        <string>DOUBLE QUESTION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁈</string>
+        <key>Description</key>
+        <string>QUESTION EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁉︎</string>
+        <key>Description</key>
+        <string>EXCLAMATION QUESTION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＠</string>
+        <key>Description</key>
+        <string>FULLWIDTH COMMERCIAL AT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>％</string>
+        <key>Description</key>
+        <string>FULLWIDTH PERCENT SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＆</string>
+        <key>Description</key>
+        <string>FULLWIDTH AMPERSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>゠</string>
+        <key>Description</key>
+        <string>KATAKANA-HIRAGANA DOUBLE HYPHEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ー</string>
+        <key>Description</key>
+        <string>KATAKANA-HIRAGANA PROLONGED SOUND MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〜</string>
+        <key>Description</key>
+        <string>WAVE DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>・</string>
+        <key>Description</key>
+        <string>KATAKANA MIDDLE DOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‥</string>
+        <key>Description</key>
+        <string>TWO DOT LEADER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>：</string>
+        <key>Description</key>
+        <string>FULL WIDTH COLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>；</string>
+        <key>Description</key>
+        <string>FULLWIDTH SEMICOLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>．</string>
+        <key>Description</key>
+        <string>FULLWIDTH FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>，</string>
+        <key>Description</key>
+        <string>FULLWIDTH COMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>、</string>
+        <key>Description</key>
+        <string>IDEOGRAPHIC COMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>。</string>
+        <key>Description</key>
+        <string>IDEOGRAPHIC FULL STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>゜</string>
+        <key>Description</key>
+        <string>KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>゛</string>
+        <key>Description</key>
+        <string>KATAKANA-HIRAGANA VOICED SOUND MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＇</string>
+        <key>Description</key>
+        <string>FULL WIDTH APOSTROPHE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>＂</string>
+        <key>Description</key>
+        <string>FULLWIDTH QUOTATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〝</string>
+        <key>Description</key>
+        <string>REVERSED DOUBLE PRIME QUOTATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〞</string>
+        <key>Description</key>
+        <string>DOUBLE PRIME QUOTATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〟</string>
+        <key>Description</key>
+        <string>LOW DOUBLE PRIME QUOTATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>․</string>
+        <key>Description</key>
+        <string>ONE DOT LEADER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‐</string>
+        <key>Description</key>
+        <string>HYPHEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>―</string>
+        <key>Description</key>
+        <string>HORIZONTAL BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁃</string>
+        <key>Description</key>
+        <string>HYPHEN BULLET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>־</string>
+        <key>Description</key>
+        <string>HEBREW PUNCTUATION MAQAF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‾</string>
+        <key>Description</key>
+        <string>OVERLINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‗</string>
+        <key>Description</key>
+        <string>DOUBLE LOW LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁓</string>
+        <key>Description</key>
+        <string>SWUNG DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>〰</string>
+        <key>Description</key>
+        <string>WAVY DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‖</string>
+        <key>Description</key>
+        <string>DOUBLE VERTICAL LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‵</string>
+        <key>Description</key>
+        <string>REVERSED PRIME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‶</string>
+        <key>Description</key>
+        <string>REVERSED DOUBLE PRIME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‷</string>
+        <key>Description</key>
+        <string>REVERSED TRIPLE PRIME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‴</string>
+        <key>Description</key>
+        <string>TRIPLE PRIME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁗</string>
+        <key>Description</key>
+        <string>QUADRUPLE PRIME</string>
+    </dict>
+
+</array>
+</plist>

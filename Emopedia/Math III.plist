@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+    <dict>
+        <key>Name</key>
+        <string>≃</string>
+        <key>Description</key>
+        <string>ASYMPTOTICALLY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≄</string>
+        <key>Description</key>
+        <string>NOT ASYMPTOTICALLY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≅</string>
+        <key>Description</key>
+        <string>APPROXIMATELY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≆</string>
+        <key>Description</key>
+        <string>APPROXIMATELY BUT NOT ACTUALLY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≇</string>
+        <key>Description</key>
+        <string>NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≈</string>
+        <key>Description</key>
+        <string>ALMOST EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≉</string>
+        <key>Description</key>
+        <string>NOT ALMOST EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≊</string>
+        <key>Description</key>
+        <string>ALMOST EQUAL OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≋</string>
+        <key>Description</key>
+        <string>TRIPLE TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≌</string>
+        <key>Description</key>
+        <string>ALL EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≍</string>
+        <key>Description</key>
+        <string>EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≎</string>
+        <key>Description</key>
+        <string>GEOMETRICALLY EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≏</string>
+        <key>Description</key>
+        <string>DIFFERENCE BETWEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≐</string>
+        <key>Description</key>
+        <string>APPROACHES THE LIMIT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≑</string>
+        <key>Description</key>
+        <string>GEOMETRICALLY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≒</string>
+        <key>Description</key>
+        <string>APPROXIMATELY EQUAL TO OR THE IMAGE OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≓</string>
+        <key>Description</key>
+        <string>IMAGE OF OR APPROXIMATELY EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≔</string>
+        <key>Description</key>
+        <string>COLON EQUALS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≕</string>
+        <key>Description</key>
+        <string>EQUALS COLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≖</string>
+        <key>Description</key>
+        <string>RING IN EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≗</string>
+        <key>Description</key>
+        <string>RING EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≘</string>
+        <key>Description</key>
+        <string>CORRESPONDS TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≙</string>
+        <key>Description</key>
+        <string>ESTIMATES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≚</string>
+        <key>Description</key>
+        <string>EQUIANGULAR TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≛</string>
+        <key>Description</key>
+        <string>STAR EQUALS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≜</string>
+        <key>Description</key>
+        <string>DELTA EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≝</string>
+        <key>Description</key>
+        <string>EQUAL TO BY DEFINATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≞</string>
+        <key>Description</key>
+        <string>MEASURED BY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≟</string>
+        <key>Description</key>
+        <string>QUESTIONED EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≠</string>
+        <key>Description</key>
+        <string>NOT EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≡</string>
+        <key>Description</key>
+        <string>IDENTICAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≢</string>
+        <key>Description</key>
+        <string>NOT IDENTICAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≣</string>
+        <key>Description</key>
+        <string>STRICTLY EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≬</string>
+        <key>Description</key>
+        <string>BETWEEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊌</string>
+        <key>Description</key>
+        <string>MULTISET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊍</string>
+        <key>Description</key>
+        <string>MULTISET MULTIPLICATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊎</string>
+        <key>Description</key>
+        <string>MULTISET UNION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊏</string>
+        <key>Description</key>
+        <string>SQUARE IMAGE OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊐</string>
+        <key>Description</key>
+        <string>SQUARE ORIGINAL OF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊑</string>
+        <key>Description</key>
+        <string>SQUARE IMAGE OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊒</string>
+        <key>Description</key>
+        <string>SQUARE ORIGINAL OF OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊓</string>
+        <key>Description</key>
+        <string>SQUARE CAP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊔</string>
+        <key>Description</key>
+        <string>SQUARE CUP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>&amp;</string>
+        <key>Description</key>
+        <string>AMPERSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅋</string>
+        <key>Description</key>
+        <string>TURNED AMPERSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊕</string>
+        <key>Description</key>
+        <string>CIRCLED PLUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊖</string>
+        <key>Description</key>
+        <string>CIRCLED MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊗</string>
+        <key>Description</key>
+        <string>CIRCLED TIMES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊘</string>
+        <key>Description</key>
+        <string>CIRCLED DIVISION SLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊙</string>
+        <key>Description</key>
+        <string>CIRCLED DOT OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊚</string>
+        <key>Description</key>
+        <string>CIRCLED RING OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊛</string>
+        <key>Description</key>
+        <string>CIRCLED ASTERISK OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊜</string>
+        <key>Description</key>
+        <string>CIRCLED EQUALS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊝</string>
+        <key>Description</key>
+        <string>CIRCLED DASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊞</string>
+        <key>Description</key>
+        <string>SQUARED PLUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊟</string>
+        <key>Description</key>
+        <string>SQUARED MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊠</string>
+        <key>Description</key>
+        <string>SQUARED TIMES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊡</string>
+        <key>Description</key>
+        <string>SQUARED DOT OPERATOR</string>
+    </dict>
+    
+</array>
+</plist>

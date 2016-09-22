@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>꜈</string>
+		<key>Description</key>
+		<string>MODIFIER LETTER EXTRA-HIGH DOTTED TONE BAR</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>꜉</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER HIGH DOTTED TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜊</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MID DOTTED TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜋</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW DOTTED TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜌</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER EXTRA-LOW DOTTED TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜍</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER EXTRA-HIGH DOTTED LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜎</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER HIGH DOTTED LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜏</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MID DOTTED LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜐</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW DOTTED LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜑</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER EXTRA-LOW DOTTED LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜒</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER EXTRA-HIGH LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜓</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER HIGH LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜔</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MID LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜕</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜖</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER EXTRA-LOW LEFT-STEM TONE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜗ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER DOT VERTICAL BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜘ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER DOT SLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜙ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER DOT HORIZONTAL BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜚ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOWER RIGHT CORNER ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜛ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER RAISED UP ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜜ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER RAISED DOWN ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜝ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER RAISED EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜞ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER RAISED INVERTED EXCLAMATION MARK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ꜟ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW INVERTED EXCLAMATION MARK</string>
+    </dict>
+</array>
+</plist>

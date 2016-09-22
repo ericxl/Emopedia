@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>ʻ</string>
+		<key>Description</key>
+		<string>MODIFIER LETTER TURNED COMMA</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>̇</string>
+        <key>Description</key>
+        <string>COMBINING DOT ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˈ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER VERTICAL LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̆</string>
+        <key>Description</key>
+        <string>COMBINING BREVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̋</string>
+        <key>Description</key>
+        <string>COMBINING DOUBLE ACUTE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>́</string>
+        <key>Description</key>
+        <string>COMBINING ACUTE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̄</string>
+        <key>Description</key>
+        <string>COMBINING MACRON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̀</string>
+        <key>Description</key>
+        <string>COMBINING GRAVE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̑</string>
+        <key>Description</key>
+        <string>COMBINING INVERTED BREVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˇ</string>
+        <key>Description</key>
+        <string>CARON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˆ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CIRCUMFLEX ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̴</string>
+        <key>Description</key>
+        <string>COMBINING TILDE OVERLAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̥</string>
+        <key>Description</key>
+        <string>COMBINING RING BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̬</string>
+        <key>Description</key>
+        <string>COMBINING CARON BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̤</string>
+        <key>Description</key>
+        <string>COMBINING DIAERESIS BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̰</string>
+        <key>Description</key>
+        <string>COMBINING TILDE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̪</string>
+        <key>Description</key>
+        <string>COMBINING BRIDGE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̺</string>
+        <key>Description</key>
+        <string>COMBINING INVERTED BRIDGE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̻</string>
+        <key>Description</key>
+        <string>COMBINING SQUARE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̹</string>
+        <key>Description</key>
+        <string>COMBINING RIGHT HALF RING BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̜</string>
+        <key>Description</key>
+        <string>COMBINING LEFT HALF RING BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̠</string>
+        <key>Description</key>
+        <string>COMBINING MINUS SIGN BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̘</string>
+        <key>Description</key>
+        <string>COMBINING LEFT TACK BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̙</string>
+        <key>Description</key>
+        <string>COMBINING RIGHT TACK BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̝</string>
+        <key>Description</key>
+        <string>COMBINING UP TACK BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˔</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER UP TACK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̞</string>
+        <key>Description</key>
+        <string>COMBINING DOWN TACK BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˕</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER DOWN TACK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̩</string>
+        <key>Description</key>
+        <string>COMBINING VERTICAL LINE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̯</string>
+        <key>Description</key>
+        <string>COMBINING INVERTED BREVE BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̢</string>
+        <key>Description</key>
+        <string>COMBINING RETROFLEX HOOK BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˗</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MINUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˖</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER PLUS SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̣</string>
+        <key>Description</key>
+        <string>COMBINING DOT BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̡</string>
+        <key>Description</key>
+        <string>COMBINING PALATALIZED HOOK BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>̫</string>
+        <key>Description</key>
+        <string>COMBINING INVERTED DOUBLE ARCH BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˌ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW VERTICAL LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>‿</string>
+        <key>Description</key>
+        <string>UNDERTIE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˎ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW GRAVE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ˏ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW ACUTE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˯</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW DOWN ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˰</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW UP ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˱</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW LEFT ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˲</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW RIGHT ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˳</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW RING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˴</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MIDDLE GRAVE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˵</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˶</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˷</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˸</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER RAISED COLON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˹</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER BEGIN HIGH TONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˺</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER END HIGH TONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˻</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER BEGIN LOW TONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˼</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER END LOW TONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˽</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SHELF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˾</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER OPEN SHELF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>˿</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER LOW LEFT ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͐</string>
+        <key>Description</key>
+        <string>COMBINING RIGHT ARROWHEAD ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͑</string>
+        <key>Description</key>
+        <string>COMBINING LEFT HALF RING ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͒</string>
+        <key>Description</key>
+        <string>COMBINING FERMATA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͓</string>
+        <key>Description</key>
+        <string>COMBINING X BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͔</string>
+        <key>Description</key>
+        <string>COMBINING LEFT ARROWHEAD BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͕</string>
+        <key>Description</key>
+        <string>COMBINING RIGHT ARROWHEAD BELOW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>͖</string>
+        <key>Description</key>
+        <string>COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW</string>
+    </dict>
+    
+</array>
+</plist>

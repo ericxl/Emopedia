@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>🍅</string>
+		<key>Description</key>
+		<string>TOMATO</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>🍆</string>
+        <key>Description</key>
+        <string>AUBERGINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌽</string>
+        <key>Description</key>
+        <string>EAR OF MAIZE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍠</string>
+        <key>Description</key>
+        <string>ROASTED SWEET POTATO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍇</string>
+        <key>Description</key>
+        <string>GRAPES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍈</string>
+        <key>Description</key>
+        <string>MELON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍉</string>
+        <key>Description</key>
+        <string>WATERMELON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍊</string>
+        <key>Description</key>
+        <string>TANGERINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍋</string>
+        <key>Description</key>
+        <string>LEMON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍌</string>
+        <key>Description</key>
+        <string>BANANA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍍</string>
+        <key>Description</key>
+        <string>PINEAPPLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍎</string>
+        <key>Description</key>
+        <string>RED APPLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍏</string>
+        <key>Description</key>
+        <string>GREEN APPLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍐</string>
+        <key>Description</key>
+        <string>PEAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍑</string>
+        <key>Description</key>
+        <string>PEACH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍒</string>
+        <key>Description</key>
+        <string>CHERRIES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍓</string>
+        <key>Description</key>
+        <string>STRAWBERRY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍔</string>
+        <key>Description</key>
+        <string>HAMBURGER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍕</string>
+        <key>Description</key>
+        <string>SLICE OF PIZZA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍖</string>
+        <key>Description</key>
+        <string>MEAT ON BONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍗</string>
+        <key>Description</key>
+        <string>POULTRY LEG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍘</string>
+        <key>Description</key>
+        <string>RICE CRACKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍙</string>
+        <key>Description</key>
+        <string>RICE BALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍚</string>
+        <key>Description</key>
+        <string>COOKED RICE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍛</string>
+        <key>Description</key>
+        <string>CURRY AND RICE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍜</string>
+        <key>Description</key>
+        <string>STEAMING BOWL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍝</string>
+        <key>Description</key>
+        <string>SPAGHETTI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍞</string>
+        <key>Description</key>
+        <string>BREAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍟</string>
+        <key>Description</key>
+        <string>FRENCH FRIES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍡</string>
+        <key>Description</key>
+        <string>DANGO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍢</string>
+        <key>Description</key>
+        <string>ODEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍣</string>
+        <key>Description</key>
+        <string>SUSHI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍤</string>
+        <key>Description</key>
+        <string>FRIED SHRIMP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍥</string>
+        <key>Description</key>
+        <string>FISH CAKE WITH SWIRL DESIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍦</string>
+        <key>Description</key>
+        <string>SOFT ICE CREAM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍧</string>
+        <key>Description</key>
+        <string>SHAVED ICE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍨</string>
+        <key>Description</key>
+        <string>ICE CREAM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍩</string>
+        <key>Description</key>
+        <string>DOUGHNUT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍪</string>
+        <key>Description</key>
+        <string>COOKIE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍫</string>
+        <key>Description</key>
+        <string>CHOCOLATE BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍬</string>
+        <key>Description</key>
+        <string>CANDY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍭</string>
+        <key>Description</key>
+        <string>LOLLIPOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍮</string>
+        <key>Description</key>
+        <string>CUSTARD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍯</string>
+        <key>Description</key>
+        <string>HONEY POT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍰</string>
+        <key>Description</key>
+        <string>SHORTCAKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍱</string>
+        <key>Description</key>
+        <string>BENTO BOX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍲</string>
+        <key>Description</key>
+        <string>POT OF FOOD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍳</string>
+        <key>Description</key>
+        <string>COOKING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍴</string>
+        <key>Description</key>
+        <string>FORK AND KNIFE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍵</string>
+        <key>Description</key>
+        <string>TEACUP WITHOUT HANDLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☕️</string>
+        <key>Description</key>
+        <string>HOT BEVERAGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍶</string>
+        <key>Description</key>
+        <string>SAKE BOTTLE AND CUP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍷</string>
+        <key>Description</key>
+        <string>WINE GLASS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍸</string>
+        <key>Description</key>
+        <string>COCKTAIL GLASS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍹</string>
+        <key>Description</key>
+        <string>TROPICAL DRINK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍺</string>
+        <key>Description</key>
+        <string>BEER MUG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍻</string>
+        <key>Description</key>
+        <string>CLINKING BEER MUGS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🍼</string>
+        <key>Description</key>
+        <string>BABY BOTTLE</string>
+    </dict>
+</array>
+</plist>

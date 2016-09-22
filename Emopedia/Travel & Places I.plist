@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>🚃</string>
+		<key>Description</key>
+		<string>RAILWAY CAR</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>🚞</string>
+        <key>Description</key>
+        <string>MOUNTAIN RAILWAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚂</string>
+        <key>Description</key>
+        <string>STEAM LOCOMOTIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚋</string>
+        <key>Description</key>
+        <string>TRAM CAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚝</string>
+        <key>Description</key>
+        <string>MONORAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚄</string>
+        <key>Description</key>
+        <string>HIGH-SPEED TRAIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚅</string>
+        <key>Description</key>
+        <string>HIGH-SPEED TRAIN WITH BULLET NOSE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚆</string>
+        <key>Description</key>
+        <string>TRAIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚇</string>
+        <key>Description</key>
+        <string>METRO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚈</string>
+        <key>Description</key>
+        <string>LIGHT RAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚉</string>
+        <key>Description</key>
+        <string>STATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚊</string>
+        <key>Description</key>
+        <string>TRAM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚌</string>
+        <key>Description</key>
+        <string>BUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚍</string>
+        <key>Description</key>
+        <string>ONCOMING BUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚎</string>
+        <key>Description</key>
+        <string>TROLLEYBUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚐</string>
+        <key>Description</key>
+        <string>MINIBUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚑</string>
+        <key>Description</key>
+        <string>AMBULANCE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚒</string>
+        <key>Description</key>
+        <string>FIRE ENGINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚓</string>
+        <key>Description</key>
+        <string>POLICE CAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚔</string>
+        <key>Description</key>
+        <string>ONCOMING POLICE CAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚨</string>
+        <key>Description</key>
+        <string>POLICE CARS REVOLVING LIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚕</string>
+        <key>Description</key>
+        <string>TAXI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚖</string>
+        <key>Description</key>
+        <string>ONCOMING TAXI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚗</string>
+        <key>Description</key>
+        <string>AUTOMOBILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚘</string>
+        <key>Description</key>
+        <string>ONCOMING AUTOMOBILE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚙</string>
+        <key>Description</key>
+        <string>RECREATIONAL VEHICLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚚</string>
+        <key>Description</key>
+        <string>DELIVERY TRUCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚛</string>
+        <key>Description</key>
+        <string>ARTICULATED LORRY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚜</string>
+        <key>Description</key>
+        <string>TRACTOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚲</string>
+        <key>Description</key>
+        <string>BICYCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚏</string>
+        <key>Description</key>
+        <string>BUS STOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛽️</string>
+        <key>Description</key>
+        <string>FUEL PUMP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚧</string>
+        <key>Description</key>
+        <string>CONSTRUCTION SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚦</string>
+        <key>Description</key>
+        <string>VERTICAL TRAFFIC LIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚥</string>
+        <key>Description</key>
+        <string>HORIZONTAL TRAFFIC LIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚀</string>
+        <key>Description</key>
+        <string>ROCKET</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚁</string>
+        <key>Description</key>
+        <string>HELICOPTER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✈️</string>
+        <key>Description</key>
+        <string>AIRPLANE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💺</string>
+        <key>Description</key>
+        <string>SEAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚓️</string>
+        <key>Description</key>
+        <string>ANCHOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚢</string>
+        <key>Description</key>
+        <string>SHIP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚤</string>
+        <key>Description</key>
+        <string>SPEEDBOAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛵️</string>
+        <key>Description</key>
+        <string>SAILBOAT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚡</string>
+        <key>Description</key>
+        <string>AERIAL TRAMWAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚠</string>
+        <key>Description</key>
+        <string>MOUNTAIN CABLEWAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚟</string>
+        <key>Description</key>
+        <string>SUSPENSION RAILWAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🛂</string>
+        <key>Description</key>
+        <string>PASSPORT CONTROL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🛃</string>
+        <key>Description</key>
+        <string>CUSTOMS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🛄</string>
+        <key>Description</key>
+        <string>BAGGAGE CLAIM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🛅</string>
+        <key>Description</key>
+        <string>LEFT LUGGAGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💴</string>
+        <key>Description</key>
+        <string>BANKNOTE WITH YEN SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💶</string>
+        <key>Description</key>
+        <string>BANKNOTE WITH EURO SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💷</string>
+        <key>Description</key>
+        <string>BANKNOTE WITH POUND SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💵</string>
+        <key>Description</key>
+        <string>BANKNOTE WITH DOLLAR SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🗽</string>
+        <key>Description</key>
+        <string>STATUE OF LIBERTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🗿</string>
+        <key>Description</key>
+        <string>MOYAI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌁</string>
+        <key>Description</key>
+        <string>FOGGY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🗼</string>
+        <key>Description</key>
+        <string>TOKYO TOWER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛲️</string>
+        <key>Description</key>
+        <string>FOUNTAIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏰</string>
+        <key>Description</key>
+        <string>EUROPEAN CASTLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏯</string>
+        <key>Description</key>
+        <string>JAPANESE CASTLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌇</string>
+        <key>Description</key>
+        <string>SUNSET OVER BUILDINGS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌆</string>
+        <key>Description</key>
+        <string>CITYSCAPE AT DUSK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌃</string>
+        <key>Description</key>
+        <string>NIGHT WITH STARS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🌉</string>
+        <key>Description</key>
+        <string>BRIDGE AT NIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏠</string>
+        <key>Description</key>
+        <string>HOUSE BUILDING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏡</string>
+        <key>Description</key>
+        <string>HOUSE WITH GARDEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏢</string>
+        <key>Description</key>
+        <string>OFFICE BUILDING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏬</string>
+        <key>Description</key>
+        <string>DEPARTMENT STORE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏭</string>
+        <key>Description</key>
+        <string>FACTORY</string>
+    </dict>
+    </array>
+</plist>

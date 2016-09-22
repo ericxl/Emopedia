@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+    <dict>
+        <key>Name</key>
+        <string>㎟</string>
+        <key>Description</key>
+        <string>SQUARE MM SQUARED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎠</string>
+        <key>Description</key>
+        <string>SQUARE CM SQUARED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎡</string>
+        <key>Description</key>
+        <string>SQUARE M SQUARED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎢</string>
+        <key>Description</key>
+        <string>SQUARE KM SQUARED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎣</string>
+        <key>Description</key>
+        <string>SQUARE MM CUBED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎤</string>
+        <key>Description</key>
+        <string>SQUARE CM CUBED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎥</string>
+        <key>Description</key>
+        <string>SQUARE M CUBED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎦</string>
+        <key>Description</key>
+        <string>SQUARE KM CUBED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎧</string>
+        <key>Description</key>
+        <string>SQUARE M OVER S</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎨</string>
+        <key>Description</key>
+        <string>SQUARE M OVER S SQUARED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏔</string>
+        <key>Description</key>
+        <string>SQUARE MB SMALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎩</string>
+        <key>Description</key>
+        <string>SQUARE PA </string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㍱</string>
+        <key>Description</key>
+        <string>SQUARE HPA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎪</string>
+        <key>Description</key>
+        <string>SQUARE KPA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎫</string>
+        <key>Description</key>
+        <string>SQUARE MPA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎬</string>
+        <key>Description</key>
+        <string>SQUARE GPA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎭</string>
+        <key>Description</key>
+        <string>SQUARE RAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎮</string>
+        <key>Description</key>
+        <string>SQUARE RAD OVER S</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎯</string>
+        <key>Description</key>
+        <string>SQUARE RAD OVER S SQUARED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎰</string>
+        <key>Description</key>
+        <string>SQUARE PS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎱</string>
+        <key>Description</key>
+        <string>SQUARE NS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎲</string>
+        <key>Description</key>
+        <string>SQUARE MU S</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎳</string>
+        <key>Description</key>
+        <string>SQUARE MS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎴</string>
+        <key>Description</key>
+        <string>SQUARE PV</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎵</string>
+        <key>Description</key>
+        <string>SQUARE NV</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎶</string>
+        <key>Description</key>
+        <string>SQUARE MU V</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎷</string>
+        <key>Description</key>
+        <string>SQUARE MV</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎸</string>
+        <key>Description</key>
+        <string>SQUARE KV</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎹</string>
+        <key>Description</key>
+        <string>SQUARE MV</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎺</string>
+        <key>Description</key>
+        <string>SQUARE PW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎻</string>
+        <key>Description</key>
+        <string>SQUARE NW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎼</string>
+        <key>Description</key>
+        <string>SQUARE MU W</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎽</string>
+        <key>Description</key>
+        <string>SQUARE MW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎾</string>
+        <key>Description</key>
+        <string>SQUARE KW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎿</string>
+        <key>Description</key>
+        <string>SQUARE MW MEGA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ω</string>
+        <key>Description</key>
+        <string>GREEK CAPITAL LETTER OMEGA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏀</string>
+        <key>Description</key>
+        <string>SQUARE K OHM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏁</string>
+        <key>Description</key>
+        <string>SQUARE M OHM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏂</string>
+        <key>Description</key>
+        <string>SQUARE AM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏘</string>
+        <key>Description</key>
+        <string>SQUARE PM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏃</string>
+        <key>Description</key>
+        <string>SQUARE BQ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏄</string>
+        <key>Description</key>
+        <string>SQUARE CC</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏅</string>
+        <key>Description</key>
+        <string>SQUARE CD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏆</string>
+        <key>Description</key>
+        <string>SQUARE C OVER KG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏇</string>
+        <key>Description</key>
+        <string>SQUARE CO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏉</string>
+        <key>Description</key>
+        <string>SQUARE GY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏊</string>
+        <key>Description</key>
+        <string>SQUARE HA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏋</string>
+        <key>Description</key>
+        <string>SQUARE HP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏌</string>
+        <key>Description</key>
+        <string>SQUARE IN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏍</string>
+        <key>Description</key>
+        <string>SQUARE KK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏎</string>
+        <key>Description</key>
+        <string>SQUARE KM CAPITAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏏</string>
+        <key>Description</key>
+        <string>SQUARE KT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏐</string>
+        <key>Description</key>
+        <string>SQUARE LM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏑</string>
+        <key>Description</key>
+        <string>SQUARE LN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏒</string>
+        <key>Description</key>
+        <string>SQUARE LOG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏓</string>
+        <key>Description</key>
+        <string>SQUARE LX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏕</string>
+        <key>Description</key>
+        <string>SQUARE MIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏖</string>
+        <key>Description</key>
+        <string>SQUARE MOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏗</string>
+        <key>Description</key>
+        <string>SQUARE PH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏚</string>
+        <key>Description</key>
+        <string>SQUARE PR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏛</string>
+        <key>Description</key>
+        <string>SQUARE SR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏜</string>
+        <key>Description</key>
+        <string>SQUARE SV</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㏝</string>
+        <key>Description</key>
+        <string>SQUARE WB</string>
+    </dict>
+
+</array>
+</plist>

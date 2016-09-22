@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>≺</string>
+        <key>Description</key>
+        <string>PRECEDES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≻</string>
+        <key>Description</key>
+        <string>SUCCEEDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≼</string>
+        <key>Description</key>
+        <string>PRECEDES OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≽</string>
+        <key>Description</key>
+        <string>SUCCEEDS OR EQUAL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≾</string>
+        <key>Description</key>
+        <string>PRECEDES OR EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≿</string>
+        <key>Description</key>
+        <string>SUCCEEDS OR EQUIVALENT TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊀</string>
+        <key>Description</key>
+        <string>DOES NOT PRECEDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⊁</string>
+        <key>Description</key>
+        <string>DOES NOT SUCCEED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∎</string>
+        <key>Description</key>
+        <string>END OF PROOF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∏</string>
+        <key>Description</key>
+        <string>N-ARY PRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∐</string>
+        <key>Description</key>
+        <string>N-ARY COPRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∑</string>
+        <key>Description</key>
+        <string>N-ARY SUMMATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∕</string>
+        <key>Description</key>
+        <string>DIVISION SLASH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∖</string>
+        <key>Description</key>
+        <string>SET MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∗</string>
+        <key>Description</key>
+        <string>ASTERISK OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∘</string>
+        <key>Description</key>
+        <string>RING OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∙</string>
+        <key>Description</key>
+        <string>BULLET OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>√</string>
+        <key>Description</key>
+        <string>SQUARE ROOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∛</string>
+        <key>Description</key>
+        <string>CUBE ROOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∜</string>
+        <key>Description</key>
+        <string>FOURTH ROOT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∟</string>
+        <key>Description</key>
+        <string>RIGHT ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∠</string>
+        <key>Description</key>
+        <string>ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∡</string>
+        <key>Description</key>
+        <string>MEASURED ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∢</string>
+        <key>Description</key>
+        <string>SPHERICAL ANGLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∣</string>
+        <key>Description</key>
+        <string>DIVIDES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∤</string>
+        <key>Description</key>
+        <string>DOES NOT DIVIDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∥</string>
+        <key>Description</key>
+        <string>PARALLEL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∦</string>
+        <key>Description</key>
+        <string>NOT PARALLEL TO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∫</string>
+        <key>Description</key>
+        <string>INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∬</string>
+        <key>Description</key>
+        <string>DOUBLE INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∭</string>
+        <key>Description</key>
+        <string>TRIPLE INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∮</string>
+        <key>Description</key>
+        <string>CONTOUR INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∯</string>
+        <key>Description</key>
+        <string>SURFACE INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∰</string>
+        <key>Description</key>
+        <string>VALUME INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∱</string>
+        <key>Description</key>
+        <string>CLOCKWISE INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∲</string>
+        <key>Description</key>
+        <string>CLOCKWISE CONTOUR INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∳</string>
+        <key>Description</key>
+        <string>ANTICLOCKWISE CONTOUR INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌠</string>
+        <key>Description</key>
+        <string>TOP HALF INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⎮</string>
+        <key>Description</key>
+        <string>INTEGRAL EXTENSION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⌡</string>
+        <key>Description</key>
+        <string>BOTTOM HALF INTEGRAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∴</string>
+        <key>Description</key>
+        <string>THEREFORE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∵</string>
+        <key>Description</key>
+        <string>BECAUSE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∶</string>
+        <key>Description</key>
+        <string>RATIO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∷</string>
+        <key>Description</key>
+        <string>PROPORTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∸</string>
+        <key>Description</key>
+        <string>DOT MINUS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∹</string>
+        <key>Description</key>
+        <string>EXCESS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∺</string>
+        <key>Description</key>
+        <string>GEOMETRIC PROPORTION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∻</string>
+        <key>Description</key>
+        <string>HOMOTHETIC</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∼</string>
+        <key>Description</key>
+        <string>TILDE OPERATOR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∽</string>
+        <key>Description</key>
+        <string>REVERSED TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∾</string>
+        <key>Description</key>
+        <string>INVERTED LAZY S</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>∿</string>
+        <key>Description</key>
+        <string>SINE WAVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≀</string>
+        <key>Description</key>
+        <string>WREATH PRODUCT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≁</string>
+        <key>Description</key>
+        <string>NOT TILDE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>≂</string>
+        <key>Description</key>
+        <string>MINUS TILDE</string>
+    </dict>
+
+</array>
+</plist>

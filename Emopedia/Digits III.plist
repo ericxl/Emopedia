@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>⁰</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT ZERO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>¹</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>²</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>³</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁴</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁵</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁶</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁷</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁸</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⁹</string>
+        <key>Description</key>
+        <string>SUPERSCRIPT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₀</string>
+        <key>Description</key>
+        <string>SUBSCRIPT ZERO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₁</string>
+        <key>Description</key>
+        <string>SUBSCRIPT ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₂</string>
+        <key>Description</key>
+        <string>SUBSCRIPT TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₃</string>
+        <key>Description</key>
+        <string>SUBSCRIPT THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₄</string>
+        <key>Description</key>
+        <string>SUBSCRIPT FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₅</string>
+        <key>Description</key>
+        <string>SUBSCRIPT FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₆</string>
+        <key>Description</key>
+        <string>SUBSCRIPT SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₇</string>
+        <key>Description</key>
+        <string>SUBSCRIPT SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₈</string>
+        <key>Description</key>
+        <string>SUBSCRIPT EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>₉</string>
+        <key>Description</key>
+        <string>SUBSCRIPT NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅰ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅱ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅲ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅳ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅴ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅵ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅶ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅷ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅸ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅹ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅺ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL ELEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅻ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL TWELVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅰ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL ONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅱ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL TWO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅲ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL THREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅳ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL FOUR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅴ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL FIVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅵ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL SIX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅶ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL SEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅷ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL EIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅸ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL NINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅹ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL TEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅺ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL ELEVEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅻ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL TWELVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅼ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL FIFTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅽ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL ONE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅾ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL FIVE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅿ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL ONE THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅼ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL FIFTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅽ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL ONE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅾ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL FIVE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅿ</string>
+        <key>Description</key>
+        <string>SMALL ROMAL NUMERAL ONE THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ↀ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL ONE THOUSAND C D</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ↁ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL FIVE THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ↂ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL TEN THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ↄ</string>
+        <key>Description</key>
+        <string>ROMAL NUMERAL REVERSED ONE HUNDRED</string>
+    </dict>
+
+</array>
+</plist>

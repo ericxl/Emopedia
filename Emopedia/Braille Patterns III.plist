@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+    <dict>
+        <key>Name</key>
+        <string>⢀</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-8</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢁</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-18</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢂</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-28</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢃</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-128</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢄</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-38</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢅</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-138</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢆</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-238</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢇</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1238</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢈</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-48</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢉</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-148</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢊</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-248</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢋</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1248</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢌</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-348</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢍</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1348</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢎</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-2348</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢏</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-12348</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢐</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-58</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢑</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-158</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢒</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-258</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢓</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1258</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢔</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-358</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢕</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1358</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢖</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-2358</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢗</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-12358</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢘</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢙</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢚</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-2458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢛</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-12458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢜</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-3458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢝</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-13458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢞</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-23458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢟</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-123458</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢠</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-68</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢡</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-168</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢢</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-268</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢣</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1268</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢤</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-368</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢥</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1368</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢦</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-2368</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢧</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-12368</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢨</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢩</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢪</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-2468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢫</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-12468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢬</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-3468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢭</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-13468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢮</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-23468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢯</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-123468</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢰</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢱</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢲</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-2568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢳</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-12568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢴</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-3568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢵</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-13568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢶</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-23568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢷</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-123568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢸</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-4568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢹</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-14568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢺</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-24568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢻</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-124568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢼</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-34568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢽</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-134568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢾</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-234568</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⢿</string>
+        <key>Description</key>
+        <string>Braille Pattern Dots-1234568</string>
+    </dict>
+
+    
+</array>
+</plist>

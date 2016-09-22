@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>→</string>
+		<key>Description</key>
+		<string>RIGHTWARDS ARROW</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>⇒</string>
+        <key>Description</key>
+        <string>RIGHTWARDS DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇨</string>
+        <key>Description</key>
+        <string>RIGHTWARDS WHITE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇾</string>
+        <key>Description</key>
+        <string>RIGHTWARDS OPEN-HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➾</string>
+        <key>Description</key>
+        <string>OPEN-OUTLINED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇢</string>
+        <key>Description</key>
+        <string>RIGHTWARDS DASHED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☛</string>
+        <key>Description</key>
+        <string>BLACK RIGHT POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☞</string>
+        <key>Description</key>
+        <string>WHITE RIGHT POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➔</string>
+        <key>Description</key>
+        <string>HEAVY WIDE-HEADED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➜</string>
+        <key>Description</key>
+        <string>HEAVY ROUND-TIPPED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➙</string>
+        <key>Description</key>
+        <string>HEAVY RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➛</string>
+        <key>Description</key>
+        <string>DRAFTING POINT RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➝</string>
+        <key>Description</key>
+        <string>TRIANGLE-HEADED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➞</string>
+        <key>Description</key>
+        <string>HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➟</string>
+        <key>Description</key>
+        <string>DASH TRIANGLE-HEADED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➠</string>
+        <key>Description</key>
+        <string>HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➡︎</string>
+        <key>Description</key>
+        <string>BLACK RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➢</string>
+        <key>Description</key>
+        <string>THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➣</string>
+        <key>Description</key>
+        <string>THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➤</string>
+        <key>Description</key>
+        <string>BLACK RIGHTWARDS ARROWHEAD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➥</string>
+        <key>Description</key>
+        <string>HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➦</string>
+        <key>Description</key>
+        <string>HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➧</string>
+        <key>Description</key>
+        <string>SQUAT BLACK RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➨</string>
+        <key>Description</key>
+        <string>HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⥤</string>
+        <key>Description</key>
+        <string>RIGHTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB DOWN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇀</string>
+        <key>Description</key>
+        <string>RIGHTWARDS HARPOON WITH BARB UPWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇁</string>
+        <key>Description</key>
+        <string>RIGHTWARDS HARPOON WITH BARB DOWNWARDS</string>
+    </dict>
+
+    <dict>
+        <key>Name</key>
+        <string>⇰</string>
+        <key>Description</key>
+        <string>RIGHTWARDS WHITE ARROW FROM WALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➩</string>
+        <key>Description</key>
+        <string>RIGHT-SHADED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➪</string>
+        <key>Description</key>
+        <string>LEFT-SHADED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➫</string>
+        <key>Description</key>
+        <string>BLACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➬</string>
+        <key>Description</key>
+        <string>FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➭</string>
+        <key>Description</key>
+        <string>HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➮</string>
+        <key>Description</key>
+        <string>HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➯</string>
+        <key>Description</key>
+        <string>NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➱</string>
+        <key>Description</key>
+        <string>NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➲</string>
+        <key>Description</key>
+        <string>CIRCLED HEAVY WHITE RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➳</string>
+        <key>Description</key>
+        <string>WHITE-FEATHERED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➵</string>
+        <key>Description</key>
+        <string>BLACK-FEATHERED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➸</string>
+        <key>Description</key>
+        <string>HEAVY BLACK-FEATHERED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➻</string>
+        <key>Description</key>
+        <string>HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➺</string>
+        <key>Description</key>
+        <string>TEARDROP-BARBED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➼</string>
+        <key>Description</key>
+        <string>WEDGE-TAILED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>➽</string>
+        <key>Description</key>
+        <string>HEAVY WEDGE-TAILED RIGHTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇉</string>
+        <key>Description</key>
+        <string>RIGHTWARDS PAIRED ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇶</string>
+        <key>Description</key>
+        <string>THREE RIGHTWARDS ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇛</string>
+        <key>Description</key>
+        <string>RIGHTWARDS TRIPLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇏</string>
+        <key>Description</key>
+        <string>RIGHTWARDS DOUBLE ARROW WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↛</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↝</string>
+        <key>Description</key>
+        <string>RIGHTWARDS WAVE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↣</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH TAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↠</string>
+        <key>Description</key>
+        <string>RIGHTWARDS TWO HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↦</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW FROM BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇥</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW TO BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇝</string>
+        <key>Description</key>
+        <string>RIGHTWARDS SQUIGGLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↬</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH LOOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇴</string>
+        <key>Description</key>
+        <string>RIGHT ARROW WITH SMALL CIRCLE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇸</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH VERTICAL STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇻</string>
+        <key>Description</key>
+        <string>RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE</string>
+    </dict>
+    
+        </array>
+</plist>

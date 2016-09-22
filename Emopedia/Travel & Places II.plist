@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>🏣</string>
+        <key>Description</key>
+        <string>JAPANESE POST OFFICE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏤</string>
+        <key>Description</key>
+        <string>EUROPEAN POST OFFICE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏥</string>
+        <key>Description</key>
+        <string>HOSPITAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏦</string>
+        <key>Description</key>
+        <string>BANK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏨</string>
+        <key>Description</key>
+        <string>HOTEL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏩</string>
+        <key>Description</key>
+        <string>LOVE HOTEL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💒</string>
+        <key>Description</key>
+        <string>WEDDING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⛪️</string>
+        <key>Description</key>
+        <string>CHURCH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏪</string>
+        <key>Description</key>
+        <string>CONVENIENCE STORE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏫</string>
+        <key>Description</key>
+        <string>SCHOOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇦🇺</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS AU</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇦🇹</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS AT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇧🇪</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS BE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇧🇷</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS BR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇨🇦</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS CA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇨🇱</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS CL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇨🇳</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS CN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇨🇴</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS CO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇩🇰</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS DK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇫🇮</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS FI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇫🇷</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS FR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇩🇪</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS DE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇭🇰</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS HK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇮🇳</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS IN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇮🇩</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS ID</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇮🇪</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS IE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇮🇱</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS IL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇮🇹</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS IT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇯🇵</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS JP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇰🇷</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS KR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇲🇴</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS MO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇲🇾</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS MY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇲🇽</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS MX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇳🇱</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS NL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇳🇿</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS NZ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇳🇴</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS NO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇵🇭</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS PH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇵🇱</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS PL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇵🇹</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS PT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇵🇷</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS PR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇷🇺</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS RU</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇸🇦</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS SA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇸🇬</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS SG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇿🇦</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS ZA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇪🇸</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS ES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇸🇪</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS SE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇨🇭</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS CH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇹🇷</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS TR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇬🇧</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS GB</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇺🇸</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS US</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇦🇪</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS AE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🇻🇳</string>
+        <key>Description</key>
+        <string>REGIONAL INDICATOR SYMBOL LETTERS VN</string>
+    </dict>
+</array>
+</plist>

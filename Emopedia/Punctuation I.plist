@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>¡</string>
+		<key>Description</key>
+		<string>Inverted Exclamation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>!</string>
+		<key>Description</key>
+		<string>Exclamation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¿</string>
+		<key>Description</key>
+		<string>Inverted Question Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>?</string>
+		<key>Description</key>
+		<string>Question Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⸮</string>
+		<key>Description</key>
+		<string>REVERSED QUESTION MARK</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⸘</string>
+		<key>Description</key>
+		<string>Inverted Interrobang</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‽</string>
+		<key>Description</key>
+		<string>Interrobang</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>“</string>
+		<key>Description</key>
+		<string>Left Double Quotation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>”</string>
+		<key>Description</key>
+		<string>Right Double Quotation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‘</string>
+		<key>Description</key>
+		<string>Left Single Quotation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>’</string>
+		<key>Description</key>
+		<string>Right Single Quotation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‛</string>
+		<key>Description</key>
+		<string>Single High Reversed-9 Quotation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‟</string>
+		<key>Description</key>
+		<string>Double High Reversed-9 Quotation Mark</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>.</string>
+		<key>Description</key>
+		<string>Full Stop</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>,</string>
+		<key>Description</key>
+		<string>COMMA</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‚</string>
+		<key>Description</key>
+		<string>SINGLE LOW-9 QUOTATION MARK</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>„</string>
+		<key>Description</key>
+		<string>DOUBLE LOW-9 QUOTATION MARK</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>&apos;</string>
+		<key>Description</key>
+		<string>APOSTROPHE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>&quot;</string>
+		<key>Description</key>
+		<string>QUOTATION MARK</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>′</string>
+		<key>Description</key>
+		<string>PRIME</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>″</string>
+		<key>Description</key>
+		<string>DOUBLE PRIME</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>´</string>
+		<key>Description</key>
+		<string>ACUTE ACCENT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>˝</string>
+		<key>Description</key>
+		<string>DOUBLE ACUTE ACCENT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>^</string>
+		<key>Description</key>
+		<string>CIRCUMFLEX ACCENT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>°</string>
+		<key>Description</key>
+		<string>DEGREE SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¸</string>
+		<key>Description</key>
+		<string>CEDILLA</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>˛</string>
+		<key>Description</key>
+		<string>OGONEK</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¨</string>
+		<key>Description</key>
+		<string>DIAERESIS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>`</string>
+		<key>Description</key>
+		<string>GRAVE ACCENT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>˙</string>
+		<key>Description</key>
+		<string>DOT ABOVE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>˚</string>
+		<key>Description</key>
+		<string>RING ABOVE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ª</string>
+		<key>Description</key>
+		<string>FEMININE ORDINAL INDICATOR</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>º</string>
+		<key>Description</key>
+		<string>MASCULINE ORDINAL INDICATOR</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>…</string>
+		<key>Description</key>
+		<string>HORIZONTAL ELLIPSIS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>:</string>
+		<key>Description</key>
+		<string>COLON</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>;</string>
+		<key>Description</key>
+		<string>SEMICOLON</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>&amp;</string>
+		<key>Description</key>
+		<string>AMPERSAND</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>_</string>
+		<key>Description</key>
+		<string>LOW LINE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¯</string>
+		<key>Description</key>
+		<string>MACRON</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>­–­</string>
+		<key>Description</key>
+		<string>EN DASH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‑</string>
+		<key>Description</key>
+		<string>NON-BREAKING HYPHEN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>—</string>
+		<key>Description</key>
+		<string>EM DASH</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>§</string>
+		<key>Description</key>
+		<string>SECTION SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>#</string>
+		<key>Description</key>
+		<string>NUMBER SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⁊</string>
+		<key>Description</key>
+		<string>TIRONIAN SIGN ET</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¶</string>
+		<key>Description</key>
+		<string>PILCROW SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>⁋</string>
+		<key>Description</key>
+		<string>Reversed Pilcrow Sign</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>†</string>
+		<key>Description</key>
+		<string>DAGGER</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‡</string>
+		<key>Description</key>
+		<string>DOUBLE DAGGER</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>@</string>
+		<key>Description</key>
+		<string>COMMERCIAL AT</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>%</string>
+		<key>Description</key>
+		<string>PERCENT SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‰</string>
+		<key>Description</key>
+		<string>PER MILLE SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>‱</string>
+		<key>Description</key>
+		<string>PER TEN THOUSAND SIGN</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>¦</string>
+		<key>Description</key>
+		<string>BROKEN BAR</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>|</string>
+		<key>Description</key>
+		<string>VERTICAL LINE</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>/</string>
+		<key>Description</key>
+		<string>SOLIDUS</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>\</string>
+		<key>Description</key>
+		<string>REVERSE SOLIDUS</string>
+	</dict>
+</array>
+</plist>

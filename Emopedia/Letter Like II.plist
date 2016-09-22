@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>ℵ</string>
+        <key>Description</key>
+        <string>ALEF SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℶ</string>
+        <key>Description</key>
+        <string>BET SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℷ</string>
+        <key>Description</key>
+        <string>GIMEL SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℸ</string>
+        <key>Description</key>
+        <string>DALET SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℹ︎</string>
+        <key>Description</key>
+        <string>INFORMATION SOURCE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>℺</string>
+        <key>Description</key>
+        <string>ROTATED CAPITAL Q</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℽ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK SMALL GAMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℾ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL GAMMA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ℿ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK CAPITAL PI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅀</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK N-ARY-SUMMATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅁</string>
+        <key>Description</key>
+        <string>TURNED SANS-SERIF CAPITAL G</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅂</string>
+        <key>Description</key>
+        <string>TURNED SANS-SERIF CAPITAL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅃</string>
+        <key>Description</key>
+        <string>REVERSED SANS-SERIF CAPITAL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅄</string>
+        <key>Description</key>
+        <string>TURNED SANS-SERIF CAPITAL Y</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅅ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK ITALIC CAPITAL D</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅆ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK ITALIC SMALL D</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅇ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK ITALIC SMALL E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅈ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK ITALIC SMALL I</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅉ</string>
+        <key>Description</key>
+        <string>DOUBLE-STRUCK ITALIC SMALL J</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅊</string>
+        <key>Description</key>
+        <string>PROPERTY LINE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⅋</string>
+        <key>Description</key>
+        <string>TURNED AMPERSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>µ</string>
+        <key>Description</key>
+        <string>MICRO SIGN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅼ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL FIFTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅽ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL ONE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅾ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL FIVE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ⅿ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL ONE THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅼ</string>
+        <key>Description</key>
+        <string>SMALL ROMAN NUMERAL FIFTY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅽ</string>
+        <key>Description</key>
+        <string>SMALL ROMAN NUMERAL ONE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅾ</string>
+        <key>Description</key>
+        <string>SMALL ROMAN NUMERAL FIVE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ⅿ</string>
+        <key>Description</key>
+        <string>SMALL ROMAN NUMERAL ONE THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ↀ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL ONE THOUSAND C D</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ↁ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL FIVE THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ↂ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL TEN THOUSAND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Ↄ</string>
+        <key>Description</key>
+        <string>ROMAN NUMERAL REVERSED ONE HUNDRED</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎀</string>
+        <key>Description</key>
+        <string>SQUARE PA AMPS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎁</string>
+        <key>Description</key>
+        <string>SQUARE NA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎂</string>
+        <key>Description</key>
+        <string>SQUARE MU A</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎃</string>
+        <key>Description</key>
+        <string>SQUARE MA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎄</string>
+        <key>Description</key>
+        <string>SQUARE KA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎅</string>
+        <key>Description</key>
+        <string>SQUARE KB</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎆</string>
+        <key>Description</key>
+        <string>SQUARE MB</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎇</string>
+        <key>Description</key>
+        <string>SQUARE GB</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎈</string>
+        <key>Description</key>
+        <string>SQUARE CAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎉</string>
+        <key>Description</key>
+        <string>SQUARE KCAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎊</string>
+        <key>Description</key>
+        <string>SQUARE PF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎋</string>
+        <key>Description</key>
+        <string>SQUARE NF</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎌</string>
+        <key>Description</key>
+        <string>SQUARE MU F</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎍</string>
+        <key>Description</key>
+        <string>SQUARE MU G</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎎</string>
+        <key>Description</key>
+        <string>SQUARE MG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎏</string>
+        <key>Description</key>
+        <string>SQUARE KG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎐</string>
+        <key>Description</key>
+        <string>SQUARE HZ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎑</string>
+        <key>Description</key>
+        <string>SQUARE KHZ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎒</string>
+        <key>Description</key>
+        <string>SQUARE MHZ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎓</string>
+        <key>Description</key>
+        <string>SQUARE GHZ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎔</string>
+        <key>Description</key>
+        <string>SQUARE THZ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎕</string>
+        <key>Description</key>
+        <string>SQUARE MU L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎖</string>
+        <key>Description</key>
+        <string>SQUARE ML</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎗</string>
+        <key>Description</key>
+        <string>SQUARE DL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎘</string>
+        <key>Description</key>
+        <string>SQUARE KL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎙</string>
+        <key>Description</key>
+        <string>SQUARE FM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎚</string>
+        <key>Description</key>
+        <string>SQUARE NM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎛</string>
+        <key>Description</key>
+        <string>SQUARE MU M</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎜</string>
+        <key>Description</key>
+        <string>SQUARE MM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎝</string>
+        <key>Description</key>
+        <string>SQUARE CM</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>㎞</string>
+        <key>Description</key>
+        <string>SQUARE KM</string>
+    </dict>
+
+</array>
+</plist>

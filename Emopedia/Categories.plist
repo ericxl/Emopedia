@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Frequently Used</string>
+		<key>Description</key>
+		<string>◴</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>People I</string>
+		<key>Description</key>
+		<string>😀</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>People II</string>
+		<key>Description</key>
+		<string>👍</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nature I</string>
+		<key>Description</key>
+		<string>🌲</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Nature II</string>
+        <key>Description</key>
+        <string>🔥</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Food &amp; Drink</string>
+		<key>Description</key>
+		<string>☕️</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Celebration</string>
+		<key>Description</key>
+		<string>🎉</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Activity</string>
+		<key>Description</key>
+		<string>🏀</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Travel &amp; Places I</string>
+		<key>Description</key>
+		<string>✈️</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Travel &amp; Places II</string>
+        <key>Description</key>
+        <string>🇺🇸</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Objects I</string>
+		<key>Description</key>
+		<string>⌚️</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Objects II</string>
+        <key>Description</key>
+        <string>📦</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Symbols I</string>
+		<key>Description</key>
+		<string>🚫</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Symbols II</string>
+        <key>Description</key>
+        <string>▶️</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Symbols I</string>
+        <key>Description</key>
+        <string>🕒</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Pictographs I</string>
+		<key>Description</key>
+		<string></string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Pictographs II</string>
+        <key>Description</key>
+        <string>☯</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Sign</string>
+        <key>Description</key>
+        <string>♻︎</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Currency</string>
+        <key>Description</key>
+        <string>$</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Geometry I</string>
+        <key>Description</key>
+        <string>◈</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Geometry II</string>
+        <key>Description</key>
+        <string>◧</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Arrows I</string>
+        <key>Description</key>
+        <string>→</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Arrows II</string>
+        <key>Description</key>
+        <string>←</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Arrows III</string>
+        <key>Description</key>
+        <string>↔︎</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Bullets I</string>
+		<key>Description</key>
+		<string>✤</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Bullets II</string>
+        <key>Description</key>
+        <string>❀</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Technical I</string>
+        <key>Description</key>
+        <string>⌘</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Technical II</string>
+        <key>Description</key>
+        <string>⍟</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Technical III</string>
+        <key>Description</key>
+        <string>⏃</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Math I</string>
+		<key>Description</key>
+		<string>∞</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Math II</string>
+        <key>Description</key>
+        <string>∫</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Math III</string>
+        <key>Description</key>
+        <string>⊗</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Math IV</string>
+        <key>Description</key>
+        <string>⊾</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Math V</string>
+        <key>Description</key>
+        <string>⋰</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Letter Like I</string>
+		<key>Description</key>
+		<string>№</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Letter Like II</string>
+        <key>Description</key>
+        <string>ℳ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Letter Like III</string>
+        <key>Description</key>
+        <string>㎏</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Digits I</string>
+		<key>Description</key>
+		<string>①</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Digits II</string>
+        <key>Description</key>
+        <string>⓵</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Digits III</string>
+        <key>Description</key>
+        <string>ↀ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Box Drawing I</string>
+        <key>Description</key>
+        <string>┮</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Box Drawing II</string>
+        <key>Description</key>
+        <string>╥</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Parentheses I</string>
+        <key>Description</key>
+        <string>()</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Parentheses II</string>
+        <key>Description</key>
+        <string>⎡⎤</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Punctuation I</string>
+		<key>Description</key>
+		<string>.,</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Punctuation II</string>
+        <key>Description</key>
+        <string>❣</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Punctuation III</string>
+        <key>Description</key>
+        <string>⁂</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet I</string>
+        <key>Description</key>
+        <string>æ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet II</string>
+        <key>Description</key>
+        <string>œ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet III</string>
+        <key>Description</key>
+        <string>ʤ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet IV</string>
+        <key>Description</key>
+        <string>˸</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet V</string>
+        <key>Description</key>
+        <string>ᴓ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet VI</string>
+        <key>Description</key>
+        <string>Φ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet VII</string>
+        <key>Description</key>
+        <string>ᶍ</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Phonetic Alphabet VIII</string>
+        <key>Description</key>
+        <string>꜔</string>
+    </dict>
+	<dict>
+		<key>Name</key>
+		<string>Braille Patterns I</string>
+		<key>Description</key>
+		<string>⠿</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>Braille Patterns II</string>
+        <key>Description</key>
+        <string>⡿</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Braille Patterns III</string>
+        <key>Description</key>
+        <string>⢿</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>Braille Patterns IV</string>
+        <key>Description</key>
+        <string>⣿</string>
+    </dict>
+</array>
+</plist>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>♈︎</string>
+        <key>Description</key>
+        <string>Aires</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♉︎</string>
+        <key>Description</key>
+        <string>Taurus</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♊︎</string>
+        <key>Description</key>
+        <string>Gemini</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♋︎</string>
+        <key>Description</key>
+        <string>Cancer</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♌︎</string>
+        <key>Description</key>
+        <string>Leo</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♍︎</string>
+        <key>Description</key>
+        <string>Vrigo</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♎︎</string>
+        <key>Description</key>
+        <string>Libra</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♏︎</string>
+        <key>Description</key>
+        <string>Scorpius</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♐︎</string>
+        <key>Description</key>
+        <string>Sagittarius</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♑︎</string>
+        <key>Description</key>
+        <string>Capricorn</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♒︎</string>
+        <key>Description</key>
+        <string>Aquarius</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♓︎</string>
+        <key>Description</key>
+        <string>Pisces</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☉</string>
+        <key>Description</key>
+        <string>Sun</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☿</string>
+        <key>Description</key>
+        <string>Mercury</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♀</string>
+        <key>Description</key>
+        <string>Female Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♁</string>
+        <key>Description</key>
+        <string>Earth</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♂</string>
+        <key>Description</key>
+        <string>Male Sign</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♃</string>
+        <key>Description</key>
+        <string>Jupiter</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♄</string>
+        <key>Description</key>
+        <string>Saturn</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♅</string>
+        <key>Description</key>
+        <string>Uranus</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♆</string>
+        <key>Description</key>
+        <string>Neptune</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♇</string>
+        <key>Description</key>
+        <string>Pluto</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☄</string>
+        <key>Description</key>
+        <string>Comet</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☊</string>
+        <key>Description</key>
+        <string>Ascending Node</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☋</string>
+        <key>Description</key>
+        <string>Descending Node</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☌</string>
+        <key>Description</key>
+        <string>Conjunction</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☍</string>
+        <key>Description</key>
+        <string>Opposition</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✦</string>
+        <key>Description</key>
+        <string>Black Four Pointed Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✧</string>
+        <key>Description</key>
+        <string>White Four Pointed Star</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✙</string>
+        <key>Description</key>
+        <string>Outlined Greek Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✚</string>
+        <key>Description</key>
+        <string>Heavy Greek Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✛</string>
+        <key>Description</key>
+        <string>Open Centre Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✜</string>
+        <key>Description</key>
+        <string>Heavy Open Centre Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✝</string>
+        <key>Description</key>
+        <string>Latin Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✞</string>
+        <key>Description</key>
+        <string>Shadowed White Latin Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✟</string>
+        <key>Description</key>
+        <string>Outlined Latin Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✠</string>
+        <key>Description</key>
+        <string>Maltese Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☦</string>
+        <key>Description</key>
+        <string>Orthodox Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☨</string>
+        <key>Description</key>
+        <string>Cross Of Lorraine</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☩</string>
+        <key>Description</key>
+        <string>Cross Of Jerusalem</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☥</string>
+        <key>Description</key>
+        <string>Ankh</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♰</string>
+        <key>Description</key>
+        <string>West Syriac Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>♱</string>
+        <key>Description</key>
+        <string>East Syriac Cross</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☓</string>
+        <key>Description</key>
+        <string>Saltire</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚜</string>
+        <key>Description</key>
+        <string>Fleur De Lis</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☤</string>
+        <key>Description</key>
+        <string>Caduceus</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚚</string>
+        <key>Description</key>
+        <string>Staff Of Hermes</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚕</string>
+        <key>Description</key>
+        <string>Staff Of Aesculapius</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚖</string>
+        <key>Description</key>
+        <string>Scales</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚗</string>
+        <key>Description</key>
+        <string>Alembic</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚛</string>
+        <key>Description</key>
+        <string>Atom Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☧</string>
+        <key>Description</key>
+        <string>Chi Rho</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚒</string>
+        <key>Description</key>
+        <string>Hammer And Pick</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☭</string>
+        <key>Description</key>
+        <string>Hammer And Sickle</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☪</string>
+        <key>Description</key>
+        <string>Star And Crescent</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☫</string>
+        <key>Description</key>
+        <string>Farsi Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☬</string>
+        <key>Description</key>
+        <string>Adi Shakti</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚑</string>
+        <key>Description</key>
+        <string>Black Flag</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚐</string>
+        <key>Description</key>
+        <string>White Flag</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☮</string>
+        <key>Description</key>
+        <string>Peace Symbol</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☯</string>
+        <key>Description</key>
+        <string>Yin Yang</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☸</string>
+        <key>Description</key>
+        <string>Wheel Of Dharma</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚔</string>
+        <key>Description</key>
+        <string>Crossed Swords</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☗</string>
+        <key>Description</key>
+        <string>Black Shogi Piece</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☖</string>
+        <key>Description</key>
+        <string>White Shogi Piece</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚈</string>
+        <key>Description</key>
+        <string>Black Circle With White Dot Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚉</string>
+        <key>Description</key>
+        <string>Black Circle With Two White Dots</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚆</string>
+        <key>Description</key>
+        <string>White Circle With Dot Right</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⚇</string>
+        <key>Description</key>
+        <string>White Circle With Two Dots</string>
+    </dict>
+</array>
+</plist>

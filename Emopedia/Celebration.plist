@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>🎀</string>
+		<key>Description</key>
+		<string>RIBBON</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>🎁</string>
+        <key>Description</key>
+        <string>WRAPPED PRESENT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎂</string>
+        <key>Description</key>
+        <string>BIRTHDAY CAKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎃</string>
+        <key>Description</key>
+        <string>JACK-O-LANTERN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎄</string>
+        <key>Description</key>
+        <string>CHRISTMAS TREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎋</string>
+        <key>Description</key>
+        <string>TANABATA TREE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎍</string>
+        <key>Description</key>
+        <string>PINE DECORATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎑</string>
+        <key>Description</key>
+        <string>MOON VIEWING CEREMONY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎆</string>
+        <key>Description</key>
+        <string>FIREWORKS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎇</string>
+        <key>Description</key>
+        <string>FIREWORK SPARKLER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎉</string>
+        <key>Description</key>
+        <string>PARTY POPPER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎊</string>
+        <key>Description</key>
+        <string>CONFETTI BALL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎈</string>
+        <key>Description</key>
+        <string>BALLOON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💫</string>
+        <key>Description</key>
+        <string>DIZZY SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✨</string>
+        <key>Description</key>
+        <string>SPARKLES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💥</string>
+        <key>Description</key>
+        <string>COLLISION SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎓</string>
+        <key>Description</key>
+        <string>GRADUATION CAP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>👑</string>
+        <key>Description</key>
+        <string>CROWN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎎</string>
+        <key>Description</key>
+        <string>JAPANESE DOLLS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎏</string>
+        <key>Description</key>
+        <string>CARP STREAMER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎐</string>
+        <key>Description</key>
+        <string>WIND CHIME</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🎌</string>
+        <key>Description</key>
+        <string>CROSSED FLAGS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🏮</string>
+        <key>Description</key>
+        <string>IZAKAYA LANTERN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💍</string>
+        <key>Description</key>
+        <string>RING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>❤️</string>
+        <key>Description</key>
+        <string>HEAVY BLACK HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💔</string>
+        <key>Description</key>
+        <string>BROKEN HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💌</string>
+        <key>Description</key>
+        <string>LOVE LETTER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💕</string>
+        <key>Description</key>
+        <string>TWO HEARTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💞</string>
+        <key>Description</key>
+        <string>REVOLVING HEARTS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💓</string>
+        <key>Description</key>
+        <string>BEATING HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💗</string>
+        <key>Description</key>
+        <string>GROWING HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💖</string>
+        <key>Description</key>
+        <string>SPARKLING HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💘</string>
+        <key>Description</key>
+        <string>HEART WITH ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💝</string>
+        <key>Description</key>
+        <string>HEART WITH RIBBON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💟</string>
+        <key>Description</key>
+        <string>HEART DECORATION</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💜</string>
+        <key>Description</key>
+        <string>PURPLE HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💛</string>
+        <key>Description</key>
+        <string>YELLOW HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💚</string>
+        <key>Description</key>
+        <string>GREEN HEART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💙</string>
+        <key>Description</key>
+        <string>BLUE HEART</string>
+    </dict>
+</array>
+</plist>

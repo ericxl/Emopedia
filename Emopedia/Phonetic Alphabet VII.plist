@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>ᶈ</string>
+		<key>Description</key>
+		<string>LATIN SMALL LETTER P WITH HOOK</string>
+	</dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶉ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER R WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶊ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER S WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶋ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER ESH WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶌ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER V WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶍ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER X WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶎ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER Z WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶏ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER A WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶐ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER ALPHA WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶑ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER D WITH HOOK AND TAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶒ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER E WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶓ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER OPEN E WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶔ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER REVERSED OPEN E WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶕ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER SCHWA WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶖ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER I WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶗ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER OPEN O WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶘ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER ESH WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶙ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER U WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶚ</string>
+        <key>Description</key>
+        <string>LATIN SMALL LETTER EZH WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶛ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL TURNED ALPHA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶜ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL C</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶝ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL C WITH CURL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶞ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL ETH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶟ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL REVERSED OPEN E</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶠ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL F</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶡ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL DOTLESS J WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶢ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL SCRIPT G</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶣ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL TURNED H</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶤ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL I WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶥ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL IOTA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶦ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL CAPITAL I</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶧ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL CAPITAL I WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶨ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL J WITH CROSSED-TAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶩ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL L WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶪ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL L WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶫ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL CAPITAL L</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶬ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL M WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶭ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL TURNED M WITH LONG LEG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶮ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL N WITH LEFT HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶯ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL N WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶰ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL CAPITAL N</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶱ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL BARRED O</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶲ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL PHI</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶳ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL S WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶴ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL ESH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶵ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL T WITH PALATAL HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶶ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL U BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶷ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL UPSILON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶸ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL CAPITAL U</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶹ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL V WITH HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶺ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL TURNED V</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶻ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL Z</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶼ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL Z WITH RETROFLEX HOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶽ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL Z WITH CURL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶾ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL EZH</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>ᶿ</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER SMALL THETA</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜀</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YIN PING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜁</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YANG PING</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜂</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YIN SHANG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜃</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YANG SHANG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜄</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YIN QU</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜅</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YANG QU</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜆</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YIN RU</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>꜇</string>
+        <key>Description</key>
+        <string>MODIFIER LETTER CHINESE TONE YANG RU</string>
+    </dict>
+</array>
+</plist>

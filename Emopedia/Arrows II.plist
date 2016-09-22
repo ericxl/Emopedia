@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>←</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇐</string>
+        <key>Description</key>
+        <string>LEFTWARDS DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇦</string>
+        <key>Description</key>
+        <string>LEFTWARDS WHITE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇽</string>
+        <key>Description</key>
+        <string>LEFTWARDS OPEN-HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇠</string>
+        <key>Description</key>
+        <string>LEFTWARDS DASHED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☚</string>
+        <key>Description</key>
+        <string>BLACK LEFT POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☜</string>
+        <key>Description</key>
+        <string>WHITE LEFT POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬅︎</string>
+        <key>Description</key>
+        <string>LEFTWARDS BLACK ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⥢</string>
+        <key>Description</key>
+        <string>LEFTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB DOWN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↼</string>
+        <key>Description</key>
+        <string>LEFTWARDS HARPOON WITH BARB UPWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↽</string>
+        <key>Description</key>
+        <string>LEFTWARDS HARPOON WITH BARB DOWNWARDS</string>
+    </dict>
+    
+    <dict>
+        <key>Name</key>
+        <string>↚</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↜</string>
+        <key>Description</key>
+        <string>LEFTWARDS WAVE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↢</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH TAIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↞</string>
+        <key>Description</key>
+        <string>LEFTWARDS TWO HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↤</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW FROM BAR</string>
+    </dict>
+    
+    <dict>
+        <key>Name</key>
+        <string>⇇</string>
+        <key>Description</key>
+        <string>LEFTWARDS PAIRED ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇤</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW TO BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇚</string>
+        <key>Description</key>
+        <string>LEFTWARDS TRIPLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇍</string>
+        <key>Description</key>
+        <string>LEFTWARDS DOUBLE ARROW WITH STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇜</string>
+        <key>Description</key>
+        <string>LEFTWARDS SQUIGGLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↫</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH LOOP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇷</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH VERTICAL STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇺</string>
+        <key>Description</key>
+        <string>LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↑</string>
+        <key>Description</key>
+        <string>UPWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇑</string>
+        <key>Description</key>
+        <string>UPWARDS DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇡</string>
+        <key>Description</key>
+        <string>UPWARDS DASHED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☝︎</string>
+        <key>Description</key>
+        <string>WHITE UP POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬆︎</string>
+        <key>Description</key>
+        <string>UPWARDS BLACK ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇧</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇪</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE ARROW FROM BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⥣</string>
+        <key>Description</key>
+        <string>UPWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↟</string>
+        <key>Description</key>
+        <string>UPWARDS TWO HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↾</string>
+        <key>Description</key>
+        <string>UPWARDS HARPOON WITH BARB RIGHTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↿</string>
+        <key>Description</key>
+        <string>UPWARDS HARPOON WITH BARB LEFTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↥</string>
+        <key>Description</key>
+        <string>UPWARDS ARROW FROM BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇫</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE ARROW ON PEDESTAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇬</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇭</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇮</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇯</string>
+        <key>Description</key>
+        <string>UPWARDS WHITE DOUBLE ARROW ON PEDESTAL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇈</string>
+        <key>Description</key>
+        <string>UPWARDS PAIRED ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇞</string>
+        <key>Description</key>
+        <string>UPWARDS ARROW WITH DOUBLE STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↓</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇓</string>
+        <key>Description</key>
+        <string>DOWNWARDS DOUBLE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇩</string>
+        <key>Description</key>
+        <string>DOWNWARDS WHITE ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇣</string>
+        <key>Description</key>
+        <string>DOWNWARDS DASHED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>☟</string>
+        <key>Description</key>
+        <string>WHITE DOWN POINTING INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⬇︎</string>
+        <key>Description</key>
+        <string>DOWNWARDS BLACK ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⥥</string>
+        <key>Description</key>
+        <string>DOWNWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↑</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↡</string>
+        <key>Description</key>
+        <string>DOWNWARDS TWO HEADED ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇂</string>
+        <key>Description</key>
+        <string>DOWNWARDS HARPOON WITH BARB RIGHTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇃</string>
+        <key>Description</key>
+        <string>DOWNWARDS HARPOON WITH BARB LEFTWARDS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇊</string>
+        <key>Description</key>
+        <string>DOWNWARDS PAIRED ARROWS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↧</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW FROM BAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>↯</string>
+        <key>Description</key>
+        <string>DOWNWARDS ZIGZAG ARROW</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>⇟</string>
+        <key>Description</key>
+        <string>DOWNWARDS ARROW WITH DOUBLE STROKE</string>
+    </dict>
+
+</array>
+</plist>

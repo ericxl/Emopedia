@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Name</key>
+        <string>✉️</string>
+        <key>Description</key>
+        <string>ENVELOPE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📩</string>
+        <key>Description</key>
+        <string>ENVELOPE WITH DOWNWARDS ARROW ABOVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📨</string>
+        <key>Description</key>
+        <string>INCOMING ENVELOPE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📧</string>
+        <key>Description</key>
+        <string>E-MAIL SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📥</string>
+        <key>Description</key>
+        <string>INBOX TRAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📤</string>
+        <key>Description</key>
+        <string>OUTBOX TRAY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📦</string>
+        <key>Description</key>
+        <string>PACKAGE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📯</string>
+        <key>Description</key>
+        <string>POSTAL HORN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📮</string>
+        <key>Description</key>
+        <string>POSTBOX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📪</string>
+        <key>Description</key>
+        <string>CLOSED MAILBOX WITH LOWERED FLAG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📫</string>
+        <key>Description</key>
+        <string>CLOSED MAILBOX WITH RAISED FLAG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📬</string>
+        <key>Description</key>
+        <string>OPEN MAILBOX WITH RAISED FLAG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📭</string>
+        <key>Description</key>
+        <string>OPEN MAILBOX WITH LOWERED FLAG</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📄</string>
+        <key>Description</key>
+        <string>PAGE FACING UP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📃</string>
+        <key>Description</key>
+        <string>PAGE WITH CURL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📑</string>
+        <key>Description</key>
+        <string>BOOKMARK TABS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📈</string>
+        <key>Description</key>
+        <string>CHART WITH UPWARDS TREND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📉</string>
+        <key>Description</key>
+        <string>CHART WITH DOWNWARDS TREND</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📊</string>
+        <key>Description</key>
+        <string>BAR CHART</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📅</string>
+        <key>Description</key>
+        <string>CALENDAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📆</string>
+        <key>Description</key>
+        <string>TEAR-OFF CALENDAR</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔅</string>
+        <key>Description</key>
+        <string>LOW BRIGHTNESS SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔆</string>
+        <key>Description</key>
+        <string>HIGH BRIGHTNESS SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📜</string>
+        <key>Description</key>
+        <string>SCROLL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📋</string>
+        <key>Description</key>
+        <string>CLIPBOARD</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📖</string>
+        <key>Description</key>
+        <string>OPEN BOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📓</string>
+        <key>Description</key>
+        <string>NOTEBOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📔</string>
+        <key>Description</key>
+        <string>NOTEBOOK WITH DECORATIVE COVER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📒</string>
+        <key>Description</key>
+        <string>LEDGER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📕</string>
+        <key>Description</key>
+        <string>CLOSED BOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📗</string>
+        <key>Description</key>
+        <string>GREEN BOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📘</string>
+        <key>Description</key>
+        <string>BLUE BOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📙</string>
+        <key>Description</key>
+        <string>ORANGE BOOK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📚</string>
+        <key>Description</key>
+        <string>BOOKS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📇</string>
+        <key>Description</key>
+        <string>CARD INDEX</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔗</string>
+        <key>Description</key>
+        <string>LINK SYMBOL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📎</string>
+        <key>Description</key>
+        <string>PAPERCLIP</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📌</string>
+        <key>Description</key>
+        <string>PUSHPIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✂️</string>
+        <key>Description</key>
+        <string>BLACK SCISSORS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📐</string>
+        <key>Description</key>
+        <string>TRIANGULAR RULER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📍</string>
+        <key>Description</key>
+        <string>ROUND PUSHPIN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📏</string>
+        <key>Description</key>
+        <string>STRAIGHT RULER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🚩</string>
+        <key>Description</key>
+        <string>TRIANGULAR FLAG ON POST</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📁</string>
+        <key>Description</key>
+        <string>FILE FOLDER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📂</string>
+        <key>Description</key>
+        <string>OPEN FILE FOLDER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✒️</string>
+        <key>Description</key>
+        <string>BLACK NIB</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>✏️</string>
+        <key>Description</key>
+        <string>PENCIL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📝</string>
+        <key>Description</key>
+        <string>MEMO</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔏</string>
+        <key>Description</key>
+        <string>LOCK WITH INK PEN</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔐</string>
+        <key>Description</key>
+        <string>CLOSED LOCK WITH KEY</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔒</string>
+        <key>Description</key>
+        <string>LOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔓</string>
+        <key>Description</key>
+        <string>OPEN LOCK</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📣</string>
+        <key>Description</key>
+        <string>CHEERING MEGAPHONE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>📢</string>
+        <key>Description</key>
+        <string>PUBLIC ADDRESS LOUDSPEAKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔈</string>
+        <key>Description</key>
+        <string>SPEAKER</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔉</string>
+        <key>Description</key>
+        <string>SPEAKER WITH ONE SOUND WAVE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔊</string>
+        <key>Description</key>
+        <string>SPEAKER WITH THREE SOUND WAVES</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔇</string>
+        <key>Description</key>
+        <string>SPEAKER WITH CANCELLATION STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔔</string>
+        <key>Description</key>
+        <string>BELL</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔕</string>
+        <key>Description</key>
+        <string>BELL WITH CANCELLATION STROKE</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💭</string>
+        <key>Description</key>
+        <string>THOUGHT BALLOON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>💬</string>
+        <key>Description</key>
+        <string>SPEECH BALLOON</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔍</string>
+        <key>Description</key>
+        <string>LEFT-POINTING MAGNIFYING GLASS</string>
+    </dict>
+    <dict>
+        <key>Name</key>
+        <string>🔎</string>
+        <key>Description</key>
+        <string>RIGHT-POINTING MAGNIFYING GLASS</string>
+    </dict>
+
+</array>
+</plist>
